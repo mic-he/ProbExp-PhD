@@ -1,0 +1,88 @@
+<script>
+    function myClick(){ //function called when "submit" is clicked
+            var control = document.getElementById("control");
+            if (control.value!=10) { //it checks that the answer is correct: if it's not...
+                alert("That's the wrong answer! Please check again.");                
+            }
+            else { //if it is...
+                document.getElementById("submit").style.display='none'; //submit button is hidden
+                document.getElementById("correct").style.display='block'; //feedback is provided to the subject
+                document.getElementById("begin").style.display='block'; //begin experiment button is shown                
+            }
+    }
+</script>
+
+<div id="container-instructions">
+
+    <h1>Instructions</h1>
+    
+    <hr>
+
+    <div class="instructions well">
+
+        <p>This experiment is an interactive two player game of chance. The players cooperate to place bets on the content of an urn.</p>
+        <p>Here's some examples of urns:</p>
+        <p align="left">
+            <table class='tg2'>
+                <tr>
+                    <th class="th1"><img src="/static/images/example1.png" height="139" width="126"></th>
+                    <th class="th1"><img src="/static/images/example2.png" height="139" width="126"></th>
+                    <th class="th1"><img src="/static/images/example3.png" height="139" width="126"></th>
+                    <th class="th1"><img src="/static/images/example4.png" height="139" width="126"></th>
+                </tr>
+            </table>
+        </p>
+        <p>Both players know that the urn always contains 10 balls of one or more colors.</p>
+        <p>One player (the sender) is allowed to look inside the urn. But he or she cannot place bets.</p>
+        <p>Another player (the receiver) can ask one question to the sender before placing his or her bet.</p>
+    </div>
+    
+    <div >
+        <p>When you are ready to begin, please answer the following question and click on the button below.</p>
+    
+        <table class="tg">
+          <tr>
+            <th class="tg-031e"><p>How many balls are there in the urn?</p></th>
+            <th class="tg-yw4l" style="vertical-align:top"><input class="textBox" id="control" type="text" maxlength="3" required/></th>
+          </tr>
+        </table>  
+
+    </div>
+
+
+    
+    <div class="instructionsnav" id="correct" style="display:none;">
+        <center>Correct!</center>
+    </div>
+    
+    <div class="instructionsnav" id="submit" style="display:block;">
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+                <center>
+                    <button type="button" id="next00" value="Submit" class="btn btn-primary btn-lg" onclick="myClick()">
+                    Submit
+                    </button>
+                </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>    
+
+    <div class="instructionsnav" id="begin" style="display:none;">
+        <hr>
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next" value="next" class="btn btn-success btn-lg continue">
+	                Begin Experiment
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+</div>
+
+

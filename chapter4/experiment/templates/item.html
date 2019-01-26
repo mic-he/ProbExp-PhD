@@ -1,0 +1,47 @@
+<div id="container-exp">
+    <div id="trial">      
+
+        <div id="dialogue">
+            <p><span id="pic"></span></p> <!--replaced by insertLines, defined in experiment.js-->
+        </div>
+        
+        <div id="dialogue">
+            <p><span id="scenario"></span></p>
+            <p><span> How many <b>red balls</b> do you think there are in the urn <b>in total</b>?</span></p>
+                
+            <table>
+                <tbody>
+                    <tr id="sliders">
+                    <td id="slider-after" height="42" width="150">Certain</td>
+                    </tr>
+
+                    <tr>
+                      <td height="41">Likely</td>
+                    </tr>
+                    <tr>
+                      <td height="41">Neutral</td>
+                    </tr>
+                    <tr>
+                       <td height="41">Unlikely</td>
+                    </tr>
+                    <tr>
+                        <td height="41">Impossible</td>
+                    </tr>
+
+                  <tr id="bins">
+                    <td id="bin-after" width="150"></td>
+                  </tr>
+                </tbody>
+           </table>
+            
+            <p><span style="font-weight: lighter">(for each quantity, please adjust the slider in the way that best corresponds to your intuition)</span></p>
+
+            <hr>
+            <button id="answered" class="btn btn-success btn-lg">Next</button>
+            <p><i><span id="percentage"></span> % completed.</i></p>
+        </div>
+        
+        
+    </div>    
+    
+</div>

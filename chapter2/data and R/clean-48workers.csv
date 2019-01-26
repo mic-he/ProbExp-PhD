@@ -1,0 +1,913 @@
+"id","itemTime","trial.","kind","option","trainingMessage","color","scenario","qud","value","askedQuestion","bet","sentExpression","RT","language","comments","engagement","difficulty","passed.control","overall.control.score"
+"AJODD1253X",1500319284937,1,"training","multibet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",14346,"English",NA,10,5,NA,4
+"AJODD1253X",1500319291443,2,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",6506,"English",NA,10,5,NA,4
+"AJODD1253X",1500319295870,3,"training","singlebet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",4417,"English",NA,10,5,NA,4
+"AJODD1253X",1500319310496,4,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",6120,"English",NA,10,5,NA,4
+"AJODD1253X",1500319316282,5,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",5775,"English",NA,10,5,NA,4
+"AJODD1253X",1500319321522,6,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",5230,"English",NA,10,5,NA,4
+"AJODD1253X",1500319324906,7,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",3383,"English",NA,10,5,NA,4
+"AJODD1253X",1500319329672,8,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",4757,"English",NA,10,5,1,4
+"AJODD1253X",1500319333502,9,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",3830,"English",NA,10,5,NA,4
+"AJODD1253X",1500319336722,10,"trial","nomatter","nomatter","red","dual","wh","0","dots","dots","certNot",3210,"English",NA,10,5,1,4
+"AJODD1253X",1500319341068,11,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",4336,"English",NA,10,5,NA,4
+"AJODD1253X",1500319343788,12,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",2710,"English",NA,10,5,NA,4
+"AJODD1253X",1500319346571,13,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2773,"English",NA,10,5,NA,4
+"AJODD1253X",1500319349228,14,"trial","nomatter","nomatter","blue","dual","polar","10","dots","dots","cert",2647,"English",NA,10,5,1,4
+"AJODD1253X",1500319352793,15,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",3553,"English",NA,10,5,NA,4
+"AJODD1253X",1500319355561,16,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",2758,"English",NA,10,5,NA,4
+"AJODD1253X",1500319358091,17,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",2530,"English",NA,10,5,NA,4
+"AJODD1253X",1500319361818,18,"trial","nomatter","nomatter","black","plural","polar","10","dots","dots","cert",3716,"English",NA,10,5,1,4
+"AJODD1253X",1500319366547,19,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",4723,"English",NA,10,5,NA,4
+"AYVJH6361V",1500319820210,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",16189,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319828477,2,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",8265,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319836704,3,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","dont","dots",8225,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319852465,4,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",8308,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319856199,5,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",3732,"English",NA,2,2,1,4
+"AYVJH6361V",1500319859549,6,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",3347,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319862468,7,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",2916,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319865234,8,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",2764,"English",NA,2,2,1,4
+"AYVJH6361V",1500319867852,9,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",2615,"English",NA,2,2,1,4
+"AYVJH6361V",1500319870179,10,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",2324,"English",NA,2,2,1,4
+"AYVJH6361V",1500319872756,11,"trial","nomatter","nomatter","black","dual","wh","4","dots","dots","probNot",2574,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319875073,12,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",2314,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319876769,13,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",1693,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319878922,14,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",2150,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319880860,15,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",1935,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319884143,16,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",3280,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319886613,17,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",2467,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319888671,18,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",2057,"English",NA,2,2,NA,4
+"AYVJH6361V",1500319890937,19,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",2263,"English",NA,2,2,NA,4
+"DDTIH8759G",1500315711982,1,"training","singlebet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",23476,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315736709,2,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",24725,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315753418,3,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",16708,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315782705,4,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",16214,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315795085,5,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",12376,"English",NA,10,0,1,4
+"DDTIH8759G",1500315803651,6,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","probNot",8563,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315812043,7,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",8390,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315818042,8,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",5996,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315826234,9,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",8191,"English",NA,10,0,1,4
+"DDTIH8759G",1500315830642,10,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",4405,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315837524,11,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",6879,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315841850,12,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",4323,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315850687,13,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","probNot",8834,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315858223,14,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",7532,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315863231,15,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",5004,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315868415,16,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",5181,"English",NA,10,0,1,4
+"DDTIH8759G",1500315874043,17,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",5625,"English",NA,10,0,NA,4
+"DDTIH8759G",1500315881001,18,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",6955,"English",NA,10,0,1,4
+"DDTIH8759G",1500315885865,19,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",4861,"English",NA,10,0,NA,4
+"DOLIS9648A",1500316276564,1,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",25909,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316290067,2,"training","singlebet","probNot","red","nomatter","nomatter","nomatter","wh","dont","dots",13500,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316309282,3,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",19213,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316325938,4,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",13086,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316330217,5,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",4274,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316337489,6,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",7267,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316354513,7,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",17018,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316367897,8,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",13380,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316372225,9,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",4324,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316378273,10,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","certNot",6043,"English","Good HIT, great pay, very interesting, thanks!",10,0,1,4
+"DOLIS9648A",1500316381961,11,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","certNot",3684,"English","Good HIT, great pay, very interesting, thanks!",10,0,1,4
+"DOLIS9648A",1500316385049,12,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",3083,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316388977,13,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",3925,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316391913,14,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2932,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316395290,15,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",3373,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316400049,16,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",4755,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DOLIS9648A",1500316402793,17,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",2740,"English","Good HIT, great pay, very interesting, thanks!",10,0,1,4
+"DOLIS9648A",1500316406712,18,"trial","nomatter","nomatter","red","dual","polar","10","dots","dots","cert",3916,"English","Good HIT, great pay, very interesting, thanks!",10,0,1,4
+"DOLIS9648A",1500316410897,19,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",4181,"English","Good HIT, great pay, very interesting, thanks!",10,0,NA,4
+"DUBHK7659E",1500315085040,1,"training","multibet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",14471,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315096997,2,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","black","dont","dots",11954,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315101346,3,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",4346,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315116931,4,"trial","nomatter","nomatter","white","plural","wh","4","dots","dots","probNot",12515,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315123140,5,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",6197,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315125516,6,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",2368,"English",NA,10,5,1,4
+"DUBHK7659E",1500315128216,7,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",2689,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315130842,8,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",2615,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315132814,9,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",1964,"English",NA,10,5,1,4
+"DUBHK7659E",1500315134515,10,"trial","nomatter","nomatter","blue","plural","polar","10","dots","dots","cert",1689,"English",NA,10,5,1,4
+"DUBHK7659E",1500315136501,11,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",1977,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315138735,12,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",2226,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315141009,13,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",2266,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315142748,14,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",1733,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315144560,15,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",1805,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315146257,16,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",1690,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315147807,17,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",1544,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315149496,18,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",1685,"English",NA,10,5,NA,4
+"DUBHK7659E",1500315150976,19,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","certNot",1476,"English",NA,10,5,1,4
+"ESNLQ4996N",1500315509262,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",21639,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500315579468,2,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",70203,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500315585044,3,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",5575,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316168552,4,"trial","nomatter","nomatter","red","dual","polar","0","dots","dots","certNot",8374,"English",NA,10,3,1,4
+"ESNLQ4996N",1500316182713,5,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",14157,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316190319,6,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",7601,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316194467,7,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",4144,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316198111,8,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",3638,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316201376,9,"trial","nomatter","nomatter","black","plural","polar","0","dots","dots","certNot",3262,"English",NA,10,3,1,4
+"ESNLQ4996N",1500316205412,10,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",4032,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316208441,11,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",3026,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316211181,12,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",2736,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316214292,13,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",3108,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316216573,14,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",2277,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316219175,15,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",2597,"English",NA,10,3,1,4
+"ESNLQ4996N",1500316222773,16,"trial","nomatter","nomatter","blue","dual","polar","10","dots","dots","cert",3593,"English",NA,10,3,1,4
+"ESNLQ4996N",1500316225849,17,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",3071,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316228227,18,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",2374,"English",NA,10,3,NA,4
+"ESNLQ4996N",1500316230899,19,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",2668,"English",NA,10,3,NA,4
+"EYNJG3809A",1500315396437,1,"training","multibet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",22786,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315407811,2,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",11368,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315421499,3,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",13684,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315447025,4,"trial","nomatter","nomatter","white","plural","wh","4","dots","dots","probNot",20208,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315456729,5,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",9696,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315463449,6,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",6712,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315468873,7,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",5417,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315472713,8,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",3835,"English",NA,9,1,1,4
+"EYNJG3809A",1500315483241,9,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",10523,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315489209,10,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","probNot",5963,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315493873,11,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",4659,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315497313,12,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",3433,"English",NA,9,1,1,4
+"EYNJG3809A",1500315499721,13,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",2403,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315502105,14,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",2377,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315505529,15,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",3417,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315510289,16,"trial","nomatter","nomatter","black","dual","wh","4","dots","dots","probNot",4754,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315513377,17,"trial","nomatter","nomatter","blue","plural","polar","10","dots","dots","cert",3082,"English",NA,9,1,1,4
+"EYNJG3809A",1500315520169,18,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",6788,"English",NA,9,1,NA,4
+"EYNJG3809A",1500315522649,19,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",2476,"English",NA,9,1,1,4
+"FKEZB3267M",1500315404279,1,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",19461,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315415231,2,"training","multibet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",10951,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315427270,3,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",12039,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315444180,4,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",9814,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315451462,5,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",7282,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,1,4
+"FKEZB3267M",1500315459742,6,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",8279,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315465478,7,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",5734,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,1,4
+"FKEZB3267M",1500315480168,8,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",14689,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315486869,9,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",6701,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315495701,10,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",8832,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315501868,11,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",6166,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315507782,12,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",5914,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315514677,13,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",6895,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315518932,14,"trial","nomatter","nomatter","blue","dual","polar","10","dots","dots","cert",4254,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,1,4
+"FKEZB3267M",1500315525069,15,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",6135,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315528741,16,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",3670,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,1,4
+"FKEZB3267M",1500315534661,17,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",5919,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315539346,18,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",4684,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FKEZB3267M",1500315544789,19,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",5443,"English","I wish more options were available beyond ""Probably,"" and ""Probably Not"" in the case where the chances of drawing the correct colored ball were 50%.",10,0,NA,4
+"FLJXW6654G",1500320595334,1,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",28658,"English","no",9,2,NA,4
+"FLJXW6654G",1500320607640,2,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",12305,"English","no",9,2,NA,4
+"FLJXW6654G",1500320630169,3,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",22528,"English","no",9,2,NA,4
+"FLJXW6654G",1500320665150,4,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",19568,"English","no",9,2,NA,4
+"FLJXW6654G",1500320675369,5,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",10216,"English","no",9,2,NA,4
+"FLJXW6654G",1500320683129,6,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",7758,"English","no",9,2,1,4
+"FLJXW6654G",1500320690450,7,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",7319,"English","no",9,2,NA,4
+"FLJXW6654G",1500320695900,8,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",5448,"English","no",9,2,NA,4
+"FLJXW6654G",1500320706925,9,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",11023,"English","no",9,2,NA,4
+"FLJXW6654G",1500320716854,10,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",9927,"English","no",9,2,NA,4
+"FLJXW6654G",1500320726342,11,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",9485,"English","no",9,2,NA,4
+"FLJXW6654G",1500320730336,12,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",3993,"English","no",9,2,NA,4
+"FLJXW6654G",1500320733051,13,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",2713,"English","no",9,2,1,4
+"FLJXW6654G",1500320736507,14,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",3455,"English","no",9,2,NA,4
+"FLJXW6654G",1500320740044,15,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",3536,"English","no",9,2,1,4
+"FLJXW6654G",1500320743070,16,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",3024,"English","no",9,2,1,4
+"FLJXW6654G",1500320746185,17,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",3114,"English","no",9,2,NA,4
+"FLJXW6654G",1500320749554,18,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",3367,"English","no",9,2,NA,4
+"FLJXW6654G",1500320754628,19,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",5072,"English","no",9,2,NA,4
+"GPQAD0613W",1500315561468,1,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","blue","dots",37689,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315577111,2,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",15627,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315589552,3,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",12429,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315610165,4,"trial","nomatter","nomatter","black","plural","polar","0","dots","dots","certNot",9725,"English",NA,8,3,1,4
+"GPQAD0613W",1500315618610,5,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","prob",8432,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315625155,6,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",6523,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315628900,7,"trial","nomatter","nomatter","black","dual","wh","10","dots","dots","cert",3726,"English",NA,8,3,1,4
+"GPQAD0613W",1500315632939,8,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",4025,"English",NA,8,3,1,4
+"GPQAD0613W",1500315640194,9,"trial","nomatter","nomatter","black","plural","polar","0","dots","dots","certNot",7239,"English",NA,8,3,1,4
+"GPQAD0613W",1500315644390,10,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",4183,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315647718,11,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","prob",3322,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315652337,12,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",4603,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315667284,13,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",14941,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315673847,14,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",6535,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315714689,15,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",40832,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315722448,16,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",7739,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315729011,17,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",6541,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315735306,18,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",6281,"English",NA,8,3,NA,4
+"GPQAD0613W",1500315738642,19,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",3319,"English",NA,8,3,NA,4
+"IXAIO6889W",1500317051606,1,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",13955,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317061517,2,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","blue","dots",9907,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317069076,3,"training","singlebet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",7557,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317076978,4,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",6788,"English",NA,10,2,1,4
+"IXAIO6889W",1500317081809,5,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",4828,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317086876,6,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",5062,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317089654,7,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",2774,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317092120,8,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",2464,"English",NA,10,2,1,4
+"IXAIO6889W",1500317095094,9,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2972,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317098610,10,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",3514,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317101369,11,"trial","nomatter","nomatter","black","plural","polar","0","dots","dots","certNot",2757,"English",NA,10,2,1,4
+"IXAIO6889W",1500317103988,12,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",2614,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317106151,13,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",2158,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317108382,14,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","certNot",2230,"English",NA,10,2,1,4
+"IXAIO6889W",1500317111581,15,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",3194,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317114607,16,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",3021,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317118009,17,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",3396,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317120590,18,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",2576,"English",NA,10,2,NA,4
+"IXAIO6889W",1500317125144,19,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","probNot",4553,"English",NA,10,2,NA,4
+"IXRZV8397C",1500315427190,1,"training","singlebet","probNot","red","nomatter","nomatter","nomatter","wh","dont","dots",14916,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315431740,2,"training","multibet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",4530,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315435168,3,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",3407,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315444290,4,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",8026,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315449186,5,"trial","nomatter","nomatter","blue","plural","wh","0","dots","dots","certNot",4879,"English",NA,10,0,1,4
+"IXRZV8397C",1500315453452,6,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",4252,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315456688,7,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",3224,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315460228,8,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","prob",3521,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315462137,9,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",1890,"English",NA,10,0,1,4
+"IXRZV8397C",1500315468636,10,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",6493,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315472422,11,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",3763,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315474364,12,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",1923,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315480430,13,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",6051,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315482658,14,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",2214,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315484389,15,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",1719,"English",NA,10,0,1,4
+"IXRZV8397C",1500315487661,16,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","prob",3253,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315489427,17,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",1738,"English",NA,10,0,NA,4
+"IXRZV8397C",1500315492827,18,"trial","nomatter","nomatter","red","dual","polar","0","dots","dots","certNot",3384,"English",NA,10,0,1,4
+"IXRZV8397C",1500315494941,19,"trial","nomatter","nomatter","white","plural","wh","4","dots","dots","prob",2086,"English",NA,10,0,NA,4
+"JWLQZ5879S",1500315422001,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",7785,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315430768,2,"training","singlebet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",8764,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315439779,3,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","red","dots",9008,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315449642,4,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",8512,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315456937,5,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",7291,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315458864,6,"trial","nomatter","nomatter","black","dual","wh","10","dots","dots","cert",1923,"English","No",10,0,1,4
+"JWLQZ5879S",1500315462387,7,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",3521,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315465601,8,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",3211,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315468533,9,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",2930,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315472662,10,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",4122,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315474966,11,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",2299,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315477766,12,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",2792,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315480173,13,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",2401,"English","No",10,0,1,4
+"JWLQZ5879S",1500315482503,14,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",2325,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315484711,15,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",2203,"English","No",10,0,1,4
+"JWLQZ5879S",1500315487072,16,"trial","nomatter","nomatter","blue","dual","polar","10","dots","dots","cert",2355,"English","No",10,0,1,4
+"JWLQZ5879S",1500315489456,17,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",2379,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315491546,18,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",2085,"English","No",10,0,NA,4
+"JWLQZ5879S",1500315493726,19,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2173,"English","No",10,0,NA,4
+"LPATN3206X",1500315594519,1,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",23695,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315611047,2,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",16527,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315625872,3,"training","singlebet","certNot","black","nomatter","nomatter","nomatter","black","dont","dots",14824,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315649173,4,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",12571,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315662020,5,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",12842,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315670091,6,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",8068,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315679437,7,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",9344,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315685151,8,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",5711,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315692418,9,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",7263,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315697447,10,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",5027,"English","This was fun! Thank you :)",8,0,1,4
+"LPATN3206X",1500315703589,11,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",6138,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315707940,12,"trial","nomatter","nomatter","white","dual","polar","10","dots","dots","cert",4349,"English","This was fun! Thank you :)",8,0,1,4
+"LPATN3206X",1500315712066,13,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",4122,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315718334,14,"trial","nomatter","nomatter","blue","dual","wh","0","dots","dots","certNot",6262,"English","This was fun! Thank you :)",8,0,1,4
+"LPATN3206X",1500315723414,15,"trial","nomatter","nomatter","red","dual","polar","10","dots","dots","cert",5074,"English","This was fun! Thank you :)",8,0,1,4
+"LPATN3206X",1500315733876,16,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",10457,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315738813,17,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",4934,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315745002,18,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",6185,"English","This was fun! Thank you :)",8,0,NA,4
+"LPATN3206X",1500315749980,19,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",4976,"English","This was fun! Thank you :)",8,0,NA,4
+"LSRKJ0371N",1500317220579,1,"training","multibet","prob","black","nomatter","nomatter","nomatter","black","black","dots",20810,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317226042,2,"training","multibet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",5459,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317239585,3,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",13541,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317257995,4,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","probNot",11844,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317271979,5,"trial","nomatter","nomatter","blue","plural","wh","0","dots","dots","certNot",13976,"English",NA,10,3,1,4
+"LSRKJ0371N",1500317277544,6,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",5559,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317280931,7,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",3383,"English",NA,10,3,1,4
+"LSRKJ0371N",1500317287225,8,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","probNot",6290,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317291173,9,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",3944,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317294418,10,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",3241,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317303571,11,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","probNot",9149,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317307661,12,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",4086,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317310606,13,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",2940,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317313905,14,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",3295,"English",NA,10,3,1,4
+"LSRKJ0371N",1500317318181,15,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",4270,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317320589,16,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","probNot",2404,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317322949,17,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2356,"English",NA,10,3,NA,4
+"LSRKJ0371N",1500317326325,18,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",3372,"English",NA,10,3,1,4
+"LSRKJ0371N",1500317328891,19,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",2562,"English",NA,10,3,NA,4
+"MCJVW2475I",1500316371775,1,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","black","dont","dots",11371,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316383117,2,"training","multibet","prob","red","nomatter","nomatter","nomatter","red","red","dots",11338,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316390862,3,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",7740,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316403357,4,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",8676,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316410413,5,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",7047,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316418525,6,"trial","nomatter","nomatter","white","dual","wh","10","dots","dots","cert",8106,"ENGLISH","NONE",10,2,1,4
+"MCJVW2475I",1500316421460,7,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",2928,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316425797,8,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",4330,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316428995,9,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",3189,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316431371,10,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",2369,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316434612,11,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",3233,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316436460,12,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",1842,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316438516,13,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",2047,"ENGLISH","NONE",10,2,1,4
+"MCJVW2475I",1500316441339,14,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",2816,"ENGLISH","NONE",10,2,1,4
+"MCJVW2475I",1500316444275,15,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",2929,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316446691,16,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",2410,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316449283,17,"trial","nomatter","nomatter","black","dual","polar","0","dots","dots","certNot",2584,"ENGLISH","NONE",10,2,1,4
+"MCJVW2475I",1500316451582,18,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",2292,"ENGLISH","NONE",10,2,NA,4
+"MCJVW2475I",1500316454051,19,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",2457,"ENGLISH","NONE",10,2,NA,4
+"MUKIF5510W",1500315597808,1,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",97582,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315609401,2,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","black","dont","dots",11591,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315615910,3,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",6507,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315629396,4,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",9524,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315636725,5,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",7323,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315639453,6,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",2724,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315642799,7,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",3342,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315645562,8,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",2759,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315648809,9,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",3244,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315651563,10,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",2750,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315654297,11,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",2731,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315657570,12,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",3270,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315660791,13,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",3216,"english",NA,8,1,1,4
+"MUKIF5510W",1500315663374,14,"trial","nomatter","nomatter","red","plural","polar","10","dots","dots","cert",2580,"english",NA,8,1,1,4
+"MUKIF5510W",1500315665962,15,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",2585,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315668007,16,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",2042,"english",NA,8,1,1,4
+"MUKIF5510W",1500315669962,17,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",1952,"english",NA,8,1,1,4
+"MUKIF5510W",1500315672408,18,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","prob",2442,"english",NA,8,1,NA,4
+"MUKIF5510W",1500315674788,19,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",2375,"english",NA,8,1,NA,4
+"NVFIQ3441D",1500317042928,1,"training","singlebet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",30420,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317066745,2,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",23816,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317076736,3,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","black","dont","dots",9990,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317116384,4,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",23088,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317128518,5,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","prob",12132,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317133484,6,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",4964,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317144360,7,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",10873,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317150627,8,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",6264,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317162966,9,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","probNot",12336,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317172434,10,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",9466,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317178848,11,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",6412,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317185959,12,"trial","nomatter","nomatter","red","plural","polar","0","dots","dots","certNot",7109,"English",NA,8,2,1,4
+"NVFIQ3441D",1500317190528,13,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",4567,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317195758,14,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",5228,"English",NA,8,2,1,4
+"NVFIQ3441D",1500317202617,15,"trial","nomatter","nomatter","red","plural","wh","10","dots","dots","cert",6857,"English",NA,8,2,1,4
+"NVFIQ3441D",1500317210591,16,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",7972,"English",NA,8,2,1,4
+"NVFIQ3441D",1500317218275,17,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",7682,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317223407,18,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",5130,"English",NA,8,2,NA,4
+"NVFIQ3441D",1500317226734,19,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",3325,"English",NA,8,2,NA,4
+"OGLYQ1526X",1500318949502,1,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",53138,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500318977016,2,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","blue","dots",27512,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500318994798,3,"training","multibet","cert","red","nomatter","nomatter","nomatter","red","red","dots",17781,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319045432,4,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",24689,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319057248,5,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","cert",11813,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319072706,6,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",15455,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319108648,7,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",35939,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319121456,8,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",12804,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319126784,9,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",5325,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319131927,10,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","prob",5141,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319143452,11,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",11522,"English","I really like these studies. Please keep them coming. Thank you",10,0,1,4
+"OGLYQ1526X",1500319149774,12,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",6320,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319161872,13,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",12095,"English","I really like these studies. Please keep them coming. Thank you",10,0,1,4
+"OGLYQ1526X",1500319177568,14,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",15693,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319182918,15,"trial","nomatter","nomatter","white","dual","polar","10","dots","dots","cert",5348,"English","I really like these studies. Please keep them coming. Thank you",10,0,1,4
+"OGLYQ1526X",1500319190366,16,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",7445,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319193578,17,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",3209,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319206612,18,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",13032,"English","I really like these studies. Please keep them coming. Thank you",10,0,NA,4
+"OGLYQ1526X",1500319215751,19,"trial","nomatter","nomatter","black","dual","polar","0","dots","dots","certNot",9137,"English","I really like these studies. Please keep them coming. Thank you",10,0,1,4
+"PCASD5042R",1500315844805,1,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","black","dots",63415,"English",NA,9,6,NA,4
+"PCASD5042R",1500315871938,2,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",27132,"English",NA,9,6,NA,4
+"PCASD5042R",1500315886819,3,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",14880,"English",NA,9,6,NA,4
+"PCASD5042R",1500315940447,4,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",29064,"English",NA,9,6,NA,4
+"PCASD5042R",1500315952413,5,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",11964,"English",NA,9,6,NA,4
+"PCASD5042R",1500315964838,6,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",12424,"English",NA,9,6,NA,4
+"PCASD5042R",1500315981324,7,"trial","nomatter","nomatter","red","dual","wh","0","dots","dots","certNot",16483,"English",NA,9,6,1,4
+"PCASD5042R",1500315994257,8,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",12931,"English",NA,9,6,NA,4
+"PCASD5042R",1500316023312,9,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","probNot",29054,"English",NA,9,6,NA,4
+"PCASD5042R",1500316048428,10,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",25112,"English",NA,9,6,NA,4
+"PCASD5042R",1500316066135,11,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","probNot",17706,"English",NA,9,6,NA,4
+"PCASD5042R",1500316082295,12,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",16159,"English",NA,9,6,1,4
+"PCASD5042R",1500316094993,13,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","probNot",12696,"English",NA,9,6,NA,4
+"PCASD5042R",1500316111622,14,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",16627,"English",NA,9,6,NA,4
+"PCASD5042R",1500316125011,15,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",13387,"English",NA,9,6,NA,4
+"PCASD5042R",1500316138059,16,"trial","nomatter","nomatter","white","dual","wh","10","dots","dots","cert",13045,"English",NA,9,6,1,4
+"PCASD5042R",1500316148488,17,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",10427,"English",NA,9,6,1,4
+"PCASD5042R",1500316164531,18,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","probNot",16041,"English",NA,9,6,NA,4
+"PCASD5042R",1500316178531,19,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",13998,"English",NA,9,6,NA,4
+"PMPBG0566Q",1500318189803,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",16765,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318198979,2,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","black","dont","dots",9175,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318211448,3,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",12469,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318237187,4,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",13608,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318241498,5,"trial","nomatter","nomatter","blue","plural","polar","10","dots","dots","cert",4310,"English",NA,8,0,1,4
+"PMPBG0566Q",1500318249403,6,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","prob",7904,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318256459,7,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",7055,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318263282,8,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",6822,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318267147,9,"trial","nomatter","nomatter","white","dual","wh","10","dots","dots","cert",3864,"English",NA,8,0,1,4
+"PMPBG0566Q",1500318271722,10,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",4574,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318275834,11,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",4111,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318283812,12,"trial","nomatter","nomatter","blue","dual","wh","0","dots","dots","certNot",7977,"English",NA,8,0,1,4
+"PMPBG0566Q",1500318290490,13,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",6676,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318294171,14,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","probNot",3679,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318298002,15,"trial","nomatter","nomatter","black","dual","wh","4","dots","dots","probNot",3830,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318301442,16,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",3439,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318305514,17,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",4071,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318310793,18,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",5278,"English",NA,8,0,NA,4
+"PMPBG0566Q",1500318314218,19,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",3424,"English",NA,8,0,1,4
+"QNUJU0849E",1500315432018,1,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",31117,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315464693,2,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","blue","dots",32659,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315476818,3,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",12117,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315499629,4,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",10148,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315507325,5,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",7675,"english",NA,10,0,1,4
+"QNUJU0849E",1500315511913,6,"trial","nomatter","nomatter","blue","dual","polar","0","dots","dots","certNot",4568,"english",NA,10,0,1,4
+"QNUJU0849E",1500315527565,7,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",15629,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315531941,8,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",4358,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315538882,9,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",6923,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315545302,10,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",6400,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315551100,11,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",5778,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315556837,12,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",5717,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315561109,13,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",4250,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315566901,14,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",5773,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315570146,15,"trial","nomatter","nomatter","red","plural","polar","10","dots","dots","cert",3229,"english",NA,10,0,1,4
+"QNUJU0849E",1500315581076,16,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",10921,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315584669,17,"trial","nomatter","nomatter","red","plural","polar","0","dots","dots","certNot",3577,"english",NA,10,0,1,4
+"QNUJU0849E",1500315589265,18,"trial","nomatter","nomatter","black","dual","wh","4","dots","dots","probNot",4581,"english",NA,10,0,NA,4
+"QNUJU0849E",1500315593437,19,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",4156,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318885553,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",17888,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318903494,2,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",17940,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318911724,3,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",8229,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318940431,4,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",25404,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318949954,5,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","prob",9519,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318958717,6,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",8763,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318965272,7,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",6555,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318969026,8,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",3754,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318976514,9,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","prob",7488,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318981071,10,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",4557,"english",NA,10,0,1,4
+"QTSMR4032D",1500318986200,11,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",5129,"english",NA,10,0,NA,4
+"QTSMR4032D",1500318992694,12,"trial","nomatter","nomatter","red","dual","wh","0","dots","dots","certNot",6494,"english",NA,10,0,1,4
+"QTSMR4032D",1500318996748,13,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",4053,"english",NA,10,0,1,4
+"QTSMR4032D",1500319001857,14,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","prob",5109,"english",NA,10,0,NA,4
+"QTSMR4032D",1500319005760,15,"trial","nomatter","nomatter","black","plural","wh","0","dots","dots","certNot",3903,"english",NA,10,0,1,4
+"QTSMR4032D",1500319010745,16,"trial","nomatter","nomatter","black","dual","polar","3","dots","dots","probNot",4985,"english",NA,10,0,NA,4
+"QTSMR4032D",1500319014166,17,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",3419,"english",NA,10,0,NA,4
+"QTSMR4032D",1500319017442,18,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","prob",3276,"english",NA,10,0,NA,4
+"QTSMR4032D",1500319019620,19,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",2178,"english",NA,10,0,NA,4
+"RGGSK5488R",1500477326254,1,"training","singlebet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",16613,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477338699,2,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","blue","dots",12445,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477347288,3,"training","singlebet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",8589,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477357880,4,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",7924,"English",NA,10,4,1,4
+"RGGSK5488R",1500477364432,5,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",6552,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477367493,6,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",3061,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477369850,7,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",2357,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477374805,8,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",4955,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477378640,9,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",3835,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477381051,10,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",2411,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477387367,11,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",6316,"English",NA,10,4,1,4
+"RGGSK5488R",1500477393878,12,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",6496,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477397077,13,"trial","nomatter","nomatter","black","plural","polar","10","dots","dots","cert",3196,"English",NA,10,4,1,4
+"RGGSK5488R",1500477400001,14,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",2924,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477402392,15,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","probNot",2391,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477405644,16,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",3252,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477407822,17,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",2178,"English",NA,10,4,1,4
+"RGGSK5488R",1500477412159,18,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",4337,"English",NA,10,4,NA,4
+"RGGSK5488R",1500477414606,19,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",2447,"English",NA,10,4,NA,4
+"RUTFW6674L",1500404936760,1,"training","multibet","certNot","black","nomatter","nomatter","nomatter","black","blue","dots",20908,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404944470,2,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",7709,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404956120,3,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",11649,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404970167,4,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",11006,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404976071,5,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",5902,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404978951,6,"trial","nomatter","nomatter","red","plural","wh","10","dots","dots","cert",2878,"English",NA,10,0,1,4
+"RUTFW6674L",1500404983025,7,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",4073,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404988765,8,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",5739,"English",NA,10,0,NA,4
+"RUTFW6674L",1500404994167,9,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",5400,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405001380,10,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",7211,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405004367,11,"trial","nomatter","nomatter","blue","plural","wh","0","dots","dots","certNot",2986,"English",NA,10,0,1,4
+"RUTFW6674L",1500405006919,12,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",2550,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405008891,13,"trial","nomatter","nomatter","black","plural","polar","10","dots","dots","cert",1970,"English",NA,10,0,1,4
+"RUTFW6674L",1500405010881,14,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",1988,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405013716,15,"trial","nomatter","nomatter","red","plural","polar","0","dots","dots","certNot",2833,"English",NA,10,0,1,4
+"RUTFW6674L",1500405017324,16,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",3606,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405020082,17,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2757,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405023986,18,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",3902,"English",NA,10,0,NA,4
+"RUTFW6674L",1500405026808,19,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",2820,"English",NA,10,0,NA,4
+"RXDGJ2725P",1500407526221,1,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",20535,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407540932,2,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","blue","dots",14710,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407551003,3,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",10070,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407571971,4,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","probNot",15390,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407578731,5,"trial","nomatter","nomatter","black","dual","wh","10","dots","dots","cert",6757,"English","Thank you!",10,3,1,4
+"RXDGJ2725P",1500407584435,6,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",5701,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407590875,7,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",6437,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407594251,8,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",3374,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407609595,9,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","probNot",15342,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407613210,10,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",3612,"English","Thank you!",10,3,1,4
+"RXDGJ2725P",1500407618210,11,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",4997,"English","Thank you!",10,3,1,4
+"RXDGJ2725P",1500407622850,12,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",4637,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407645931,13,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",23077,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407653370,14,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",7437,"English","Thank you!",10,3,1,4
+"RXDGJ2725P",1500407657881,15,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",4508,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407661403,16,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",3519,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407669074,17,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",7668,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407672338,18,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",3261,"English","Thank you!",10,3,NA,4
+"RXDGJ2725P",1500407677613,19,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",5272,"English","Thank you!",10,3,NA,4
+"SENCA8028R",1500471522402,1,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",34647,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471544041,2,"training","multibet","probNot","black","nomatter","nomatter","nomatter","black","black","dots",21639,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471565053,3,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","red","dots",21011,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471594137,4,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","prob",13872,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471605415,5,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","prob",11277,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471619016,6,"trial","nomatter","nomatter","red","dual","polar","0","dots","dots","certNot",13600,"English","Interesting - Thank you. ",10,5,1,4
+"SENCA8028R",1500471625904,7,"trial","nomatter","nomatter","red","plural","polar","10","dots","dots","cert",6887,"English","Interesting - Thank you. ",10,5,1,4
+"SENCA8028R",1500471632913,8,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",7008,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471640882,9,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","prob",7968,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471647099,10,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",6216,"English","Interesting - Thank you. ",10,5,1,4
+"SENCA8028R",1500471653061,11,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","prob",5961,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471661117,12,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","prob",8055,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471665155,13,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",4037,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471679479,14,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",14323,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471684974,15,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",5494,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471690097,16,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",5122,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471694947,17,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",4849,"English","Interesting - Thank you. ",10,5,1,4
+"SENCA8028R",1500471698968,18,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",4020,"English","Interesting - Thank you. ",10,5,NA,4
+"SENCA8028R",1500471702545,19,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",3576,"English","Interesting - Thank you. ",10,5,NA,4
+"SEXFW6297V",1500404041672,1,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","blue","dots",38752,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404061897,2,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",20224,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404084151,3,"training","multibet","certNot","black","nomatter","nomatter","nomatter","wh","white","dots",22254,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404117907,4,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",24108,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404135135,5,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",17227,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404143837,6,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",8701,"English","This was a lot of fun. I wish there was more to it.",10,7,1,4
+"SEXFW6297V",1500404152003,7,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",8165,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404157876,8,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",5871,"English","This was a lot of fun. I wish there was more to it.",10,7,1,4
+"SEXFW6297V",1500404169687,9,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",11810,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404177076,10,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",7388,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404190074,11,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",12996,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404193341,12,"trial","nomatter","nomatter","blue","dual","polar","10","dots","dots","cert",3267,"English","This was a lot of fun. I wish there was more to it.",10,7,1,4
+"SEXFW6297V",1500404211547,13,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",18205,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404220157,14,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",8609,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404226425,15,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",6266,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404231901,16,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",5474,"English","This was a lot of fun. I wish there was more to it.",10,7,1,4
+"SEXFW6297V",1500404237193,17,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",5291,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404241894,18,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",4700,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SEXFW6297V",1500404248438,19,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",6542,"English","This was a lot of fun. I wish there was more to it.",10,7,NA,4
+"SXKLY0649L",1500409268314,1,"training","singlebet","certNot","black","nomatter","nomatter","nomatter","wh","black","dots",16261,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409283301,2,"training","multibet","probNot","black","nomatter","nomatter","nomatter","black","blue","dots",14986,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409292785,3,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",9481,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409309907,4,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","probNot",10421,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409315836,5,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","prob",5925,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409324407,6,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",8568,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409334301,7,"trial","nomatter","nomatter","red","dual","polar","10","dots","dots","prob",9891,"englosh",NA,10,0,1,3
+"SXKLY0649L",1500409345445,8,"trial","nomatter","nomatter","black","dual","polar","0","dots","dots","probNot",11141,"englosh",NA,10,0,0,3
+"SXKLY0649L",1500409353634,9,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","prob",8186,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409358656,10,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",5019,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409368673,11,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",10014,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409377349,12,"trial","nomatter","nomatter","red","dual","wh","0","dots","dots","certNot",8673,"englosh",NA,10,0,1,3
+"SXKLY0649L",1500409385461,13,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",8109,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409392688,14,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",7224,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409399081,15,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","prob",6390,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409404572,16,"trial","nomatter","nomatter","red","plural","wh","10","dots","dots","cert",5488,"englosh",NA,10,0,1,3
+"SXKLY0649L",1500409411718,17,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","cert",7143,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409417388,18,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","prob",5666,"englosh",NA,10,0,NA,3
+"SXKLY0649L",1500409421160,19,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","prob",3768,"englosh",NA,10,0,NA,3
+"TBTGI8980Y",1500491144002,1,"training","multibet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",40429,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491164232,2,"training","singlebet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",20230,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491181768,3,"training","singlebet","prob","black","nomatter","nomatter","nomatter","black","black","dots",17536,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491208605,4,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",9491,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491218527,5,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",9918,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491224502,6,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",5971,"English","Fun and interesting task",8,2,1,4
+"TBTGI8980Y",1500491230354,7,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",5848,"English","Fun and interesting task",8,2,1,4
+"TBTGI8980Y",1500491237394,8,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",7036,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491242582,9,"trial","nomatter","nomatter","white","dual","wh","10","dots","dots","cert",5184,"English","Fun and interesting task",8,2,1,4
+"TBTGI8980Y",1500491248490,10,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",5908,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491253068,11,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",4578,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491258815,12,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",5747,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491265298,13,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",6483,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491271867,14,"trial","nomatter","nomatter","black","plural","polar","0","dots","dots","certNot",6569,"English","Fun and interesting task",8,2,1,4
+"TBTGI8980Y",1500491276001,15,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",4130,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491282441,16,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",6440,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491288752,17,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",6311,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491294307,18,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",5552,"English","Fun and interesting task",8,2,NA,4
+"TBTGI8980Y",1500491301055,19,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",6744,"English","Fun and interesting task",8,2,NA,4
+"THNTM9108H",1500461515888,1,"training","singlebet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",20209,"English",NA,10,3,NA,4
+"THNTM9108H",1500461533092,2,"training","multibet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",17200,"English",NA,10,3,NA,4
+"THNTM9108H",1500461548460,3,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",15365,"English",NA,10,3,NA,4
+"THNTM9108H",1500461586043,4,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",28093,"English",NA,10,3,1,4
+"THNTM9108H",1500461595971,5,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",9921,"English",NA,10,3,NA,4
+"THNTM9108H",1500461603001,6,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","prob",7024,"English",NA,10,3,NA,4
+"THNTM9108H",1500461607404,7,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",4396,"English",NA,10,3,NA,4
+"THNTM9108H",1500461611841,8,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",4431,"English",NA,10,3,1,4
+"THNTM9108H",1500461620075,9,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",8228,"English",NA,10,3,NA,4
+"THNTM9108H",1500461669314,10,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",49234,"English",NA,10,3,NA,4
+"THNTM9108H",1500461672499,11,"trial","nomatter","nomatter","blue","dual","wh","0","dots","dots","certNot",3178,"English",NA,10,3,1,4
+"THNTM9108H",1500461675819,12,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",3314,"English",NA,10,3,NA,4
+"THNTM9108H",1500461678754,13,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",2929,"English",NA,10,3,NA,4
+"THNTM9108H",1500461685858,14,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",7099,"English",NA,10,3,NA,4
+"THNTM9108H",1500461690290,15,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",4426,"English",NA,10,3,NA,4
+"THNTM9108H",1500461695850,16,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","prob",5555,"English",NA,10,3,NA,4
+"THNTM9108H",1500461699330,17,"trial","nomatter","nomatter","red","dual","polar","10","dots","dots","cert",3475,"English",NA,10,3,1,4
+"THNTM9108H",1500461703210,18,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",3874,"English",NA,10,3,NA,4
+"THNTM9108H",1500461706314,19,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","prob",3099,"English",NA,10,3,NA,4
+"TIVDH7506D",1500414574038,1,"training","multibet","prob","black","nomatter","nomatter","nomatter","black","black","dots",17901,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414591997,2,"training","singlebet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",17950,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414598699,3,"training","singlebet","certNot","black","nomatter","nomatter","nomatter","black","black","dots",6701,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414617651,4,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","prob",8878,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414623315,5,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",5659,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414628155,6,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",4836,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414636226,7,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","probNot",8067,"ENGLISH",NA,10,0,0,3
+"TIVDH7506D",1500414640883,8,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",4653,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414644602,9,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","prob",3714,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414650578,10,"trial","nomatter","nomatter","white","dual","wh","10","dots","dots","cert",5971,"ENGLISH",NA,10,0,1,3
+"TIVDH7506D",1500414655018,11,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",4436,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414658898,12,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",3876,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414663850,13,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",4948,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414666577,14,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",2722,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414669786,15,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",3205,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414674786,16,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",4996,"ENGLISH",NA,10,0,1,3
+"TIVDH7506D",1500414678283,17,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",3492,"ENGLISH",NA,10,0,NA,3
+"TIVDH7506D",1500414681284,18,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",2995,"ENGLISH",NA,10,0,1,3
+"TIVDH7506D",1500414685578,19,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","cert",4286,"ENGLISH",NA,10,0,NA,3
+"TLWRV2469M",1500411946331,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",30900,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500411969760,2,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",23428,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500411984605,3,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",14843,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412002821,4,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","probNot",10480,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412021626,5,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",18803,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412027901,6,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",6274,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412035559,7,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",7657,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412046142,8,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",10582,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412051487,9,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",5343,"English","Thanks!",8,0,1,4
+"TLWRV2469M",1500412057739,10,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",6251,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412061481,11,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",3741,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412065711,12,"trial","nomatter","nomatter","white","plural","wh","10","dots","dots","cert",4229,"English","Thanks!",8,0,1,4
+"TLWRV2469M",1500412069399,13,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",3687,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412074693,14,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",5292,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412079058,15,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",4364,"English","Thanks!",8,0,1,4
+"TLWRV2469M",1500412081878,16,"trial","nomatter","nomatter","white","plural","polar","0","dots","dots","certNot",2818,"English","Thanks!",8,0,1,4
+"TLWRV2469M",1500412085861,17,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",3982,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412095536,18,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",9674,"English","Thanks!",8,0,NA,4
+"TLWRV2469M",1500412097845,19,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",2307,"English","Thanks!",8,0,NA,4
+"TTQOS5364V",1500404675983,1,"training","singlebet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",30846,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404698780,2,"training","multibet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",22796,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404715349,3,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","dont","dots",16569,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404745627,4,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",18716,"English",NA,8,5,1,4
+"TTQOS5364V",1500404761432,5,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","probNot",15805,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404772564,6,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",11126,"English",NA,8,5,1,4
+"TTQOS5364V",1500404780760,7,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","probNot",8196,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404787596,8,"trial","nomatter","nomatter","red","plural","wh","10","dots","dots","cert",6836,"English",NA,8,5,1,4
+"TTQOS5364V",1500404795045,9,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",7433,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404807378,10,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",12333,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404813995,11,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",6601,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404821889,12,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","probNot",7894,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404826579,13,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",4674,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404832212,14,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",5618,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404837411,15,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","certNot",5199,"English",NA,8,5,1,4
+"TTQOS5364V",1500404841311,16,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",3900,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404853615,17,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","probNot",12304,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404858793,18,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",5163,"English",NA,8,5,NA,4
+"TTQOS5364V",1500404863444,19,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",4651,"English",NA,8,5,NA,4
+"UALOM0941B",1500404457482,1,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",16239,"english",NA,8,2,NA,4
+"UALOM0941B",1500404470569,2,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","dont","dots",13083,"english",NA,8,2,NA,4
+"UALOM0941B",1500404482638,3,"training","singlebet","certNot","black","nomatter","nomatter","nomatter","wh","dont","dots",12067,"english",NA,8,2,NA,4
+"UALOM0941B",1500404501642,4,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",12618,"english",NA,8,2,NA,4
+"UALOM0941B",1500404506434,5,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",4786,"english",NA,8,2,NA,4
+"UALOM0941B",1500404511380,6,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",4941,"english",NA,8,2,NA,4
+"UALOM0941B",1500404517180,7,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","probNot",5795,"english",NA,8,2,NA,4
+"UALOM0941B",1500404523776,8,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",6593,"english",NA,8,2,NA,4
+"UALOM0941B",1500404529061,9,"trial","nomatter","nomatter","red","dual","wh","0","dots","dots","certNot",5281,"english",NA,8,2,1,4
+"UALOM0941B",1500404532823,10,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","probNot",3758,"english",NA,8,2,NA,4
+"UALOM0941B",1500404537038,11,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",4212,"english",NA,8,2,NA,4
+"UALOM0941B",1500404541554,12,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",4510,"english",NA,8,2,NA,4
+"UALOM0941B",1500404545673,13,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","probNot",4113,"english",NA,8,2,NA,4
+"UALOM0941B",1500404548963,14,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",3282,"english",NA,8,2,1,4
+"UALOM0941B",1500404552726,15,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",3755,"english",NA,8,2,NA,4
+"UALOM0941B",1500404557436,16,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","certNot",4704,"english",NA,8,2,1,4
+"UALOM0941B",1500404561130,17,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",3690,"english",NA,8,2,NA,4
+"UALOM0941B",1500404565256,18,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",4119,"english",NA,8,2,1,4
+"UALOM0941B",1500404568730,19,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",3469,"english",NA,8,2,NA,4
+"VDYTE8927I",1500480084625,1,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",38062,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480098717,2,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",14090,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480116545,3,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",17827,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480151928,4,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","probNot",11142,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480176190,5,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",24256,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480181974,6,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",5781,"english",NA,7,3,1,4
+"VDYTE8927I",1500480189886,7,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",7907,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480205231,8,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",15339,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480226846,9,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",21613,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480231501,10,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",4650,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480242775,11,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",11268,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480250428,12,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",7647,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480257029,13,"trial","nomatter","nomatter","white","plural","wh","4","dots","dots","probNot",6596,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480267472,14,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",10439,"english",NA,7,3,1,4
+"VDYTE8927I",1500480277646,15,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",10166,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480282821,16,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",5170,"english",NA,7,3,NA,4
+"VDYTE8927I",1500480287621,17,"trial","nomatter","nomatter","blue","dual","wh","0","dots","dots","certNot",4795,"english",NA,7,3,1,4
+"VDYTE8927I",1500480294390,18,"trial","nomatter","nomatter","blue","dual","wh","10","dots","dots","cert",6764,"english",NA,7,3,1,4
+"VDYTE8927I",1500480300101,19,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",5705,"english",NA,7,3,NA,4
+"WGSRX6850V",1500421888396,1,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","red","dots",19008,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421898353,2,"training","singlebet","prob","red","nomatter","nomatter","nomatter","wh","red","dots",9956,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421911744,3,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",13391,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421954280,4,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",24167,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421960577,5,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",6295,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421969242,6,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","probNot",8664,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421978702,7,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","prob",9459,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421985210,8,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",6507,"English",NA,4,1,NA,4
+"WGSRX6850V",1500421990344,9,"trial","nomatter","nomatter","white","dual","polar","10","dots","dots","cert",5133,"English",NA,4,1,1,4
+"WGSRX6850V",1500422001188,10,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",10843,"English",NA,4,1,NA,4
+"WGSRX6850V",1500422007591,11,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",6402,"English",NA,4,1,1,4
+"WGSRX6850V",1500422013061,12,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",5469,"English",NA,4,1,NA,4
+"WGSRX6850V",1500422019791,13,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",6729,"English",NA,4,1,1,4
+"WGSRX6850V",1500422023347,14,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",3555,"English",NA,4,1,1,4
+"WGSRX6850V",1500422032309,15,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",8961,"English",NA,4,1,NA,4
+"WGSRX6850V",1500422038498,16,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",6188,"English",NA,4,1,NA,4
+"WGSRX6850V",1500422043264,17,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",4765,"English",NA,4,1,NA,4
+"WGSRX6850V",1500422047322,18,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",4057,"English",NA,4,1,NA,4
+"WGSRX6850V",1500422050963,19,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",3640,"English",NA,4,1,NA,4
+"WJRGF6258F",1500427306252,1,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","dont","dots",39628,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427323485,2,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",17230,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427335081,3,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",11593,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427365699,4,"trial","nomatter","nomatter","black","dual","wh","10","dots","dots","cert",19145,"English",NA,9,1,1,3
+"WJRGF6258F",1500427372666,5,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","cert",6961,"English",NA,9,1,0,3
+"WJRGF6258F",1500427382222,6,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",9551,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427389028,7,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",6802,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427399738,8,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","prob",10706,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427407076,9,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",7335,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427413393,10,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",6313,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427418303,11,"trial","nomatter","nomatter","white","plural","wh","10","dots","dots","cert",4904,"English",NA,9,1,1,3
+"WJRGF6258F",1500427423567,12,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",5259,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427430005,13,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",6433,"English",NA,9,1,1,3
+"WJRGF6258F",1500427436926,14,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",6917,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427442293,15,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","probNot",5363,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427448074,16,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","prob",5778,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427453644,17,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",5566,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427458731,18,"trial","nomatter","nomatter","black","dual","wh","4","dots","dots","prob",5083,"English",NA,9,1,NA,3
+"WJRGF6258F",1500427463733,19,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",4996,"English",NA,9,1,NA,3
+"WNPZV7486W",1500404227657,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",54097,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404256060,2,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",28401,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404269566,3,"training","singlebet","probNot","black","nomatter","nomatter","nomatter","black","dont","dots",13504,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404297576,4,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",9942,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404312357,5,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","cert",14776,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404338397,6,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",26035,"English","No comments.",10,0,1,4
+"WNPZV7486W",1500404347411,7,"trial","nomatter","nomatter","blue","dual","wh","5","dots","dots","prob",9009,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404355089,8,"trial","nomatter","nomatter","red","dual","polar","10","dots","dots","cert",7673,"English","No comments.",10,0,1,4
+"WNPZV7486W",1500404365141,9,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",10048,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404384028,10,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",18883,"English","No comments.",10,0,1,4
+"WNPZV7486W",1500404393112,11,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",9080,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404401922,12,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",8805,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404409246,13,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",7319,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404420086,14,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",10835,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404426022,15,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",5932,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404430950,16,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",4921,"English","No comments.",10,0,1,4
+"WNPZV7486W",1500404437961,17,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",7006,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404444625,18,"trial","nomatter","nomatter","red","plural","polar","3","dots","dots","probNot",6659,"English","No comments.",10,0,NA,4
+"WNPZV7486W",1500404450725,19,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",6096,"English","No comments.",10,0,NA,4
+"WUIBF2423G",1500404478216,1,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",26509,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404497994,2,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",19778,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404508451,3,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",10457,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404531969,4,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","prob",15046,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404538319,5,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",6349,"English","No problems.",10,0,1,4
+"WUIBF2423G",1500404544372,6,"trial","nomatter","nomatter","white","plural","wh","3","dots","dots","probNot",6052,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404551777,7,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",7404,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404555830,8,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",4052,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404562334,9,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",6503,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404565682,10,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",3347,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404569735,11,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",4052,"English","No problems.",10,0,1,4
+"WUIBF2423G",1500404575004,12,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","probNot",5268,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404579872,13,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",4867,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404582712,14,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",2839,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404587523,15,"trial","nomatter","nomatter","white","dual","polar","10","dots","dots","cert",4810,"English","No problems.",10,0,1,4
+"WUIBF2423G",1500404590576,16,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",3052,"English","No problems.",10,0,1,4
+"WUIBF2423G",1500404594983,17,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",4406,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404598684,18,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","prob",3700,"English","No problems.",10,0,NA,4
+"WUIBF2423G",1500404602260,19,"trial","nomatter","nomatter","blue","plural","wh","4","dots","dots","probNot",3575,"English","No problems.",10,0,NA,4
+"WUQKO7707T",1500538623798,1,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","blue","dots",57768,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538640020,2,"training","singlebet","prob","black","nomatter","nomatter","nomatter","black","black","dots",16219,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538647498,3,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",7476,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538671730,4,"trial","nomatter","nomatter","black","plural","polar","0","dots","dots","certNot",8189,"English",NA,10,1,1,4
+"WUQKO7707T",1500538692490,5,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",20756,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538699450,6,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",6956,"English",NA,10,1,1,4
+"WUQKO7707T",1500538706377,7,"trial","nomatter","nomatter","black","dual","wh","4","dots","dots","prob",6923,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538711409,8,"trial","nomatter","nomatter","white","dual","polar","10","dots","dots","cert",5028,"English",NA,10,1,1,4
+"WUQKO7707T",1500538717538,9,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","prob",6125,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538721298,10,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",3756,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538724203,11,"trial","nomatter","nomatter","white","plural","polar","10","dots","dots","cert",2900,"English",NA,10,1,1,4
+"WUQKO7707T",1500538728122,12,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",3915,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538730981,13,"trial","nomatter","nomatter","black","plural","wh","5","dots","dots","prob",2856,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538737379,14,"trial","nomatter","nomatter","red","plural","polar","4","dots","dots","prob",6394,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538744274,15,"trial","nomatter","nomatter","white","plural","polar","3","dots","dots","probNot",6892,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538758313,16,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",14035,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538762529,17,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",4212,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538768634,18,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",6101,"English",NA,10,1,NA,4
+"WUQKO7707T",1500538771851,19,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",3213,"English",NA,10,1,NA,4
+"XUFJY5212F",1500412838475,1,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","blue","dots",14103,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412849321,2,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","red","dots",10843,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412856633,3,"training","singlebet","cert","black","nomatter","nomatter","nomatter","black","black","dots",7310,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412863846,4,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",4961,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412874417,5,"trial","nomatter","nomatter","black","dual","wh","0","dots","dots","probNot",10557,"English",NA,10,0,0,3
+"XUFJY5212F",1500412880927,6,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",6505,"English",NA,10,0,1,3
+"XUFJY5212F",1500412885532,7,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","prob",4600,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412890302,8,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",4765,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412894125,9,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",3818,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412900833,10,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","prob",6703,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412906686,11,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",5848,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412909775,12,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",3084,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412912885,13,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",3105,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412916831,14,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","prob",3940,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412921507,15,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",4671,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412926348,16,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","probNot",4836,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412929354,17,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",3000,"English",NA,10,0,NA,3
+"XUFJY5212F",1500412932140,18,"trial","nomatter","nomatter","red","dual","polar","10","dots","dots","cert",2781,"English",NA,10,0,1,3
+"XUFJY5212F",1500412935662,19,"trial","nomatter","nomatter","red","plural","polar","0","dots","dots","certNot",3517,"English",NA,10,0,1,3
+"YAYRK2696G",1500422131783,1,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",27327,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422151366,2,"training","multibet","probNot","black","nomatter","nomatter","nomatter","black","blue","dots",19582,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422169347,3,"training","singlebet","cert","red","nomatter","nomatter","nomatter","wh","red","dots",17980,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422193203,4,"trial","nomatter","nomatter","blue","dual","polar","4","dots","dots","probNot",13855,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422204767,5,"trial","nomatter","nomatter","black","dual","polar","5","dots","dots","prob",11562,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422210565,6,"trial","nomatter","nomatter","red","plural","wh","0","dots","dots","certNot",5796,"English",NA,8,0,1,4
+"YAYRK2696G",1500422218514,7,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","probNot",7948,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422231649,8,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",13133,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422237329,9,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","probNot",5678,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422245245,10,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",7914,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422252008,11,"trial","nomatter","nomatter","blue","plural","polar","4","dots","dots","probNot",6762,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422258502,12,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",6492,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422262177,13,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",3674,"English",NA,8,0,1,4
+"YAYRK2696G",1500422268673,14,"trial","nomatter","nomatter","red","plural","polar","5","dots","dots","prob",6494,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422274196,15,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",5522,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422278663,16,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",4465,"English",NA,8,0,1,4
+"YAYRK2696G",1500422284425,17,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","prob",5761,"English",NA,8,0,NA,4
+"YAYRK2696G",1500422289134,18,"trial","nomatter","nomatter","blue","dual","wh","0","dots","dots","certNot",4708,"English",NA,8,0,1,4
+"YAYRK2696G",1500422293565,19,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",4430,"English",NA,8,0,NA,4
+"YPQTC5546P",1500404302754,1,"training","singlebet","prob","red","nomatter","nomatter","nomatter","red","red","dots",21128,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404317899,2,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",15145,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404333633,3,"training","multibet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",15734,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404405978,4,"trial","nomatter","nomatter","red","dual","polar","0","dots","dots","prob",14094,"English",NA,9,2,0,3
+"YPQTC5546P",1500404419486,5,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","prob",13507,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404424395,6,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",4908,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404427773,7,"trial","nomatter","nomatter","black","dual","polar","4","dots","dots","probNot",3377,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404431013,8,"trial","nomatter","nomatter","white","dual","polar","0","dots","dots","certNot",3239,"English",NA,9,2,1,3
+"YPQTC5546P",1500404434118,9,"trial","nomatter","nomatter","black","dual","polar","10","dots","dots","cert",3104,"English",NA,9,2,1,3
+"YPQTC5546P",1500404442799,10,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","prob",8680,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404446702,11,"trial","nomatter","nomatter","black","plural","wh","3","dots","dots","probNot",3901,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404450135,12,"trial","nomatter","nomatter","black","dual","wh","3","dots","dots","probNot",3432,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404452672,13,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",2536,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404455464,14,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",2791,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404457720,15,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",2254,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404459682,16,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","prob",1961,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404464248,17,"trial","nomatter","nomatter","red","plural","wh","10","dots","dots","cert",4563,"English",NA,9,2,1,3
+"YPQTC5546P",1500404466527,18,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",2278,"English",NA,9,2,NA,3
+"YPQTC5546P",1500404469159,19,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",2631,"English",NA,9,2,NA,3
+"YTZWD0846M",1500484756911,1,"training","singlebet","cert","red","nomatter","nomatter","nomatter","red","red","dots",490731,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500484766442,2,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",9530,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500484787720,3,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","white","dots",21277,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485250211,4,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",456278,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485259279,5,"trial","nomatter","nomatter","blue","dual","polar","3","dots","dots","probNot",9067,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485269392,6,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",10112,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485529632,7,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",260239,"English","no other comments",7,0,1,4
+"YTZWD0846M",1500485534921,8,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",5288,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485540363,9,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",5441,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485548047,10,"trial","nomatter","nomatter","blue","plural","wh","3","dots","dots","probNot",7683,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485551508,11,"trial","nomatter","nomatter","blue","plural","wh","10","dots","dots","cert",3460,"English","no other comments",7,0,1,4
+"YTZWD0846M",1500485553852,12,"trial","nomatter","nomatter","red","dual","wh","10","dots","dots","cert",2343,"English","no other comments",7,0,1,4
+"YTZWD0846M",1500485560579,13,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",6726,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485563082,14,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",2502,"English","no other comments",7,0,1,4
+"YTZWD0846M",1500485578771,15,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",15688,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485582736,16,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",3964,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485586508,17,"trial","nomatter","nomatter","white","plural","wh","4","dots","dots","probNot",3771,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485589318,18,"trial","nomatter","nomatter","blue","plural","wh","5","dots","dots","prob",2809,"English","no other comments",7,0,NA,4
+"YTZWD0846M",1500485592404,19,"trial","nomatter","nomatter","white","plural","polar","5","dots","dots","prob",3085,"English","no other comments",7,0,NA,4
+"ZABTD0170P",1500408197560,1,"training","singlebet","prob","black","nomatter","nomatter","nomatter","black","black","dots",35210,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408211412,2,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",13851,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408223223,3,"training","multibet","cert","black","nomatter","nomatter","nomatter","wh","black","dots",11810,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408248681,4,"trial","nomatter","nomatter","blue","plural","wh","0","dots","dots","certNot",16885,"english",NA,8,3,1,4
+"ZABTD0170P",1500408265584,5,"trial","nomatter","nomatter","black","plural","polar","4","dots","dots","probNot",16901,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408271034,6,"trial","nomatter","nomatter","black","plural","polar","10","dots","dots","cert",5446,"english",NA,8,3,1,4
+"ZABTD0170P",1500408280367,7,"trial","nomatter","nomatter","red","dual","wh","4","dots","dots","probNot",9328,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408299693,8,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",19324,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408303840,9,"trial","nomatter","nomatter","blue","dual","polar","0","dots","dots","certNot",4143,"english",NA,8,3,1,4
+"ZABTD0170P",1500408309023,10,"trial","nomatter","nomatter","red","dual","wh","3","dots","dots","probNot",5181,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408315469,11,"trial","nomatter","nomatter","black","dual","wh","5","dots","dots","prob",6440,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408322059,12,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","probNot",6588,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408326635,13,"trial","nomatter","nomatter","red","plural","wh","5","dots","dots","prob",4571,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408331389,14,"trial","nomatter","nomatter","white","dual","polar","10","dots","dots","cert",4752,"english",NA,8,3,1,4
+"ZABTD0170P",1500408335631,15,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",4239,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408340363,16,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","probNot",4730,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408350113,17,"trial","nomatter","nomatter","red","dual","polar","5","dots","dots","prob",9748,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408443337,18,"trial","nomatter","nomatter","blue","plural","polar","3","dots","dots","probNot",93222,"english",NA,8,3,NA,4
+"ZABTD0170P",1500408447839,19,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","probNot",4500,"english",NA,8,3,NA,4
+"ZEGSU8417S",1500404549789,1,"training","multibet","probNot","black","nomatter","nomatter","nomatter","wh","dont","dots",20728,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404560129,2,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","wh","dont","dots",10336,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404563874,3,"training","multibet","prob","black","nomatter","nomatter","nomatter","wh","black","dots",3741,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404574869,4,"trial","nomatter","nomatter","red","dual","wh","5","dots","dots","probNot",8758,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404579412,5,"trial","nomatter","nomatter","blue","dual","wh","4","dots","dots","probNot",4534,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404586943,6,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","probNot",7525,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404589363,7,"trial","nomatter","nomatter","black","plural","polar","10","dots","dots","cert",2412,"English","I really liked this. Thanks a lot!",10,2,1,4
+"ZEGSU8417S",1500404591495,8,"trial","nomatter","nomatter","white","dual","polar","4","dots","dots","probNot",2127,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404594014,9,"trial","nomatter","nomatter","white","dual","polar","5","dots","dots","probNot",2512,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404596623,10,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","probNot",2604,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404599796,11,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",3168,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404602018,12,"trial","nomatter","nomatter","red","plural","wh","4","dots","dots","probNot",2214,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404606023,13,"trial","nomatter","nomatter","white","dual","polar","3","dots","dots","probNot",3994,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404608623,14,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","probNot",2592,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404611431,15,"trial","nomatter","nomatter","white","plural","wh","0","dots","dots","certNot",2799,"English","I really liked this. Thanks a lot!",10,2,1,4
+"ZEGSU8417S",1500404614578,16,"trial","nomatter","nomatter","blue","plural","polar","5","dots","dots","prob",3137,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZEGSU8417S",1500404616638,17,"trial","nomatter","nomatter","white","dual","wh","0","dots","dots","certNot",2052,"English","I really liked this. Thanks a lot!",10,2,1,4
+"ZEGSU8417S",1500404620760,18,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",4116,"English","I really liked this. Thanks a lot!",10,2,1,4
+"ZEGSU8417S",1500404626616,19,"trial","nomatter","nomatter","blue","dual","wh","3","dots","dots","probNot",5845,"English","I really liked this. Thanks a lot!",10,2,NA,4
+"ZTKBV2217C",1500482634188,1,"training","multibet","probNot","red","nomatter","nomatter","nomatter","wh","blue","dots",25740,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482654251,2,"training","singlebet","certNot","red","nomatter","nomatter","nomatter","red","dont","dots",20063,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482677603,3,"training","multibet","cert","black","nomatter","nomatter","nomatter","black","black","dots",23351,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482694027,4,"trial","nomatter","nomatter","black","plural","polar","3","dots","dots","prob",11151,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482700397,5,"trial","nomatter","nomatter","red","dual","polar","3","dots","dots","prob",6369,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482703587,6,"trial","nomatter","nomatter","white","plural","polar","4","dots","dots","prob",3189,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482706755,7,"trial","nomatter","nomatter","black","plural","wh","4","dots","dots","prob",3167,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482711227,8,"trial","nomatter","nomatter","white","dual","wh","5","dots","dots","prob",4471,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482715747,9,"trial","nomatter","nomatter","blue","plural","wh","0","dots","dots","certNot",4519,"English","Thank you!",5,0,1,4
+"ZTKBV2217C",1500482718123,10,"trial","nomatter","nomatter","white","plural","wh","5","dots","dots","prob",2374,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482721587,11,"trial","nomatter","nomatter","blue","plural","polar","10","dots","dots","cert",3463,"English","Thank you!",5,0,1,4
+"ZTKBV2217C",1500482725251,12,"trial","nomatter","nomatter","red","plural","wh","3","dots","dots","prob",3663,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482728435,13,"trial","nomatter","nomatter","white","dual","wh","3","dots","dots","prob",3183,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482731467,14,"trial","nomatter","nomatter","blue","dual","polar","5","dots","dots","prob",3031,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482734827,15,"trial","nomatter","nomatter","black","plural","polar","5","dots","dots","prob",3359,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482737635,16,"trial","nomatter","nomatter","black","plural","wh","10","dots","dots","cert",2806,"English","Thank you!",5,0,1,4
+"ZTKBV2217C",1500482739987,17,"trial","nomatter","nomatter","white","dual","wh","4","dots","dots","prob",2351,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482742899,18,"trial","nomatter","nomatter","red","dual","polar","4","dots","dots","prob",2911,"English","Thank you!",5,0,NA,4
+"ZTKBV2217C",1500482747227,19,"trial","nomatter","nomatter","blue","plural","polar","0","dots","dots","certNot",4327,"English","Thank you!",5,0,1,4

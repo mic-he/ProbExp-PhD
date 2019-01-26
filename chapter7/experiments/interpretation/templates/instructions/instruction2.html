@@ -1,0 +1,86 @@
+
+<div id="container-exp">
+    <div id="trialFake">
+ 
+        <p align="left">
+            <table class='tg2'>
+                <tr>
+                    <th class="th1"><img src="/static/images/first.png"></th>
+                    <th class="th1"><img src="/static/images/t21.png"></th>
+                    <th class="th1"><img src="/static/images/t21back.png"></th>
+                    <th class="th1"><img src="/static/images/last.png"></th>
+                </tr>
+            </table>
+        </p>
+        
+        <div id="dialogue">        
+            <p><span style="font-weight: bold">You draw 2 balls and observe that 1 of them is red.</span></p>
+        </div>
+    
+    
+        <div id="dialogue">
+           <p>Which message do you send?</p>  
+        </div>
+    
+        <script>
+            function report0() { //function called when participant selects something from dropdown menu, it shows the real next button
+                document.getElementById("begin0before").style.display='none';// the fake "before" next button is hidden
+                document.getElementById("begin0after").style.display='block';// the actual "after" next button is shown
+            }
+        </script> 
+        
+        <div>
+            <p>It <select id='expression' name='expression' onchange='report0()'>
+                    <option value=''></option>
+                    <option value='is possible'>is possible</option>
+                    <option value='is likely'>is likely</option>
+                    <option value='is unlikely'>is unlikely</option>
+                    <option value='might be possible'>might be possible</option>
+                    <option value='might be likely'>might be likely</option>
+                    <option value='might be unlikely'>might be unlikely</option>
+                    <option value='is probably possible'>is probably possible</option>
+                    <option value='is probably likely'>is probably likely</option>
+                    <option value='is probably unlikely'>is probably unlikely</option>
+                    <option value='is certainly possible'>is certainly possible</option>
+                    <option value='is certainly likely'>is certainly likely</option>
+                    <option value='is certainly unlikely'>is certainly unlikely</option>                
+                 </select> that the next ball will  be red.
+            </p>
+        </div>
+                              
+                                              
+                                              
+<div class="instructionsnav" id="begin0before" style="display:block;"> <!--this is a fake next button-->
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next0" value="next0" class="btn btn-success btn-lg" onClick='alert("Please answer the question!");'>
+	                Next
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+
+    <div class="instructionsnav" id="begin0after" style="display:none;"> <!--this is the actual next button-->
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next0" value="next0" class="btn btn-success btn-lg continue">
+	                Next
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+        
+    <hr>
+    <p><i>33% completed.</i></p>
+    </div>    
+    
+</div>
+

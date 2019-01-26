@@ -1,0 +1,81 @@
+<div id="container-instructions">
+
+    <h1>Instructions</h1>
+    
+    <hr>
+
+    <div class="instructions well">
+
+        <p>This experiment is an interactive two player game of chance. The players cooperate to guess the content of an urn.</p>
+        <p>Both players know that the urn always contains 10 balls of different colors (for example, red and blue).</p>
+        <p>But only one player (the <i>sender</i>) is allowed to draw a certain number of balls from the urn and look at them.</p>
+        <p>&nbsp;</p>
+        <p>The sender puts the balls back into the urn and gives it a nice shake, then the sender draws a new ball from it.</p>
+        <p>Before looking at it, the sender sends a message to the other player (the <i>receiver</i>).</p>
+            
+        <p>The receiver reads the message and tries to guess the exact content of the urn.</p>
+<!--        <p>In this experiment you will play the role of the sender. Please look carefully at the situations depicted in the following screens, and select the message that seems most appropriate to you.</p>-->
+
+        </div>
+    
+    <div >
+        <p>When you are ready to begin the experiment, please answer the following question and click on the button below.</p>
+    
+        <table class="tg">
+          <tr>
+            <th class="tg-031e"><p>How many balls are there in the urn?</p></th>
+            <th class="tg-yw4l" style="vertical-align:top"><input class="textBox" id="control" type="text" maxlength="3" required/></th>
+          </tr>
+        </table>  
+
+    </div>
+
+    <script>
+    function myClick(){ //function called when "submit" is clicked
+            var control = document.getElementById("control");
+            if (control.value!=10) { //it checks that the answer is correct: if it's not...
+                alert("That's the wrong answer! Please check again.");                
+            }
+            else { //if it is...
+                document.getElementById("submit").style.display='none'; //submit button is hidden
+                document.getElementById("correct").style.display='block'; //feedback is provided to the subject
+                document.getElementById("begin").style.display='block'; //begin experiment button is shown                
+            }
+    }
+    </script>
+    
+    <div class="instructionsnav" id="correct" style="display:none;">
+        <center>Correct!</center>
+    </div>
+    
+    <div class="instructionsnav" id="submit" style="display:block;">
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+                <center>
+                    <button type="button" id="next00" value="Submit" class="btn btn-primary btn-lg" onclick="myClick()">
+                    Submit
+                    </button>
+                </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>    
+
+    <div class="instructionsnav" id="begin" style="display:none;">
+        <hr>
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next" value="next" class="btn btn-success btn-lg continue">
+	                Begin Experiment
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+</div>
+
+

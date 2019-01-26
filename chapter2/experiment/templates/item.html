@@ -1,0 +1,103 @@
+<script>
+    
+    function clickNextMessage(){ //function to bring the buttons back to original visibility when participants click 'nextMessage'
+        document.getElementById('naviButtons').style.pointerEvents="none";//makes reset an next non-clickable
+        document.getElementById('naviButtons').style.opacity="0.3";//makes reset less visible
+        document.getElementById('naviButtons').style.filter="alpha(opacity=30)";//makes reset less visible (msIE?)
+//        document.getElementById('spNext').style.pointerEvents="none";//makes next non-clickable
+//        document.getElementById('spNext').style.opacity="0.3";//makes next less visible
+//        document.getElementById('spNext').style.filter="alpha(opacity=30)";//makes next less visible (msIE?)
+        var expressions = ["cert","certNot","prob","probNot"]; //all the expression buttons back to clickable and 100% visible
+        for (i = 0; i < expressions.length; i++) { 
+            document.getElementById(expressions[i]).style.pointerEvents="auto";//clickable
+            document.getElementById(expressions[i]).style.opacity="1";//visible
+            document.getElementById(expressions[i]).style.filter="alpha(opacity=100)";//visible (msIE?)  
+        }
+    }
+    
+    function report(selection) { // function called when participant clicks on an expression buttons
+        document.getElementById('nextMessage').value=selection; //this assigns the value selected by the subject to the button "nextMessage", used to submit the answer
+        //change pic
+        var imgSrc=document.getElementById('aPic').src;
+        var newImgSrc=imgSrc.replace(imgSrc.match(/\/static\/images\/(.*)/)[1].match((/[^-]*/)), selection);
+        document.getElementById('aPic').src=newImgSrc //replace the image of the urn with the one displaying participant's input
+        //change visibility of buttons
+        document.getElementById('naviButtons').style.pointerEvents="auto";//makes reset and next clickable
+        document.getElementById('naviButtons').style.opacity="1";//makes reset visible
+        document.getElementById('naviButtons').style.filter="alpha(opacity=100)";//makes reset visible (msIE?)
+//        document.getElementById('spNext').style.pointerEvents="auto";//makes next clickable
+//        document.getElementById('spNext').style.opacity="1";//makes next visible
+//        document.getElementById('spNext').style.filter="alpha(opacity=100)";//makes next visible (msIE?)
+        var expressions = ["cert","certNot","prob","probNot"]; //non clicked expression buttons become non-clickable and less visible
+        for (i = 0; i < expressions.length; i++) {
+            if (selection != expressions[i]) {
+                document.getElementById(expressions[i]).style.pointerEvents="none";//non-clickable
+                document.getElementById(expressions[i]).style.opacity="0.3";//less visible
+                document.getElementById(expressions[i]).style.filter="alpha(opacity=30)";//less visible (msIE?)  
+            }
+        }
+    }
+    
+    function report0(selection) { //function called when participant clicks on reset button
+        document.getElementById('nextMessage').value=selection; //this assigns the value selected by the subject to the button "nextMessage", used to submit the answer
+        //change pic
+        var imgSrc=document.getElementById('aPic').src;
+        var newImgSrc=imgSrc.replace(imgSrc.match(/\/static\/images\/(.*)/)[1].match((/[^-]*/)), selection);
+        document.getElementById('aPic').src=newImgSrc //replace the image of the urn with the one displaying participant's input
+        //change visibility of buttons
+        document.getElementById('naviButtons').style.pointerEvents="none";//makes reset and next non-clickable
+        document.getElementById('naviButtons').style.opacity="0.3";//makes reset less visible
+        document.getElementById('naviButtons').style.filter="alpha(opacity=30)";//makes reset less visible (msIE?)
+//        document.getElementById('spNext').style.pointerEvents="none";//makes next non-clickable
+//        document.getElementById('spNext').style.opacity="0.3";//makes next less visible
+//        document.getElementById('spNext').style.filter="alpha(opacity=30)";//makes next less visible (msIE?)
+        var expressions = ["cert","certNot","prob","probNot"]; //all the expression buttons back to clickable and 100% visible
+        for (i = 0; i < expressions.length; i++) { 
+            document.getElementById(expressions[i]).style.pointerEvents="auto";//clickable
+            document.getElementById(expressions[i]).style.opacity="1";//visible
+            document.getElementById(expressions[i]).style.filter="alpha(opacity=100)";//visible (msIE?)  
+        }
+    }
+</script>
+
+<div id="container-exp">
+    <div id="trial">
+        <p><i><span id="percentage"></span> % completed.</i></p>
+        <hr>
+        <div id="dialogue">
+        <p align="center">
+<!--            <table>
+                <tr>
+                    <th><span id="qudPic"></span></th>
+                    <th><span id="urnPic"></span></th>
+                    <th><span id="answerPic"></span></th>
+                </tr>
+            </table>-->
+            <span id="qudPic"></span><span id="urnPic"></span><span id="answerPic"></span>
+        </p>
+        </div>
+        <div id="dialogue">
+            <p><span id="question"></span></p>
+            <p><span>Fill in the gap by clicking on the expression that you want to send:</span></p>    
+        </div>
+        
+        <div id="dialogue">
+                <button type="button" id="certNot" value="certNot" class="btn btn-primary btn-lg" onclick="report(this.value)"> certainly not </button>
+                <button type="button" id="probNot" value="probNot" class="btn btn-primary btn-lg" onclick="report(this.value)"> probably not </button>
+                <button type="button" id="prob" value="prob" class="btn btn-primary btn-lg" onclick="report(this.value)"> probably </button>
+                <button type="button" id="cert" value="cert" class="btn btn-primary btn-lg" onclick="report(this.value)"> certainly </button>
+        </div>
+        <hr>
+        <div class="wrap-button" id="naviButtons" style="pointer-events:none; opacity:0.3; filter:alpha(opacity=30);">
+            <button id="reset" class="btn btn-danger btn-lg" value="dots" onclick="report0(this.value)">Reset</button>
+            <button id="nextMessage" class="btn-lg btn-success" value="dots" onclick="clickNextMessage()">Send!</button>
+        </div>
+        <!--the following buttons are always hidden, only placeholder-->
+        <div class="wrap-button" id="naviButtons" style="display:none;">
+            <button id="nextQud" class="btn btn-danger btn-lg" value="dots">hidden</button>
+            <button id="nextBet" class="btn-lg btn-success" value="dots">hidden</button>
+        </div>
+    
+    </div>    
+    
+</div>

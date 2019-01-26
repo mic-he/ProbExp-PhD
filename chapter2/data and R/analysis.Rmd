@@ -1,0 +1,220 @@
+---
+title: "Investigating contextual effects on the production of English probability expressions"
+author: "Michele Herbstritt, Michael Franke"
+subtitle: Analysis
+output:
+  html_document: default
+---
+
+#### Introduction
+We tested values of 0, 3, 4, 5, 10  (likelihood of focal outcome, 0 and 10 being control conditions), within subject manipulation of scenario (dual, plural) and within subject manipulation of qud (polar, wh). We measured participants' choices of the messages 'certainly not', 'probably not', 'probably', 'certainly'. 
+
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(brms) # bayesian regression models based on STAN
+library(bayesplot) # plot estimated posterior coefficients
+options(mc.cores = parallel::detectCores()) # multicore parallel computation
+```
+
+#### Getting and shaping data
+```{r, message=FALSE}
+# csv file is the output of preliminary cleaning procedure (exclusion criteria, missing data,...) as reported in clean_explore.Rmd
+expdata = readr::read_csv('clean-48workers.csv') %>% mutate(trial=`trial.`) %>%
+  filter(kind == "trial") %>%        ## discard training trials
+  mutate(trial = trial -3,           ## reset trial counter
+         sentExpression = factor(sentExpression, ordered = TRUE,                        ## order response levels wrt semantic strength
+                                 levels = c("certNot", "probNot", "prob", "cert")),
+         value = as.integer(value)) %>% ## fix data type
+  select(id, trial, color, scenario, qud, value, sentExpression, language, comments) ## select necessary columns only
+```
+
+#### Analysis
+We take a Bayesian approach to ordinal mixed effect regression models.
+
+##### Target model
+First, compute posterior coefficients of full model, regressing ordinal factor EXPRESSION (choice frequencies of probability expression) against VALUE, SCENARIO and QUD and all of their potential interactions, as well as the maximal random effects structure (by-participant random intercepts and slopes for all explanatory variables).
+```{r, message=FALSE}
+fitTarget = brm(formula = sentExpression ~ value * qud * scenario + (1 + value * qud * scenario | id),
+                data = expdata, family = cumulative)
+```
+
+Let's inspect posterior of coefficients for target model.
+```{r}
+# get posterior
+ps = posterior_samples(fitTarget, pars = c("b_value", "b_qudwh", "b_scenarioplural", "b_qudwh:scenarioplural")) %>% 
+  gather(key = "variable", value = "value") %>% as_tibble
+
+# group by variables of interest and compute posterior means and hdis of coefficients
+ps_summary = ps %>% group_by(variable) %>% 
+  summarize(HDI_lo = coda::HPDinterval(coda::as.mcmc(value))[1],
+            mean = mean(value),
+            HDI_hi = coda::HPDinterval(coda::as.mcmc(value))[2]) %>% 
+  ungroup() %>% 
+  mutate(credibly_different = ifelse(HDI_lo > 0, "bigger", ifelse(HDI_hi < 0, "smaller", "--"))) # label coefficients credibly different than 0
+
+ps_summary %>% show
+```
+
+We can plot posterior estimates for coefficients to better visualize credibility intervals.
+
+```{r}
+bayesplot::color_scheme_set("red")
+bayesplot::mcmc_intervals(as.array(fitTarget), regex_pars = "b_")
+```
+
+We notice VALUE has a coefficient credibly bigger than zero, as expected. On the other hand, neither QUD nor SCENARIO have credibly bigger than zero coefficients. Moreover, SCENARIO has a lower than zero coefficient, opposite to what we would expect. A possible interpretation can be put forward looking at the barplots in the clean_explore.Rmd report. In the control conditions 0 and 10, where participants have (mistakenly?) sometimes chosen literally false messages, we can observe that the effect of scenario goes in the direction opposite to what we expected. The other coefficient credibly bigger than zero is the interaction between VALUE and SCENARIO: angain looking at the barplots, there seems to be a tendency of SCENARIO effect in the expected direction, but only present for conditions 3, 4 and 5.
+
+##### Model comparison
+We fit simpler models dropping one, two and finally three predictors.
+```{r, message=FALSE}
+fitNoQUD = brm(formula = sentExpression ~ value * scenario + (1 + value * scenario | id),
+                       data = expdata, family = cumulative)
+```
+
+```{r, message=FALSE}
+fitNoScenario = brm(formula = sentExpression ~ value * qud + (1 +  value * qud | id),
+               data = expdata, family = cumulative, control = list(adapt_delta = 0.9)) # higher adapt_delta to help convergence 
+```
+
+```{r, message=FALSE}
+fitNoValue = brm(formula = sentExpression ~ qud * scenario + (1 +  qud * scenario | id),
+                    data = expdata, family = cumulative)
+```
+
+```{r, message=FALSE}
+fitOnlyQUD = brm(formula = sentExpression ~ qud + (1 +  qud | id),
+                 data = expdata, family = cumulative)
+```
+
+```{r, message=FALSE}
+fitOnlyScenario = brm(formula = sentExpression ~ scenario + (1 +  scenario | id),
+                      data = expdata, family = cumulative)
+```
+
+```{r, message=FALSE}
+fitOnlyValue = brm(formula = sentExpression ~ value + (1 +  value | id),
+                   data = expdata, family = cumulative, control = list(adapt_delta = 0.9)) # higher adapt_delta to help convergence 
+```
+
+```{r, message=FALSE}
+fitIntercept = brm(formula = sentExpression ~ 1,
+                   data = expdata, family = cumulative)
+```
+
+
+We compare models by LOO-IC.
+```{r}
+loofit <- loo(fitTarget,
+             fitNoQUD, fitNoScenario, fitNoValue,
+             fitOnlyValue, fitOnlyScenario, fitOnlyQUD,
+             fitIntercept)
+loofit %>% show # lower is better
+```
+
+It appears that the model dropping QUD as predictor is the best in terms of LOO-IC. Let's visualize its coefficients.
+```{r}
+bayesplot::mcmc_intervals(as.array(fitNoQUD), regex_pars = "b_")
+```
+
+
+
+#### Additional analysis
+What follows is to be considered as an exploratory analysis beyond the scope of the pre-registered project. We explore what happens to the regression model if we exclude more data on the basis of stricter constraint(s) to the control conditions.
+
+First, we try a rather crude filter and simply exclude all data obtained in the control conditions.
+```{r, message=FALSE}
+# exclude all data points from the control conditions and fit the full model
+fitTarget_restricted_crude = brm(formula = sentExpression ~ value * qud * scenario + (1 + value * qud * scenario | id),
+                data = filter(expdata, ! value %in% c(0,10)), family = cumulative)
+```
+
+```{r}
+# summary of coefficients
+ps_restricted_crude = posterior_samples(fitTarget_restricted_crude, pars = c("b_value", "b_qudwh", "b_scenarioplural", "b_qudwh:scenarioplural")) %>% 
+  gather(key = "variable", value = "value") %>% as_tibble
+ps_summary_restricted_crude = ps_restricted_crude %>% group_by(variable) %>% 
+  summarize(HDI_lo = coda::HPDinterval(coda::as.mcmc(value))[1],
+            mean = mean(value),
+            HDI_hi = coda::HPDinterval(coda::as.mcmc(value))[2]) %>% 
+  ungroup() %>% 
+  mutate(credibly_different = ifelse(HDI_lo > 0, "bigger", ifelse(HDI_hi < 0, "smaller", "--")))
+
+ps_summary_restricted_crude %>% show
+```
+
+```{r}
+# visualization
+bayesplot::mcmc_intervals(as.array(fitTarget_restricted_crude), regex_pars = "b_")
+```
+
+Here we can observe coefficients more in line with our expectations: VALUE and SCENARIO have coefficients credibly bigger than zero. However, the fact that QUD too has a coefficient credibly different than zero after excluding the control conditions is (albeit in line with theoretical hypothesis), a little puzzling. Looking a the barplot in the clean_explore.Rmd we can observe perhaps a small tendency of QUD effect only in the dual scenario condition, whereas no such tendency is observable in the plural condition. This difference can be what drives down the coefficient for the interaction between QUD and SCENARIO, which appears to be credibly smaller than zero.
+
+Second, we try a lighter approach, excluding only the wrong answers to the control conditions.
+```{r, message=FALSE}
+# exclude 'wrong' asnwers to the control conditions and fit the full model
+fitTarget_restricted_light = brm(formula = sentExpression ~ value * qud * scenario + (1 + value * qud * scenario | id),
+                           data = filter(expdata, ! (value == 0 & sentExpression != "certNot") & 
+                                           ! (value == 10 & sentExpression != "cert")), 
+                           family = cumulative)
+
+```
+
+```{r}
+# summary of coefficients
+ps_restricted_light = posterior_samples(fitTarget_restricted_light, pars = c("b_value", "b_qudwh", "b_scenarioplural", "b_qudwh:scenarioplural")) %>% 
+  gather(key = "variable", value = "value") %>% as_tibble
+ps_summary_restricted_light = ps_restricted_light %>% group_by(variable) %>% 
+  summarize(HDI_lo = coda::HPDinterval(coda::as.mcmc(value))[1],
+            mean = mean(value),
+            HDI_hi = coda::HPDinterval(coda::as.mcmc(value))[2]) %>% 
+  ungroup() %>% 
+  mutate(credibly_different = ifelse(HDI_lo > 0, "bigger", ifelse(HDI_hi < 0, "smaller", "--")))
+
+ps_summary_restricted_light %>% show
+```
+
+```{r}
+# visualization
+bayesplot::mcmc_intervals(as.array(fitTarget_restricted_light), regex_pars = "b_")
+```
+
+We can observe the same tendency as before, except here no coefficient other than VALUE is credibly different than zero.
+
+Finally, we try using data exclusively from participants who got every control right.
+```{r, message=FALSE}
+# get data and shape, the csv is produced in clean_explore.Rmd
+perfectdata = readr::read_csv('perfect-43workers.csv') %>% mutate(trial=`trial.`) %>%
+  filter(kind == "trial") %>%        ## discard training trials
+  mutate(trial = trial -3,           ## reset trial counter
+         sentExpression = factor(sentExpression, ordered = TRUE,                        ## order response levels
+                                 levels = c("certNot", "probNot", "prob", "cert")),
+         value = as.integer(value)) %>%
+  select(id, trial, color, scenario, qud, value, sentExpression, language, comments)
+```
+
+```{r, message=FALSE}
+# full model
+fitTarget_restricted_hardest = brm(formula = sentExpression ~ value * qud * scenario + (1 + value * qud * scenario | id),
+                                 data = perfectdata, family = cumulative)
+```
+
+```{r}
+# summary of coefficients
+ps_restricted_hardest = posterior_samples(fitTarget_restricted_hardest, pars = c("b_value", "b_qudwh", "b_scenarioplural", "b_qudwh:scenarioplural")) %>% 
+  gather(key = "variable", value = "value") %>% as_tibble
+ps_summary_restricted_hardest = ps_restricted_hardest %>% group_by(variable) %>% 
+  summarize(HDI_lo = coda::HPDinterval(coda::as.mcmc(value))[1],
+            mean = mean(value),
+            HDI_hi = coda::HPDinterval(coda::as.mcmc(value))[2]) %>% 
+  ungroup() %>% 
+  mutate(credibly_different = ifelse(HDI_lo > 0, "bigger", ifelse(HDI_hi < 0, "smaller", "--")))
+
+ps_summary_restricted_hardest %>% show
+```
+
+```{r}
+# visualization
+bayesplot::mcmc_intervals(as.array(fitTarget_restricted_hardest), regex_pars = "b_")
+```
+
+The same observation applies here.

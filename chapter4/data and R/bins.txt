@@ -1,0 +1,12 @@
+Item,Min,Max,Bin
+urn,0,0,0
+urn,1,1,1
+urn,2,2,2
+urn,3,3,3
+urn,4,4,4
+urn,5,5,5
+urn,6,6,6
+urn,7,7,7
+urn,8,8,8
+urn,9,9,9
+urn,10,10,10

@@ -1,0 +1,192 @@
+<script>    
+
+    function report0(selection) { //function called when participant clicks on one question, makes other question less visible, changes the pic to give feedback, activate reset and next button
+        document.getElementById('nextQud').value=selection; //this assigns the value selected by the subject to the button "next", used to submit the answer
+        //change visibility of buttons
+        if (selection=='red'|selection=='black'){ var nonSelection='wh';} else {var nonSelection='polar';} 
+        document.getElementById(nonSelection).style.pointerEvents="none";//makes other button non-clickable
+        document.getElementById(nonSelection).tabindex="-1";//makes non-selectable via keyboard
+        document.getElementById(nonSelection).style.opacity="0.3";//makes other button less visible
+        document.getElementById(nonSelection).style.filter="alpha(opacity=30)";//makes other button less visible (msIE?)
+        document.getElementById('naviButtonsFake').style.pointerEvents="auto";//makes reset and next clickable
+        document.getElementById('naviButtonsFake').tabIndex="0";//makes selectable via keyboard
+        document.getElementById('naviButtonsFake').style.opacity="1";//makes visible
+        document.getElementById('naviButtonsFake').style.filter="alpha(opacity=100)";//makes visible (msIE?)
+        //change pic
+        var imgSrc=document.getElementById('imgComic').src;
+        var newImgSrc=imgSrc.replace(imgSrc.match(/\/static\/images\/(.*)/)[1].match((/[^_]*/)), selection);
+        document.getElementById('imgComic').src=newImgSrc //replace the image of the urn with the one displaying participant's input
+    }    
+    
+    function clickReset0(selection) { //function called when participant clicks reset, it changes the picture back to starting one, with gap
+        document.getElementById('nextQud').value=selection; //this assigns the value selected by the subject to the button "next", used to submit the answer
+        //change visibility of buttons
+        document.getElementById('polar').style.pointerEvents="auto";//makes button clickable
+        document.getElementById('polar').tabindex="-1";//makes selectable via keyboard
+        document.getElementById('polar').style.opacity="1";//makes button visible
+        document.getElementById('polar').style.filter="alpha(opacity=100)";//makes button visible (msIE?)
+        document.getElementById('wh').style.pointerEvents="auto";//makes button clickable
+        document.getElementById('wh').tabindex="-1";//makes selectable via keyboard
+        document.getElementById('wh').style.opacity="1";//makes button visible
+        document.getElementById('wh').style.filter="alpha(opacity=100)";//makes button visible (msIE?)
+        document.getElementById('naviButtonsFake').style.pointerEvents="none";//makes reset and next non-clickable
+        document.getElementById('naviButtonsFake').tabindex="-1";//makes non-selectable via keyboard
+        document.getElementById('naviButtonsFake').style.opacity="0.3";//makes less visible
+        document.getElementById('naviButtonsFake').style.filter="alpha(opacity=30)";//makes less visible (msIE?)
+        //change pic            
+        var imgSrc=document.getElementById('imgComic').src;
+        var newImgSrc=imgSrc.replace(imgSrc.match(/\/static\/images\/(.*)/)[1].match((/[^_]*/)), selection);
+        document.getElementById('imgComic').src=newImgSrc //replace the image of the urn with the one displaying participant's input
+    }
+    
+    function clickNextQud(){ //function called when seleted question is sent, to hide/show some buttons and text elements, update the image with the selected qud
+        document.getElementById('description').style.display="none"; //hide betting options description...
+        document.getElementById('message').style.display="block"; //...and show sent message
+        document.getElementById('fillin').style.display="none"; //hide question abou which qud to send...
+        document.getElementById('wannabet').style.display="block"; //...and show question about which bet to take
+        document.getElementById('qudbuttons').style.display="none"; //hide qud choice buttons...
+        document.getElementById('betbuttons').style.display="block"; //...and show betting buttons
+        document.getElementById('naviButtonsFake').style.display="none"; //hide this nextQud button itself, and the first reset button...
+        document.getElementById('naviButtons').style.display="block"; //...and show the new ones, with less visibility and unclickable
+        document.getElementById('naviButtons').style.pointerEvents="none";//makes reset and next non-clickable
+        document.getElementById('naviButtons').tabindex="-1";//makes non-selectable via keyboard
+        document.getElementById('naviButtons').style.opacity="0.3";//makes less visible
+        document.getElementById('naviButtons').style.filter="alpha(opacity=30)";//makes less visible (msIE?)
+        //reset visibility of every question buttons and betting buttons
+        var questions = ["polar","wh"]; //all the question buttons back to clickable and 100% visible
+        for (i = 0; i < questions.length; i++) { 
+            document.getElementById(questions[i]).style.pointerEvents="auto";//clickable
+            document.getElementById(questions[i]).style.opacity="1";//visible
+            document.getElementById(questions[i]).style.filter="alpha(opacity=100)";//visible (msIE?)  
+        }
+        var bettingchoices = ["dont","black","blue","red","white"];
+        for (i = 0; i < bettingchoices.length; i++){
+            if (document.getElementById(bettingchoices[i])!==null){
+                document.getElementById(bettingchoices[i]).style.pointerEvents="auto";//makes button clickable
+                document.getElementById(bettingchoices[i]).tabindex="-1";//makes selectable via keyboard
+                document.getElementById(bettingchoices[i]).style.opacity="1";//makes button visible
+                document.getElementById(bettingchoices[i]).style.filter="alpha(opacity=100)";//makes button visible (msIE?)    
+            }
+        }
+        // change the pic: hide the pic w question, show pic with answer
+        document.getElementById('pic0').style.display="none";
+        document.getElementById('pic1').style.display="block";
+        
+    }
+    
+    /////////////////////////////////////////////////////////////////////////////////////////////
+    
+    function report(selection) { //function called when participant clicks on one bet, makes other bets less visible, activate reset and next button
+        document.getElementById('nextBet').value=selection; //this assigns the value selected by the subject to the button "next", used to submit the answer
+        //change visibility of buttons
+        var bettingchoices = ["dont","black","blue","red","white"]; //all the non clicked betting chioces become less visible etc
+        for (i = 0; i < bettingchoices.length; i++){
+            if (bettingchoices[i]!=selection && document.getElementById(bettingchoices[i])!==null){ // if they exist (in half of the cases only red/black exist side by side with dont, in other half all the colors)
+                document.getElementById(bettingchoices[i]).style.pointerEvents="none";//makes other button non-clickable
+                document.getElementById(bettingchoices[i]).tabindex="-1";//makes non-selectable via keyboard
+                document.getElementById(bettingchoices[i]).style.opacity="0.3";//makes other button less visible
+                document.getElementById(bettingchoices[i]).style.filter="alpha(opacity=30)";//makes other button less visible (msIE?)            
+            }
+        } 
+        document.getElementById('naviButtons').style.pointerEvents="auto";//makes reset and next clickable
+        document.getElementById('naviButtons').tabIndex="0";//makes selectable via keyboard
+        document.getElementById('naviButtons').style.opacity="1";//makes visible
+        document.getElementById('naviButtons').style.filter="alpha(opacity=100)";//makes visible (msIE?)
+    }
+    
+    function clickReset(selection) { //function called when participant clicks reset, it changes the picture back to starting one, with gap
+        document.getElementById('nextBet').value=selection; //this assigns the value selected by the subject to the button "next", used to submit the answer
+        //change visibility of buttons
+        var bettingchoices = ["dont","black","blue","red","white"];
+        for (i = 0; i < bettingchoices.length; i++){
+            if (document.getElementById(bettingchoices[i])!==null){
+                document.getElementById(bettingchoices[i]).style.pointerEvents="auto";//makes button clickable
+                document.getElementById(bettingchoices[i]).tabindex="-1";//makes selectable via keyboard
+                document.getElementById(bettingchoices[i]).style.opacity="1";//makes button visible
+                document.getElementById(bettingchoices[i]).style.filter="alpha(opacity=100)";//makes button visible (msIE?)    
+            }
+        }
+        document.getElementById('naviButtons').style.pointerEvents="none";//makes reset and next non-clickable
+        document.getElementById('naviButtons').tabindex="-1";//makes non-selectable via keyboard
+        document.getElementById('naviButtons').style.opacity="0.3";//makes less visible
+        document.getElementById('naviButtons').style.filter="alpha(opacity=30)";//makes less visible (msIE?)
+    }
+    
+    function clickNextBet(){ //function to bring everything back to original visibility when participants click 'nextBet'
+        //first set of navi buttons back to visible (but non clickable)
+        document.getElementById('naviButtonsFake').style.display="block"; //makes reset an next visible
+        document.getElementById('naviButtonsFake').style.pointerEvents="none";//makes reset an next non-clickable
+        document.getElementById('naviButtonsFake').style.opacity="0.3";//makes reset less visible
+        document.getElementById('naviButtonsFake').style.filter="alpha(opacity=30)";//makes reset less visible (msIE?)
+        //second set of buttons back to invisible
+        document.getElementById('naviButtons').style.display="none"; //makes reset an next visible
+
+        document.getElementById('description').style.display="block"; //show betting options description...
+        document.getElementById('message').style.display="none"; //...and hide sent message
+        document.getElementById('fillin').style.display="block"; //show question abou which qud to send...
+        document.getElementById('wannabet').style.display="none"; //...and hide question about which bet to take
+        document.getElementById('qudbuttons').style.display="block"; //show qud choice buttons...
+        document.getElementById('betbuttons').style.display="none"; //...and hide betting buttons
+        
+        var questions = ["polar","wh"]; //all the question buttons back to clickable and 100% visible
+        for (i = 0; i < questions.length; i++) { 
+            document.getElementById(questions[i]).style.pointerEvents="auto";//clickable
+            document.getElementById(questions[i]).style.opacity="1";//visible
+            document.getElementById(questions[i]).style.filter="alpha(opacity=100)";//visible (msIE?)  
+        }
+        // reset the pic0 as well
+        var imgSrc=document.getElementById('imgComic').src;
+        var newImgSrc=imgSrc.replace(imgSrc.match(/\/static\/images\/(.*)/)[1].match((/[^_]*/)), 'dots');
+        document.getElementById('imgComic').src=newImgSrc //replace the image of the urn with the one displaying participant's input
+        // change the pic: show the pic w question, hide pic with answer
+        document.getElementById('pic0').style.display="block";
+        document.getElementById('pic1').style.display="none";
+    }   
+</script>
+
+<div id="container-exp">
+    <div id="trial">
+        <p><i><span id="percentage"></span> % completed.</i></p>
+        <hr>
+        <p id="pic0" align="center" style="display:block;"> <!--first pic, with dots or questions-->
+            <img id="imgComic" src="/static/images/dots_question.png">
+        </p>
+        <p id="pic1" align="center" style="display:none;"> <!--second pic, hidden at first, with only answer-->
+            <span id="senderpic"></span><!--replaced by insertLines, defined in experiment.js-->
+        </p>
+        
+        <div id="dialogue">
+            <p><span id="description" style="display:block;"></span></p> <!--replaced by insertLines, defined in experiment.js-->
+            <p><span id="message" style="display:none;"></span></p><!--hidden at first, appears when submitting the question-->
+            <p><span id="fillin" style="display:block;">Fill in the gap by clicking on the question that you want to ask:</span></p>
+            <p><span id="wannabet" style="display:none;">Do you want to bet?</span></p> <!--hidden at first, appears when submitting the question-->
+        </div>
+        
+        <div id="qudbuttons" style="display:block;">
+            <span id="polarbutton" ></span> <!--replaced by insertLines, defined in experiment.js-->
+            <button type="button" id="wh" value="wh" class="btn btn-primary btn-lg" onclick="report0(this.value)">which color will it be?</button>
+        </div> 
+        
+        <div id="betbuttons" style="display:none;">
+            <!--following set of buttons is hidden at first, appears when submitting the question-->
+            <button type="button" id="dont" value="dont" class="btn btn-primary btn-lg" onclick="report(this.value)">don't bet</button>
+            <span id="betbutton"></span> <!--replaced by insertLines, defined in experiment.js-->
+        </div>
+        <hr>
+        <div class="wrap-button" id="naviButtonsFake" style="pointer-events:none; opacity:0.3; filter:alpha(opacity=30);">
+            <button id="reset0" class="btn btn-danger btn-lg" value="dots" onclick="clickReset0(this.value)">Reset</button>
+            <button id="nextQud" class="btn-lg btn-success" value="dots" onclick="clickNextQud()">Send!</button>
+        </div>
+        
+        <!--following set of buttons is hidden at first, appears when submitting the question-->
+        <div class="wrap-button" id="naviButtons" style="display:none; pointer-events:none; opacity:0.3; filter:alpha(opacity=30);">
+            <button id="reset" class="btn btn-danger btn-lg" value="dots" onclick="clickReset(this.value)">Reset</button>
+            <button id="nextBet" class="btn-lg btn-success" value="dots" onclick="clickNextBet()">Submit!</button>
+        </div>
+        <div class="wrap-button" id="naviButtonsHidden" style="display:none;"><!--this always hidden, only placeholder-->
+            <button id="nextMessage" class="btn-lg btn-success" value="dots">hidden</button>
+        </div>
+    
+    </div>    
+    
+</div>

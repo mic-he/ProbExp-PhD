@@ -1,0 +1,82 @@
+
+<div id="container-exp">
+    <div id="trialFake">
+        
+        <div id="dialogue">
+            <p>Here's the urn</p>
+            <p>
+                <table class='tg1'>
+                    <tr>
+                        <th class="th1"><img src="/static/images/first.png"></th>
+                    </tr>
+                </table>
+            </p>
+        </div>        
+        
+        <div id="dialogue">        
+            <p>Another participant sent the following message:</p>
+                
+            <table class="tg">
+              <tr>
+                <th class="tg-031e"><p>The next ball will possibly be red.</p></th>
+              </tr>
+            </table>
+            
+        </div>    
+        
+        <div id="dialogue">
+            <p>How many red balls are there in the urn?</p>
+        </div>
+    
+        <script>
+            function report0(selection0) { 
+                document.getElementById("slider_value").innerHTML=selection0; //this is used to display the value selected on the slider in order to provide some feedback to the subject
+                document.getElementById("begin0before").style.display='none';// the fake "before" next button is hidden
+                document.getElementById("begin0after").style.display='block';// the actual "after" next button is shown
+            }
+        </script>    
+
+        <div id="dialogue">
+            <p>
+                <span id='label_left'>0 balls</span>
+                <span id='label_right'>10 balls</span>
+                <div id='slider_value' style='text-align:center';></div>
+                <input id='likelihood' type='range' min='0' max='10' step='1' value='5' oninput='report0(this.value)' onClick='report0(this.value)'></input>                
+            </p>
+        </div>        
+        
+
+    <div class="instructionsnav" id="begin0before" style="display:block;"> <!--this is a fake next button-->
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next0" value="next0" class="btn btn-success btn-lg" onClick='alert("Please answer the question!");'>
+	                Next
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+
+    <div class="instructionsnav" id="begin0after" style="display:none;"> <!--this is the actual next button-->
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next0" value="next0" class="btn btn-success btn-lg continue">
+	                Next
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+        
+    <hr>
+    <p><i>0% completed.</i></p>
+    </div>    
+    
+</div>
+

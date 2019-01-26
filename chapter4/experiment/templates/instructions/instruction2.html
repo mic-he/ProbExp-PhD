@@ -1,0 +1,75 @@
+<div id="container-exp">
+
+    <center><h1>Instructions</h1></center>
+    
+    <div id="instructions">
+        <hr>
+        <p>For each urn, we are interested in your intuitions about how many red balls are contained in the urn in total.</p>
+        <p>That is, considering both the observed balls and the balls that might be left in the urn.</p>
+        <p>We will show you eleven quantities.</p>
+        <p>Please, rate the likelihood of each quantity by adjusting the corresponding slider.</p>
+        <p>The sliders look like this:</p>
+        <p><img src="/static/images/slider.png" height="75%" width="75%"></p>
+        <p>&nbsp;</p>
+        <p>When you are ready to begin the experiment, please answer the following question and click on the button below.</p>
+        <hr>
+    </div>
+    
+    <div >
+        <table class="tg">
+          <tr>
+            <th class="tg-031e"><p>How many balls are contained in each urn?</p></th>
+            <th class="tg-yw4l" style="vertical-align:top"><input class="textBox" id="control" type="text" maxlength="3" required/></th>
+          </tr>
+        </table>  
+
+    </div>
+
+    <script>
+    function myClick(){ //function called when "submit" is clicked
+            var control = document.getElementById("control");
+            if (control.value!=10) { //it checks that the answer is correct: if it's not...
+                alert("That's not the correct answer! Please check again.");                
+            }
+            else { //if it is...
+                document.getElementById("submit").style.display='none'; //submit button is hidden
+                document.getElementById("correct").style.display='block'; //feedback is provided to the subject
+                document.getElementById("begin").style.display='block'; //begin experiment button is shown                
+            }
+    }
+    </script>
+    
+    <div class="instructionsnav" id="correct" style="display:none;">
+        <center>Correct!</center>
+    </div>
+    
+    <div class="instructionsnav" id="submit" style="display:block;">
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+                <center>
+                    <button type="button" id="next00" value="Submit" class="btn btn-primary btn-lg" onclick="myClick()">
+                    Submit
+                    </button>
+                </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>    
+
+    <div class="instructionsnav" id="begin" style="display:none;">
+        <div class="row">
+            <div class="col-xs-2"></div>
+            <div class="col-xs-8">
+            	<center>
+	                <button type="button" id="next" value="next" class="btn btn-success btn-lg continue">
+	                Begin Experiment
+	                </button>
+	            </center>
+            </div>
+            <div class="col-xs-2"></div>
+        </div>
+    </div>
+</div>
+
+

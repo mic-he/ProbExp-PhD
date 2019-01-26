@@ -1,0 +1,46 @@
+<div id="container-exp">
+    <div id="trial">
+        <div id="dialogue">
+            <p><span id="pic"></span></p> <!--replaced by insertLines, defined in experiment.js-->
+        </div>
+        
+        <div id="dialogue">        
+            <p><span id="scenario" style="font-weight: bold"></span></p>
+
+        </div>
+        
+        
+        <div id="dialogue">
+           <p>Which message do you send?</p>  
+        </div>
+        
+        <div>
+            <p>It <select id='expression1' name='expression1'>
+                    <option value=''></option>
+                    <option value='is'>is</option>
+					<option value='is_probably'>is probably</option>
+                    <option value='might_be'>might be</option>                    
+                    <option value='is_certainly'>is certainly</option>
+                 </select>
+                 <select id='expression2' name='expression2'>
+                    <option value=''></option>
+					<option value='probable'>probable that</option>
+					<option value='possible'>possible that</option>
+                    <option value='unlikely'>unlikely that</option>
+                    <option value='likely'>likely that</option>                          
+                 </select> the next ball will  be red.</p>
+        </div>
+        
+        <div class="wrap-button" id="block1" style="display:block;">
+            <button id="next" class="btn-lg btn-success">Next</button>
+
+        </div>
+        
+        <hr>
+
+        <p><i><span id="percentage"></span> % completed.</i></p>
+        
+        
+    </div>    
+    
+</div>

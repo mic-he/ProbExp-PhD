@@ -1,0 +1,98 @@
+<script>
+    function reportSlider1(selection) { 
+        document.getElementById('slider1_value').innerHTML=selection; //this part is used to display the value selected on the slider in order to provide some feedback to the subject
+        document.getElementById('dialogue_special').style.pointerEvents="auto";//makes second slider clickable
+        document.getElementById('dialogue_special').style.opacity="1";//makes second slider visible
+        document.getElementById('dialogue_special').style.filter="alpha(opacity=100)";//makes second slider visible (msIE?)
+        document.getElementById('slider2_value').innerHTML="";//and reset it (useful if participant changes their mind about first slider)
+        document.getElementById('slider2').value='';
+        
+        document.getElementById('slider3_value').innerHTML="NA";//this corresponds to a slider which is not even shown here, set it to this placeholder value to pass the test
+        
+        //document.getElementById('box2').value='';        
+        //document.getElementById('box1').value=selection;//this is the check that matters
+        //document.getElementById('box3').value="NA"//this corresponds to a slider which is not even shown here, set it to this placeholder value to pass the test
+        
+        var imgSrc="/static/images/d"+selection+".png";
+        document.getElementById('imgUrn').src=imgSrc //replace the image of the urn with the one displaying participant's input in the slider
+    };
+    
+    function reportSlider2(selection) { 
+        document.getElementById('slider2_value').innerHTML=selection; //this part is used to display the value selected on the slider in order to provide some feedback to the subject
+        document.getElementById('slider3_value').innerHTML="NA";//this corresponds to a slider which is not even shown here, set it to this placeholder value to pass the test
+        //document.getElementById('box2').value=selection;
+        //document.getElementById('box3').value="NA"//this corresponds to the slider which is not even shown here
+        
+        //var inputAccess = parseInt(document.getElementById('box1').value); //get the access value selected by participant,note parseInt to make sure input not saved as string but integer
+        
+        var inputAccess = parseInt(document.getElementById('slider1_value').innerHTML); //get the access value selected by participant,
+        
+        if (selection>inputAccess) {
+            document.getElementById('imgUrn').src="/static/images/impossible.png";
+        } else {
+            var imgSrc="/static/images/"+inputAccess+selection+".png";
+            document.getElementById('imgUrn').src=imgSrc
+        }
+    }
+    
+    function reportSlider3(selection) { 
+        document.getElementById('slider3_value').innerHTML=selection;//this part is used to display the value selected on the slider in order to provide some feedback to the subject
+        document.getElementById('slider1_value').innerHTML="NA"//this corresponds to a slider which is not even shown here, set it to this placeholder value to pass the test
+        document.getElementById('slider2_value').innerHTML="NA"//this corresponds to a slider which is not even shown here, set it to this placeholder value to pass the test
+        //document.getElementById('box3').value=selection;
+        //document.getElementById('box1').value="NA";//this corresponds to a slider which is not even shown here
+        //document.getElementById('box2').value="NA";//this corresponds to a slider which is not even shown here
+        
+        var imgSrc="/static/images/r"+selection+".png";
+        document.getElementById('imgUrn').src=imgSrc
+    }
+</script>
+
+<div id="container-exp">
+    <div id="trial">
+        
+        <div id="dialogue">        
+            <p>Another player sent the following message:</p>       
+        </div>    
+        
+        <div id="dialogue">        
+            <p><span id="message" style="font-style: italic; border: 1px solid black"></span></p>
+        </div>
+        <div id="container-exp-sidebyside">
+            <div id="dialogue-fixed">        
+                <p><span id="question1"></span></p>
+                <p><span id="answer1"></span></p>
+                <!--<div style="display:none;"><input id="box1" type="text" value=""></div> <!--an invisible text box used to store the value selected on the slider-->
+                <p>&nbsp;</p>
+                <div id="dialogue_special" style="pointerEvents:none; opacity:0.3; filter:alpha(opacity=30); zoom:1;">        
+                    <p><span id="question2"></span></p>
+                    <p><span id="answer2"></span></p>
+                </div>
+
+                <!--<div style="display:none;"><input id="box2" type="text" value=""></div> <!--an invisible text box used to store the value selected on the slider -->
+                <!--<div style="display:none;"><input id="box3" type="text" value=""></div> <!--an invisible text box used to store the value selected on the slider -->
+            </div>
+
+            <div id="dialogue-flex">
+                <p><span id="image"></span></p>
+            </div>
+        </div>    
+            
+        <div id="dialogue">        
+            <p><span id="please" style="font-weight: lighter"></span></p>
+        </div>
+
+        
+        <div class="wrap-button" id="block1" style="display:block;">
+            <button id="next" class="btn-lg btn-success">Next</button>
+
+        </div>
+        
+        <hr>
+
+        <p><i><span id="percentage"></span> % completed.</i></p>
+        
+        
+    </div>    
+    
+</div>

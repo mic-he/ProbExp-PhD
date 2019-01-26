@@ -1,0 +1,38 @@
+<div id="container-exp">
+    <div id="trial">
+        
+        <div id="dialogue">
+            <p><span id="pic"></span></p> <!--replaced by insertLines, defined in experiment.js-->
+        </div>
+        
+        <div id="dialogue">        
+            <p><span id="scenario" style="font-weight: bold"></span></p>
+<!--            <p>Then you put all the balls back in the urn and give it a nice shake.</p>       -->
+        </div>
+        
+        <div id="dialogue">
+            <p><span id="question"></span></p> <!--replaced by insertLines, defined in experiment.js-->       
+        </div>
+        
+        <div id="item"></div> <!--replaced by insertLines, defined in experiment.js-->
+        
+        <script>
+        function report(selection) { 
+            document.getElementById('next').value=selection //this part of the function assign the value selected by the subject to the button "next", used to submit the answer
+/*            document.getElementById("slider_value").innerHTML=selection; //this part is used to display the value selected on the slider in order to provide some feedback to the subject*/
+        }
+        </script>
+
+        <div class="wrap-button" id="block1" style="display:block;">
+            <button id="next" class="btn-lg btn-success" value="">Next</button>
+
+        </div>
+        
+        <hr>
+
+        <p><i><span id="percentage"></span> % completed.</i></p>
+        
+        
+    </div>    
+    
+</div>

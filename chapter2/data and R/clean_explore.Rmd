@@ -1,0 +1,179 @@
+---
+title: "Investigating contextual effects on the production of English probability expressions"
+subtitle: "Preliminary data cleaning and visualization"
+author: "Michele Herbstritt, Michael Franke"
+output:
+  html_document: default
+---
+
+#### Introduction
+We tested values of 0, 3, 4, 5, 10  (likelihood of focal outcome, 0 and 10 being control conditions), within subject manipulation of scenario (dual, plural) and within subject manipulation of qud (polar, wh). We measured participants' choices of the messages 'certainly not', 'probably not', 'probably', 'certainly'. 
+
+```{r message=FALSE,warning=FALSE}
+# load libraries
+library(tidyverse)
+```
+
+#### Getting and cleaning data
+Import dataset, obtained merging two datasets obtained in two sessions on AMT, then anonymizing worker ids
+```{r}
+# get data
+d <- read.csv("full-50workers.csv")
+```
+
+Quick look at data frame.
+```{r}
+str(d)
+```
+
+#### Exclusion criteria
+Check reported languages, difficulty, comments.
+```{r}
+d$language %>% unique()
+xtabs(~difficulty,d)
+d$comments[!is.na(d$comments)] %>% unique()
+```
+
+There are no worrying comments and the distribution over difficulty levels seems fine too.
+Remove non-native english speakers.
+```{r}
+d <- droplevels(subset(d,!d$language %in% c("Hindi", "Tamil")))
+str(d)
+```
+
+48 participants left.
+
+Check control questions: we expect values of 0 and 10 red balls respectively associated with message choice of 'certainly not' and 'certainly' respectively. Each participant saw 4 control conditions. We plan to exclude data from participants who failed 3 or more.
+```{r}
+# assign passed control score to each row corresponding to a control condition
+d <- d %>% mutate(passed.control=ifelse(!value %in% c(0,10),NA,ifelse((value==0 & sentExpression != 'certNot') | (value==1 & sentExpression != 'cert'),0,1)))
+# compute overall control score for each participant
+d <- d %>% group_by(id) %>% mutate(overall.control.score=sum(passed.control, na.rm=TRUE))
+xtabs(~overall.control.score, d)
+```
+
+Nobody failed more than 1 control. Accordingly to the adopted exclusion criterion, we don't exclude any participant.
+Save clean df as is.
+```{r}
+write.csv(d,"clean-48workers.csv",row.names = FALSE)
+```
+
+For the purpose of possible extra explorations, we also save a 'perfect' data set, i.e. containing only data from participants who got every control right.
+```{r}
+perfect.ids <- d %>% filter(overall.control.score==4) %>% select(id) %>% unique()
+length(perfect.ids$id)
+d %>% filter(id %in% perfect.ids$id) %>% write.csv(.,"perfect-43workers.csv",row.names = FALSE)
+```
+
+
+#### Visualizations 
+Split into two data frames: question data obtained in the training (e.g. 'You can bet on red or not bet at all... which question do you ask?') and expression data ('Which message do you send?').
+```{r}
+q.data <- droplevels(subset(d, d$kind=="training"))
+e.data <- droplevels(subset(d, d$kind=="trial"))
+```
+
+##### Training data
+One preliminary visualization of question/betting data, to check whether our intuition is on the right track, that one should ask a polar question when presented with a single betting option ('bet on red vs not bet') and ask a wh question when presented with multiple betting option ('bet on red/blue/green/... vs not bet').
+```{r}
+# the manipulation of focal color was inessential, we can aggregate choices of 'will it be black' and 'will it be red' in a single polar qud column
+q.data$askedQ <- ifelse(q.data$askedQuestion=="wh","wh","polar")
+# counts of question type choice
+q.data.question <- as.data.frame(xtabs(~askedQ+option,q.data))
+# from counts to percentage
+q.data.question <- q.data.question %>% group_by(option) %>% mutate(percentage=100*Freq/sum(Freq))
+```
+
+```{r, fig.width=4, fig.height=3}
+ggplot(data=q.data.question)+
+  geom_bar(aes(x=option,y=percentage,fill=askedQ),stat="identity", width=.5, position="dodge")+
+  theme_bw()+
+  theme(strip.background=element_blank(),text=element_text(size=16),axis.text=element_text(size=10),legend.position="bottom")
+```
+
+As expected, it seems that participants largely prefer to ask a wh question than a polar one when presented with a multiple betting option. The tendency is inverted for the single betting option, although the difference between asked questions seems smaller. This observation is not particularly puzzling if we keep in mind that, semantically, a wh question about a set of outcomes, e.g. 'Which x is P?' entails the polar questions about each specific outcome, e.g. 'Is a P?', 'Is b P?', ..., in the sense that a complete answer to the former contains enough information to answer all the latter too.
+
+##### Expression data
+First, we fix a few data types and orders to make visualizations more perspicuous.
+```{r}
+# value should be numeric
+e.data$value <- as.integer(levels(e.data$value))[as.integer(e.data$value)]
+# expressions should be ordered by semantic strength
+e.data$sentExpression <- factor(e.data$sentExpression,levels(e.data$sentExpression)[c(2, 4, 3, 1)])
+# better looking names 
+levels(e.data$sentExpression) <- c("certainly not", "probably not", "probably", "certainly")
+```
+
+First and simplest plot, expression choice distributions for each value, aggregating all other conditions. We expect choice ratios of semantically stonger messages to increase as the likelihood of the event increases.
+```{r}
+# count chioces of expressions in each value
+e.data.aggr <- as.data.frame(xtabs(~sentExpression+value,e.data))
+# from counts to percentages of observations; each value was seen once from every participant
+e.data.aggr <- e.data.aggr %>% group_by(value) %>% mutate(percentage=100*Freq/sum(Freq))
+```
+
+```{r, fig.width=8, fig.height=3}
+ggplot(data=e.data.aggr)+
+  geom_bar(aes(x=sentExpression,y=percentage,fill=sentExpression),stat="identity")+
+  facet_wrap(facets = ~value, ncol=5)+
+  ylab("choice %")+
+  theme_bw()+
+  theme(strip.background=element_blank(),text=element_text(size=16),axis.text=element_text(size=10),axis.text.x = element_text(angle = 45, hjust = 1), legend.position="none")
+```
+
+We can observe the expected pattern.
+
+Second, expression choice distributions for each value, and each scenario, aggregating quds. We expect to see a positive effect of plural scenario, other things being equal, on the choice ratios of semantically stronger expressions.
+```{r}
+# count chioces of expressions in each value and scenario
+e.data.byscen <- as.data.frame(xtabs(~sentExpression+value+scenario,e.data))
+# from counts to percentages
+e.data.byscen <- e.data.byscen %>% group_by(value, scenario) %>% mutate(percentage=100*Freq/sum(Freq))
+```
+
+```{r, fig.width=8, fig.height=6}
+ggplot(data=e.data.byscen)+
+  geom_bar(aes(x=sentExpression,y=percentage,fill=sentExpression),stat="identity")+
+  facet_wrap(facets = ~scenario+value, ncol=5)+
+  ylab("choice %")+
+  theme_bw()+
+  theme(strip.background=element_blank(),text=element_text(size=16),axis.text=element_text(size=10),axis.text.x = element_text(angle = 45, hjust = 1), legend.position="none")
+```
+
+The expected pattern can be observed in the critical conditions 3, 4 and 5, where the choices of 'probably' seem to increase, compared to 'probably not' when moving from dual to plural scenario. The data corresponding to the control condition 0 displays a mixed, more puzzling, behavior.
+
+Third, expression choice distributions for each value, and each qud, aggregating scenarios. We expect to see a positive effect of wh qud, other things being equal, on the choice ratios of semantically stronger expressions.
+```{r}
+# count chioces of expressions in each value and scenario
+e.data.byqud=as.data.frame(xtabs(~sentExpression+value+qud,e.data))
+# from counts to percentages
+e.data.byqud <- e.data.byqud %>% group_by(value, qud) %>% mutate(percentage=100*Freq/sum(Freq))
+```
+
+```{r, fig.width=8, fig.height=6}
+ggplot(data=e.data.byqud)+
+  geom_bar(aes(x=sentExpression,y=percentage,fill=sentExpression),stat="identity")+
+  facet_wrap(facets = ~qud+value, ncol=5)+
+  ylab("choice %")+
+  theme_bw()+
+  theme(strip.background=element_blank(),text=element_text(size=16),axis.text=element_text(size=10),axis.text.x = element_text(angle = 45, hjust = 1), legend.position="none")
+```
+
+In this case it seems hard to see the expected pattern, or any other effect whatsoever.
+
+Fourth, full plot with expression choice distributions for each value, qud and scenario.
+```{r}
+# count chioces of expressions in each value and scenario
+e.data.full <- as.data.frame(xtabs(~sentExpression+value+qud+scenario,e.data))
+# from counts to percentages
+e.data.full <- e.data.full %>% group_by(value, qud, scenario) %>% mutate(percentage=100*Freq/sum(Freq))
+```
+
+```{r, fig.width=12, fig.height=6}
+ggplot(data=e.data.full)+
+  geom_bar(aes(x=sentExpression,y=percentage,fill=sentExpression),stat="identity")+
+  facet_wrap(facets = ~qud+scenario+value, ncol=10)+
+  ylab("choice %")+
+  theme_bw()+
+  theme(strip.background=element_blank(),text=element_text(size=16),axis.text=element_text(size=10),axis.text.x = element_text(angle = 45, hjust = 1), legend.position="none")
+```

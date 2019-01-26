@@ -2,4 +2,4 @@
 
 Measuring and modeling uncertain beliefs
 
-![urns.png](https://github.com/mic-he/ProbExp-PhD/chapter4/blob/master/beliefs.png)
+![urns.png](https://github.com/mic-he/ProbExp-PhD/blob/master/chapter4/beliefs.png)

@@ -1,0 +1,1249 @@
+"id","itemTime","trialnumber","value","access","observation","answer1","answer2","RT","language","comments","engagement","difficulty"
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171479347,1,107,10,7,"is_certainly","probable",18214,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171487254,2,41,4,1,"might_be","possible",7905,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171502803,3,42,4,2,"is_certainly","possible",15547,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171511317,4,108,10,8,"is","likely",8508,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171520312,5,84,8,4,"is","possible",8993,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171529369,6,105,10,5,"is_certainly","likely",9055,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171535521,7,102,10,2,"is","unlikely",6150,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171543632,8,80,8,0,"is","unlikely",8109,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171550110,9,43,4,3,"is_probably","likely",6477,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171566375,10,103,10,3,"might_be","possible",16262,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171572276,11,86,8,6,"is","likely",5896,"English",NA,"6",4
+"6905ef4b2a5f2d427f275190cbdbdc3f65f785b7b2e32c59198c9942336d5930",1456171577713,12,82,8,2,"might_be","possible",5435,"English",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178885616,1,86,8,6,"is_probably","probable",18169,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178893945,2,84,8,4,"might_be","possible",8327,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178905165,3,103,10,3,"is_certainly","probable",11218,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178916580,4,43,4,3,"is_probably","likely",11414,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178934408,5,105,10,5,"might_be","possible",17826,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178942727,6,88,8,8,"is_certainly","probable",8317,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178951907,7,80,8,0,"is_probably","unlikely",9179,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178962273,8,102,10,2,"might_be","unlikely",10364,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178968975,9,42,4,2,"might_be","possible",6701,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178976298,10,82,8,2,"is_probably","unlikely",7321,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178982661,11,20,2,0,"is_certainly","unlikely",6361,"english",NA,"6",4
+"e57a5110c1b9280ede3026d5857ec45aa9cd70d55874b2cada21dd38448e1458",1456178991304,12,107,10,7,"might_be","probable",8642,"english",NA,"6",4
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259814763,1,41,4,1,"might_be","unlikely",30524,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259828445,2,108,10,8,"is_certainly","likely",13667,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259838293,3,103,10,3,"is_certainly","unlikely",9840,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259847412,4,105,10,5,"is_certainly","possible",9112,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259860838,5,88,8,8,"is_certainly","likely",13418,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259878779,6,42,4,2,"might_be","possible",17935,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259885464,7,82,8,2,"might_be","unlikely",6677,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259891792,8,86,8,6,"might_be","likely",6316,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259914640,9,20,2,0,"might_be","unlikely",22833,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259921234,10,107,10,7,"is","likely",6582,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259929753,11,80,8,0,"is_probably","unlikely",8511,"English",NA,"8",2
+"44f51f86802d362fc9fbcf8717a1c951c8e35a443cd2a9541fcbbe0ef913029c",1456259938849,12,84,8,4,"is","possible",9089,"English",NA,"8",2
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169527715,1,107,10,7,"is","probable",18724,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169547091,2,105,10,5,"is","possible",19370,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169562507,3,20,2,0,"might_be","possible",15398,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169578195,4,84,8,4,"might_be","possible",15671,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169585924,5,108,10,8,"is","probable",7722,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169594179,6,102,10,2,"is","unlikely",8250,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169605203,7,86,8,6,"is_probably","likely",11018,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169614195,8,43,4,3,"is","probable",8986,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169623404,9,88,8,8,"is_certainly","likely",9202,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169628221,10,22,2,2,"is","possible",4810,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169633309,11,42,4,2,"is","possible",5082,"English",NA,"8",1
+"a53fda334a6cf8ae64bd36d02ece3e03119c9fff5b94b79bb9d14c7bb8fee906",1456169642484,12,82,8,2,"is_probably","unlikely",9169,"English",NA,"8",1
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170934510,1,86,8,6,"might_be","possible",26178,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170943596,2,82,8,2,"is_probably","unlikely",9080,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170954493,3,42,4,2,"is","possible",10893,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170967372,4,80,8,0,"is_certainly","unlikely",12875,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170975834,5,105,10,5,"is","possible",8458,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170986719,6,88,8,8,"is_certainly","likely",10881,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456170997507,7,20,2,0,"is_certainly","unlikely",10784,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456171010489,8,103,10,3,"might_be","possible",12978,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456171020739,9,107,10,7,"might_be","probable",10247,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456171026289,10,102,10,2,"might_be","unlikely",5547,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456171039692,11,22,2,2,"is_certainly","likely",13399,"English",NA,"6",0
+"5763b653d9e5f9d5d9a52b055c4107fbbfd82e303691212fddaaba732e44d254",1456171052768,12,41,4,1,"is","unlikely",13062,"English",NA,"6",0
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169650404,1,86,8,6,"is_probably","likely",17068,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169663326,2,103,10,3,"is","unlikely",12920,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169670126,3,43,4,3,"is_probably","likely",6799,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169680425,4,105,10,5,"is","possible",10299,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169687952,5,82,8,2,"is","unlikely",7526,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169701311,6,102,10,2,"is_probably","unlikely",13358,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169708300,7,41,4,1,"is","unlikely",6988,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169717066,8,22,2,2,"might_be","probable",8765,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169724801,9,107,10,7,"is","likely",7734,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169731545,10,80,8,0,"is","unlikely",6742,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169737247,11,42,4,2,"is","possible",5701,"english",NA,"6",3
+"443702e035e643f56083811a59dedbef55fc32f7bbff19543875d8730fda6202",1456169744799,12,88,8,8,"is","probable",7551,"english",NA,"6",3
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767769245,1,105,10,5,"is_certainly","likely",22122,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767782187,2,107,10,7,"is_certainly","likely",12937,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767792808,3,84,8,4,"might_be","possible",10616,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767806140,4,80,8,0,"is_certainly","unlikely",13327,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767813920,5,88,8,8,"is_certainly","likely",7775,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767823935,6,102,10,2,"is_probably","unlikely",10007,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767840045,7,82,8,2,"might_be","unlikely",16104,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767856457,8,103,10,3,"is_probably","unlikely",16408,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767866837,9,20,2,0,"might_be","possible",10376,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767880562,10,42,4,2,"is_certainly","unlikely",13716,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767888649,11,108,10,8,"is_certainly","likely",8068,"English",NA,"10",2
+"7b4fce2bc4466363ed0190beba67635ee5af14bb0feb0b8ad9036e62fabf4806",1455767898451,12,86,8,6,"is_probably","likely",9797,"English",NA,"10",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267040499,1,20,2,0,"is","probable",4978,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267053988,2,80,8,0,"is_certainly","likely",13487,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267060907,3,88,8,8,"is","unlikely",6916,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267069742,4,86,8,6,"is_probably","unlikely",8832,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267076302,5,43,4,3,"is","probable",6560,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267079862,6,42,4,2,"is","probable",3559,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267088718,7,107,10,7,"is_probably","unlikely",8855,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267092990,8,105,10,5,"is_probably","unlikely",4271,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267100294,9,22,2,2,"is_probably","possible",7303,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267106887,10,102,10,2,"is_certainly","probable",6592,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267110246,11,103,10,3,"is_probably","probable",3358,"english","no","8",2
+"31c02b5628f329665e2bb5525e17286e70eb822a85862bc7652d5d3a2715fcbb",1456267117038,12,41,4,1,"is","probable",6791,"english","no","8",2
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261305496,1,108,10,8,"is_certainly","probable",14655,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261314167,2,105,10,5,"is","possible",8670,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261325295,3,82,8,2,"is_certainly","unlikely",11127,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261339745,4,102,10,2,"is","unlikely",14448,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261347095,5,84,8,4,"might_be","possible",7345,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261356360,6,80,8,0,"is_certainly","unlikely",9262,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261362984,7,107,10,7,"is_certainly","probable",6622,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261387560,8,43,4,3,"is_probably","possible",24574,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261392495,9,88,8,8,"is_certainly","probable",4934,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261406616,10,22,2,2,"might_be","possible",14118,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261416504,11,41,4,1,"is","possible",9884,"English",NA,"10",3
+"170f202301086558a86dfb978245c575f6b7ddef531930a6ebd1721ab9c1fc55",1456261423248,12,42,4,2,"might_be","probable",6743,"English",NA,"10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169710090,1,41,4,1,"is_probably","unlikely",30415,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169721593,2,107,10,7,"is_certainly","likely",11499,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169738828,3,82,8,2,"is_certainly","unlikely",17234,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169767318,4,105,10,5,"is","possible",28489,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169784559,5,20,2,0,"might_be","possible",17239,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169798813,6,84,8,4,"might_be","possible",14253,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169810270,7,102,10,2,"is_certainly","unlikely",11455,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169825083,8,43,4,3,"might_be","probable",14812,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169839633,9,22,2,2,"is","possible",14548,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169847773,10,42,4,2,"might_be","possible",8139,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169853229,11,108,10,8,"is_certainly","likely",5454,"english","It was fun to do","10",3
+"724736cf1c145da796eebc58afb21c3ca298747f256b510e02a0a110213fd0a3",1456169860384,12,80,8,0,"is_certainly","unlikely",7153,"english","It was fun to do","10",3
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189851519,1,107,10,7,"is_probably","likely",13658,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189860175,2,41,4,1,"is_probably","unlikely",8655,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189870311,3,82,8,2,"is_probably","unlikely",10135,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189878007,4,102,10,2,"is_certainly","unlikely",7695,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189884808,5,86,8,6,"is_probably","likely",6799,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189904183,6,108,10,8,"is_certainly","likely",19375,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189910456,7,20,2,0,"might_be","possible",6272,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189913759,8,22,2,2,"might_be","possible",3303,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189920039,9,105,10,5,"might_be","possible",6279,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189924658,10,42,4,2,"might_be","possible",4618,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189932727,11,88,8,8,"is_certainly","likely",8068,"English","None","5",8
+"b91beb2df325ba1745b87a8300c4f1a3a2dba129dc730970ade96ac7b0f00a97",1456189937575,12,84,8,4,"is_probably","likely",4845,"English","None","5",8
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260414822,1,88,8,8,"might_be","likely",11547,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260421598,2,107,10,7,"is_probably","possible",6773,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260427655,3,22,2,2,"is_probably","possible",6055,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260435396,4,80,8,0,"might_be","unlikely",7738,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260441697,5,82,8,2,"is_probably","unlikely",6300,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260446626,6,43,4,3,"is_probably","possible",4927,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260452823,7,84,8,4,"is_probably","possible",6195,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260459985,8,20,2,0,"might_be","unlikely",7160,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260465288,9,86,8,6,"is_probably","possible",5301,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260472455,10,102,10,2,"is_probably","unlikely",7164,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260487123,11,108,10,8,"might_be","possible",14665,"english",NA,"10",1
+"c3cb269ecad7cc6c1af9b801a603c8c036b89ea14b3471f74f25d2331f585560",1456260491139,12,105,10,5,"might_be","possible",4014,"english",NA,"10",1
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263295908,1,88,8,8,"is_certainly","likely",19830,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263316789,2,80,8,0,"is_certainly","unlikely",20877,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263323739,3,22,2,2,"is","unlikely",6943,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263337898,4,41,4,1,"is","possible",14156,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263344178,5,82,8,2,"is","unlikely",6277,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263350622,6,43,4,3,"is","possible",6440,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263356843,7,84,8,4,"is","possible",6217,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263373020,8,105,10,5,"is","possible",16174,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263385731,9,107,10,7,"is","likely",12708,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263392690,10,20,2,0,"is","possible",6955,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263398708,11,42,4,2,"is","possible",6014,"English","None","10",5
+"73e8ba2287af2e2d0306ea83eccc5ba3ca6f32ad95a5420e33438f4ec5445069",1456263406418,12,86,8,6,"is","probable",7707,"English","None","10",5
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261792661,1,43,4,3,"might_be","probable",61656,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261810569,2,88,8,8,"is","probable",17903,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261828637,3,108,10,8,"is","probable",18064,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261848028,4,41,4,1,"might_be","unlikely",19376,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261871809,5,42,4,2,"might_be","likely",23776,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261926021,6,105,10,5,"might_be","likely",54205,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261942588,7,20,2,0,"might_be","unlikely",16561,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261953611,8,107,10,7,"is","probable",11018,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261970130,9,80,8,0,"is","unlikely",16514,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261980786,10,103,10,3,"is","unlikely",10651,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456261992928,11,86,8,6,"is","probable",12138,"English",NA,"9",3
+"3b2468f8ffa2214970b4039d8313ada66a600f66811ae5ee50dd0f0547b4bff2",1456262005408,12,22,2,2,"might_be","probable",12476,"English",NA,"9",3
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268091727,1,108,10,8,"is_certainly","probable",23856,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268118974,2,42,4,2,"might_be","possible",27235,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268145563,3,105,10,5,"is","possible",26579,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268175682,4,41,4,1,"is","unlikely",30106,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268187775,5,103,10,3,"is","unlikely",12082,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268201515,6,88,8,8,"is_certainly","likely",13728,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268213008,7,22,2,2,"might_be","possible",11481,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268225687,8,86,8,6,"is_probably","likely",12670,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268237648,9,102,10,2,"is","unlikely",11951,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268275773,10,43,4,3,"is","possible",38117,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268283579,11,84,8,4,"is","possible",7791,"English","Interesting and quick study. Thanks!","9",1
+"21417840c239c9a6f15ab5af153fbf57bae678c42cd76325cddd5470fa526aa4",1456268295950,12,107,10,7,"is_certainly","probable",12362,"English","Interesting and quick study. Thanks!","9",1
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171636987,1,105,10,5,"is","probable",6061,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171642548,2,102,10,2,"is","possible",5548,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171647868,3,43,4,3,"is_probably","probable",5309,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171655373,4,108,10,8,"is_certainly","unlikely",7494,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171661237,5,82,8,2,"is_probably","probable",5852,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171666704,6,22,2,2,"might_be","possible",5456,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171670310,7,103,10,3,"is_probably","probable",3597,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171677327,8,86,8,6,"might_be","unlikely",7005,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171684927,9,88,8,8,"is_certainly","unlikely",7590,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171688817,10,20,2,0,"is_probably","probable",3879,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171692840,11,41,4,1,"is_probably","possible",4009,"english",NA,"8",5
+"adb39b9e0cba7af47ed01b5ebee972ed9a14a632c05957bd34ef442761e6f6c7",1456171697662,12,42,4,2,"is","possible",4806,"english",NA,"8",5
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259639073,1,88,8,8,"is_probably","likely",23267,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259658544,2,82,8,2,"is","unlikely",19469,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259666933,3,20,2,0,"might_be","possible",8386,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259680153,4,86,8,6,"is","likely",13217,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259689632,5,80,8,0,"is","unlikely",9477,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259706413,6,43,4,3,"might_be","possible",16778,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259714885,7,102,10,2,"is","unlikely",8469,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259720647,8,42,4,2,"might_be","possible",5760,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259732144,9,107,10,7,"is","probable",11495,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259747189,10,103,10,3,"is_probably","unlikely",15043,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259770662,11,41,4,1,"is_probably","unlikely",23470,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"5975fa72f98b84da2b7ef835cab16bfc88593fc0c2d4c1d063ff749655d3c173",1456259776893,12,108,10,8,"is","likely",6228,"English","The responses felt very structured.  In the real world I probably wouldn't phrase things like that. ","7",7
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172560236,1,108,10,8,"is_certainly","probable",17393,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172572524,2,22,2,2,"is","possible",12280,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172579395,3,107,10,7,"is_probably","likely",6865,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172593398,4,43,4,3,"is_certainly","possible",13994,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172597947,5,88,8,8,"is_certainly","probable",4543,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172605608,6,103,10,3,"is","unlikely",7650,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172615201,7,42,4,2,"might_be","possible",9585,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172626121,8,82,8,2,"is_probably","unlikely",10912,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172631183,9,41,4,1,"is_probably","unlikely",5055,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172639342,10,105,10,5,"is_certainly","possible",8144,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172645496,11,86,8,6,"is_probably","likely",6144,"English","I thought this was fun and interesting","8",2
+"d519f9ff9a3b453c2d1712db2bcaab7a94dc1d3d968233bff5d74d2184ddc421",1456172653504,12,102,10,2,"is","unlikely",8000,"English","I thought this was fun and interesting","8",2
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210187768,1,20,2,0,"might_be","possible",30584,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210201609,2,84,8,4,"might_be","probable",13838,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210215279,3,43,4,3,"is","likely",13667,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210224243,4,107,10,7,"is","likely",8963,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210236488,5,42,4,2,"might_be","probable",12242,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210248313,6,41,4,1,"is_probably","unlikely",11822,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210265817,7,105,10,5,"might_be","probable",17503,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210275952,8,108,10,8,"is_probably","likely",10132,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210281856,9,22,2,2,"might_be","possible",5903,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210288208,10,82,8,2,"is_probably","unlikely",6352,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210304833,11,88,8,8,"is_probably","likely",16624,"English",NA,"10",5
+"0131e7667eecf0aec40ab15337098ff96fc2be118d378d4e0501c3a501ce87e1",1456210312529,12,103,10,3,"is_probably","unlikely",7693,"English",NA,"10",5
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721381869,1,80,8,0,"is","probable",27344,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721403891,2,82,8,2,"is_probably","unlikely",22020,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721418947,3,88,8,8,"might_be","possible",15054,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721428644,4,84,8,4,"might_be","possible",9694,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721451892,5,86,8,6,"is","probable",23245,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721675965,6,20,2,0,"might_be","possible",224066,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721691812,7,42,4,2,"might_be","possible",15841,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721707235,8,41,4,1,"is_probably","possible",15419,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721732764,9,107,10,7,"is_probably","likely",25527,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721747108,10,108,10,8,"is_probably","likely",14342,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721762589,11,102,10,2,"is_probably","unlikely",15479,"English",NA,"10",3
+"436dc3c4c99b42c7cab684a650d0704982b064dc592a442ea4cec96da4dd6798",1455721770268,12,105,10,5,"is","possible",7677,"English",NA,"10",3
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259627273,1,20,2,0,"is","unlikely",16070,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259638281,2,43,4,3,"is","likely",11008,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259650417,3,105,10,5,"might_be","possible",12136,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259659649,4,86,8,6,"is","likely",9232,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259672930,5,22,2,2,"is","possible",13280,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259680576,6,88,8,8,"is_certainly","likely",7644,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259690048,7,102,10,2,"is","unlikely",9472,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259699960,8,41,4,1,"is","unlikely",9912,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259707416,9,108,10,8,"is","unlikely",7456,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259716632,10,82,8,2,"is","unlikely",9216,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259731736,11,107,10,7,"is","likely",15104,"english",NA,"7",7
+"028073c29f1975d539a4846d2770e81f12536b91b22a783f7ee5a4189c01ab4b",1456259739744,12,80,8,0,"is","unlikely",8008,"english",NA,"7",7
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456259914901,1,84,8,4,"is_probably","possible",41893,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456259949007,2,43,4,3,"is","probable",34104,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456259964475,3,105,10,5,"is_certainly","possible",15466,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456259976023,4,41,4,1,"is","unlikely",11545,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456259986245,5,103,10,3,"is","unlikely",10220,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456259999546,6,22,2,2,"is","possible",13298,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456260006989,7,20,2,0,"is","unlikely",7441,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456260015850,8,102,10,2,"is","possible",8857,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456260030250,9,80,8,0,"is","unlikely",14399,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456260037771,10,108,10,8,"is","probable",7519,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456260044126,11,107,10,7,"is","probable",6354,"English",NA,"9",2
+"9e7ac47f54f333fbb3365cb00a35d61635559a819c1230c8dcd4cebe3c91eb45",1456260051666,12,86,8,6,"is","possible",7538,"English",NA,"9",2
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330225314,1,103,10,3,"might_be","unlikely",23880,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330238474,2,80,8,0,"is_certainly","unlikely",13157,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330274018,3,102,10,2,"is","unlikely",35541,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330285041,4,41,4,1,"is","unlikely",11019,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330299699,5,108,10,8,"is_probably","likely",14656,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330309819,6,82,8,2,"is_probably","unlikely",10117,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330319227,7,107,10,7,"is_probably","likely",9400,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330330946,8,20,2,0,"is","unlikely",11717,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330349800,9,43,4,3,"is_probably","probable",18852,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330373099,10,84,8,4,"might_be","possible",23296,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330391178,11,105,10,5,"is_probably","probable",18078,"english",NA,"10",5
+"ac3a0a01edea68ef92dd76cb6e8dff8c6aed69f6b5f1b31995fc6b79742793a1",1456330418042,12,42,4,2,"is","probable",26858,"english",NA,"10",5
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265533334,1,43,4,3,"might_be","possible",12488,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265542031,2,88,8,8,"is","likely",8696,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265547716,3,86,8,6,"might_be","likely",5682,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265555450,4,42,4,2,"might_be","possible",7733,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265560410,5,82,8,2,"is","unlikely",4959,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265565224,6,20,2,0,"is","unlikely",4813,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265576192,7,84,8,4,"is","possible",10967,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265581590,8,80,8,0,"is","unlikely",5395,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265587894,9,105,10,5,"is","possible",6303,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265594440,10,108,10,8,"is","likely",6545,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265602620,11,41,4,1,"is_probably","unlikely",8179,"English",NA,"10",4
+"0b2b087776dc112716295aa2e43abb0ef1d1cae6ce5e19e94410a0e0756527ef",1456265621350,12,102,10,2,"is","unlikely",18729,"English",NA,"10",4
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456319930458,1,82,8,2,"might_be","possible",16415,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456319941300,2,103,10,3,"might_be","possible",10820,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456319954295,3,22,2,2,"is","unlikely",12980,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456319971795,4,88,8,8,"is_certainly","likely",17486,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456319994861,5,80,8,0,"is_certainly","unlikely",23056,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320005254,6,84,8,4,"might_be","possible",10381,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320013704,7,43,4,3,"is_probably","probable",8430,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320020826,8,105,10,5,"is","likely",7103,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320028985,9,102,10,2,"might_be","likely",8141,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320036503,10,108,10,8,"is","likely",7500,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320042730,11,86,8,6,"is","likely",6213,"english",NA,"9",2
+"eaef5ee8b7ef8755a1b80452072841ccacd29f2aeb54e5b58408c76648e4efb7",1456320048585,12,20,2,0,"is_certainly","unlikely",5841,"english",NA,"9",2
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273661813,1,88,8,8,"is_certainly","likely",13719,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273670145,2,22,2,2,"might_be","possible",8330,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273686129,3,20,2,0,"might_be","unlikely",15981,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273692024,4,43,4,3,"is_probably","probable",5890,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273702203,5,107,10,7,"is_probably","probable",10177,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273712466,6,105,10,5,"is","possible",10261,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273719401,7,42,4,2,"is","possible",6933,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273726149,8,82,8,2,"is","unlikely",6746,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273731758,9,86,8,6,"is","probable",5607,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273738916,10,108,10,8,"is","likely",7156,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273744493,11,80,8,0,"is","unlikely",5574,"Engligh",NA,"10",1
+"c18d44f278700c2a92a6b63ee3fa4b570938fda189b78cbb4485177336305978",1456273749246,12,102,10,2,"is","unlikely",4751,"Engligh",NA,"10",1
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259632034,1,82,8,2,"is","unlikely",25806,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259645629,2,88,8,8,"is_certainly","likely",13592,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259660389,3,102,10,2,"is","unlikely",14759,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259668374,4,80,8,0,"is_certainly","unlikely",7984,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259682100,5,41,4,1,"is","unlikely",13726,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259687695,6,20,2,0,"is","probable",5594,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259705727,7,105,10,5,"is_certainly","possible",18031,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259712385,8,86,8,6,"is","likely",6657,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259716831,9,108,10,8,"is_certainly","likely",4445,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259720996,10,84,8,4,"is","probable",4164,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259724196,11,42,4,2,"is","probable",3200,"English","no","7",3
+"8e9e059d5625b5804f809646321e7e6369a76c0e652a90de866402e7db9632a5",1456259744504,12,43,4,3,"is_certainly","likely",20307,"English","no","7",3
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342902229,1,82,8,2,"might_be","unlikely",22365,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342922605,2,88,8,8,"is_probably","probable",20360,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342938934,3,41,4,1,"is","unlikely",16323,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342944468,4,42,4,2,"might_be","possible",5520,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342948942,5,102,10,2,"is_probably","unlikely",4469,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342956741,6,103,10,3,"might_be","unlikely",7792,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342962156,7,80,8,0,"is_probably","unlikely",5408,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342967724,8,43,4,3,"might_be","possible",5563,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342978004,9,107,10,7,"is_probably","likely",10275,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342986355,10,86,8,6,"is","likely",8346,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342991436,11,22,2,2,"might_be","possible",5075,"English","This really was fun, thanks! :)","8",2
+"3d406b0c14917676a3409d29343b3a61059aae77e29900da82a6c5ffe1bd5a90",1456342998564,12,105,10,5,"might_be","possible",7123,"English","This really was fun, thanks! :)","8",2
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259598134,1,86,8,6,"is_certainly","probable",15256,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259608395,2,20,2,0,"might_be","possible",10261,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259621135,3,103,10,3,"is_certainly","unlikely",12740,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259631737,4,105,10,5,"is_probably","probable",10586,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259639671,5,102,10,2,"is_probably","unlikely",7934,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259649039,6,108,10,8,"is_certainly","probable",9352,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259657254,7,42,4,2,"might_be","possible",8215,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259665141,8,84,8,4,"is_probably","possible",7872,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259671424,9,41,4,1,"is","unlikely",6283,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259677868,10,107,10,7,"is_probably","probable",6444,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259685294,11,80,8,0,"is","likely",7426,"English",NA,"7",0
+"f72a887468771c6036327354c79ddf1acf8d80857a9d088324e277527bd7a4d7",1456259692373,12,82,8,2,"is_probably","unlikely",7075,"English",NA,"7",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169572100,1,82,8,2,"is","unlikely",21273,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169581648,2,102,10,2,"is","unlikely",9538,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169589824,3,88,8,8,"is_certainly","possible",8169,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169599632,4,103,10,3,"is","unlikely",9805,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169608088,5,20,2,0,"is","possible",8450,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169613855,6,42,4,2,"is","possible",5762,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169621636,7,43,4,3,"is","probable",7776,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169629963,8,105,10,5,"is","possible",8323,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169636489,9,41,4,1,"is","unlikely",6522,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169641762,10,107,10,7,"is","likely",5266,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169647143,11,22,2,2,"is","possible",5377,"English","no","9",0
+"d967c5e6c36128670a6229639ce172a360ce12361333f039f25b7032194fa45a",1456169652646,12,84,8,4,"is","possible",5495,"English","no","9",0
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259691407,1,80,8,0,"is","unlikely",28573,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259698441,2,108,10,8,"is","probable",7029,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259706319,3,84,8,4,"might_be","possible",7876,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259711892,4,107,10,7,"is","probable",5572,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259718419,5,82,8,2,"is","unlikely",6525,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259724676,6,22,2,2,"is","possible",6256,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259729227,7,42,4,2,"is","possible",4550,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259734934,8,86,8,6,"is","probable",5706,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259741097,9,102,10,2,"is","unlikely",6161,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259750876,10,103,10,3,"is","unlikely",9778,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259759948,11,41,4,1,"is","possible",9068,"English",NA,"10",2
+"35c02d7dcaffba54df81dff09337b54b3c8461a1895ae8a36462dec172d31351",1456259764166,12,20,2,0,"is","possible",4217,"English",NA,"10",2
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170412770,1,22,2,2,"might_be","possible",47557,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170433301,2,41,4,1,"is_probably","unlikely",20526,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170474040,3,102,10,2,"is_probably","unlikely",40738,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170504312,4,86,8,6,"is","probable",30266,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170518832,5,84,8,4,"might_be","possible",14518,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170532347,6,42,4,2,"might_be","possible",13509,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170554608,7,107,10,7,"is","probable",22259,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170567550,8,43,4,3,"might_be","possible",12937,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170579502,9,88,8,8,"is_certainly","probable",11947,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170592384,10,82,8,2,"is","probable",12881,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170605105,11,108,10,8,"is","probable",12720,"English",NA,"10",0
+"1e5ad51285ba4721e6e0ab5bc4e29742ee19be80ed4f00944e08e65bbcd68e21",1456170621713,12,105,10,5,"might_be","possible",16606,"English",NA,"10",0
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259664136,1,107,10,7,"is_probably","likely",33800,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259676760,2,105,10,5,"is","possible",12618,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259685841,3,42,4,2,"might_be","possible",9076,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259692389,4,86,8,6,"is_probably","possible",6542,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259702460,5,102,10,2,"is_probably","unlikely",10064,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259711604,6,41,4,1,"is","unlikely",9130,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259718452,7,84,8,4,"is","possible",6833,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259724685,8,82,8,2,"is","unlikely",6224,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259736995,9,22,2,2,"is_certainly","likely",12302,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259744524,10,43,4,3,"is_probably","likely",7522,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259752998,11,80,8,0,"is_certainly","unlikely",8468,"english",NA,"0",7
+"b707c72d2d23d9db65c68729cae8fe77a4c467f59f4810a8402091699756e61c",1456259763763,12,20,2,0,"is_certainly","unlikely",10759,"english",NA,"0",7
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169532793,1,108,10,8,"is","possible",16559,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169545809,2,41,4,1,"is_probably","probable",13010,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169553702,3,22,2,2,"might_be","possible",7889,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169560741,4,43,4,3,"might_be","probable",7031,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169575613,5,102,10,2,"might_be","unlikely",14866,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169586804,6,86,8,6,"is_certainly","probable",11186,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169591876,7,88,8,8,"is_certainly","probable",5067,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169598902,8,42,4,2,"might_be","possible",7020,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169605909,9,82,8,2,"is_probably","unlikely",7002,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169617117,10,103,10,3,"might_be","possible",11200,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169624499,11,80,8,0,"is_certainly","unlikely",7368,"english","No","10",1
+"86efe37d9dbdc6e000891e5f97769d8f22a10b00188345b414e62b0dbd0ef1df",1456169631491,12,20,2,0,"might_be","likely",6986,"english","No","10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169642195,1,102,10,2,"is_certainly","unlikely",19044,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169659741,2,108,10,8,"is_certainly","probable",17542,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169680966,3,80,8,0,"is_certainly","unlikely",21223,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169687942,4,107,10,7,"is_probably","probable",6972,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169702564,5,86,8,6,"is_probably","probable",14621,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169712300,6,84,8,4,"is","possible",9735,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169718060,7,22,2,2,"might_be","possible",5756,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169727608,8,88,8,8,"is_probably","probable",9547,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169733338,9,41,4,1,"is_probably","unlikely",5728,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169742592,10,105,10,5,"is_probably","possible",9252,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169750372,11,82,8,2,"is_probably","unlikely",7777,"English",NA,"10",1
+"11f51e21424709b87364e4ef21f4d5bff9bf76903abd5ca3dd45ab966912c17d",1456169885232,12,43,4,3,"might_be","possible",134855,"English",NA,"10",1
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259554596,1,86,8,6,"is_probably","unlikely",12585,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259559979,2,22,2,2,"is_probably","possible",5382,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259563022,3,105,10,5,"might_be","probable",3042,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259565865,4,41,4,1,"might_be","possible",2841,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259568274,5,107,10,7,"is_probably","probable",2408,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259573610,6,108,10,8,"is_probably","possible",5334,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259576471,7,42,4,2,"is_probably","probable",2860,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259578601,8,43,4,3,"might_be","possible",2129,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259580345,9,82,8,2,"is_probably","possible",1742,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259582804,10,20,2,0,"is_certainly","probable",2457,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259585426,11,102,10,2,"is_probably","unlikely",2621,"english",NA,"10",2
+"3263f59921898f435ff68f95669059d1543507a86b90d0b3df5122e2f7f1ad4b",1456259588923,12,80,8,0,"might_be","likely",3496,"english",NA,"10",2
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260648667,1,103,10,3,"is","unlikely",26195,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260662548,2,86,8,6,"might_be","likely",13881,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260692466,3,108,10,8,"is","likely",29883,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260703597,4,82,8,2,"is","unlikely",11115,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260721629,5,42,4,2,"is","probable",18032,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260733728,6,22,2,2,"is_probably","probable",12083,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260744013,7,41,4,1,"is","unlikely",10285,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260752643,8,80,8,0,"is_certainly","unlikely",8598,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260772981,9,84,8,4,"is","probable",20338,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260784625,10,20,2,0,"might_be","unlikely",11628,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260791560,11,88,8,8,"is_certainly","likely",6920,"english","no","8",5
+"166040fcacd4ddfa10e5b2c78f067cd97ccc6cfab28d79c8f98f8175bc9bea16",1456260802962,12,107,10,7,"is","likely",11402,"english","no","8",5
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169746134,1,80,8,0,"is","unlikely",9859,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169761376,2,84,8,4,"is_probably","possible",15240,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169767795,3,88,8,8,"is_probably","probable",6412,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169774204,4,82,8,2,"might_be","possible",6406,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169780506,5,20,2,0,"is","unlikely",6299,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169786164,6,108,10,8,"is","likely",5656,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169792514,7,41,4,1,"is","unlikely",6346,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169798212,8,22,2,2,"is","likely",5695,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169802124,9,42,4,2,"is","possible",3909,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169809044,10,86,8,6,"is","likely",6918,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169813527,11,102,10,2,"is","unlikely",4481,"english",NA,"5",4
+"3d60e09f6f9f3026435a43cc6a9a95e94923741ef44397d9264bbc9fc0f3e5f6",1456169817230,12,105,10,5,"is","possible",3700,"english",NA,"5",4
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169731540,1,80,8,0,"is_certainly","unlikely",41913,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169793083,2,86,8,6,"is","probable",61540,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169824587,3,82,8,2,"is","unlikely",31501,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169833275,4,88,8,8,"is_certainly","probable",8687,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169855332,5,108,10,8,"is","probable",22054,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169870108,6,41,4,1,"is","possible",14773,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169880259,7,103,10,3,"is","unlikely",10150,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169890236,8,20,2,0,"is","possible",9975,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169899651,9,84,8,4,"is","possible",9414,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169968019,10,102,10,2,"is","unlikely",68367,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169980500,11,105,10,5,"is_certainly","possible",12478,"English",NA,"5",2
+"908dfbf8c75548d43ecd8f79c9b473b4343a8427ee448c0765b6456637d270ee",1456169989651,12,42,4,2,"is","possible",9150,"English",NA,"5",2
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307912174,1,42,4,2,"is","possible",17854,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307920064,2,86,8,6,"is","unlikely",7888,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307926686,3,103,10,3,"is","possible",6621,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307937191,4,108,10,8,"is","likely",10503,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307943675,5,41,4,1,"is","possible",6483,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307952935,6,84,8,4,"is","possible",9257,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307961351,7,80,8,0,"is","possible",8414,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307970575,8,107,10,7,"is","likely",9222,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307974567,9,105,10,5,"is","possible",3991,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307982807,10,43,4,3,"is","possible",8239,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307987695,11,102,10,2,"is","unlikely",4886,"American English","No comment.","5",5
+"b48da5580ffc537a1247287c2de1c1d39408218dc1e31f3a9e4109c6c1ee4a95",1456307992247,12,20,2,0,"is","possible",4551,"American English","No comment.","5",5
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170153494,1,102,10,2,"is_certainly","unlikely",20506,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170162606,2,20,2,0,"is","likely",9109,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170170583,3,42,4,2,"is","likely",7976,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170179693,4,107,10,7,"is","probable",9109,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170190038,5,88,8,8,"is_certainly","likely",10344,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170195950,6,84,8,4,"is","unlikely",5906,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170202492,7,43,4,3,"is","unlikely",6541,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170206812,8,86,8,6,"is","likely",4318,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170213260,9,82,8,2,"is","unlikely",6446,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170220285,10,103,10,3,"is","unlikely",7024,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170224196,11,108,10,8,"is_probably","likely",3910,"english",NA,"5",0
+"e52f618c8a4de4d50f1762b3632132fa4d0c5ad0495004a09f081a0e31196d1b",1456170227901,12,80,8,0,"is","unlikely",3704,"english",NA,"5",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802080794,1,102,10,2,"is_certainly","unlikely",28729,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802098459,2,103,10,3,"is","unlikely",17644,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802115438,3,88,8,8,"is_certainly","likely",16958,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802130039,4,84,8,4,"is","possible",14581,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802140955,5,80,8,0,"is_certainly","unlikely",10892,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802151970,6,20,2,0,"is","unlikely",10991,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802255830,7,86,8,6,"is","likely",103839,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802308019,8,108,10,8,"is_certainly","likely",52163,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802313558,9,82,8,2,"is","unlikely",5519,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802320339,10,107,10,7,"is","probable",6760,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802325581,11,42,4,2,"is","possible",5222,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"b8e10d1f44178ee528ff306c473d17fc0f7c4e3ddafa49d14b74957f9799c4ba",1455802334039,12,41,4,1,"is","unlikely",8434,"English","Great game, enjoyed it and look forward to more thanks.","10",0
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456181954034,1,22,2,2,"is","likely",12799,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456181965348,2,88,8,8,"is_certainly","probable",11312,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456181980467,3,102,10,2,"is","unlikely",15116,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456181990619,4,43,4,3,"might_be","likely",10150,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456181999077,5,107,10,7,"is","probable",8455,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182006400,6,108,10,8,"is_certainly","possible",7321,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182017688,7,103,10,3,"is","unlikely",11286,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182025706,8,105,10,5,"is_probably","probable",8016,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182037308,9,80,8,0,"is_certainly","unlikely",11599,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182041660,10,86,8,6,"is_probably","probable",4350,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182048271,11,82,8,2,"might_be","unlikely",6609,"english",NA,"8",2
+"5acb9dcf55f0f205080d369ab309160e3d9dea800e5fddea59731377d070f65b",1456182054157,12,84,8,4,"might_be","possible",5884,"english",NA,"8",2
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262140317,1,108,10,8,"is","likely",25399,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262158561,2,42,4,2,"is","possible",18240,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262175685,3,86,8,6,"is","possible",17121,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262185548,4,102,10,2,"is","unlikely",9859,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262193567,5,43,4,3,"is","likely",8011,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262212371,6,84,8,4,"is","possible",18802,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262221663,7,105,10,5,"is","possible",9286,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262231481,8,22,2,2,"is","likely",9814,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262239928,9,41,4,1,"is","unlikely",8445,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262248131,10,20,2,0,"is","unlikely",8199,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262258024,11,80,8,0,"is_certainly","unlikely",9891,"American English",NA,"5",0
+"e2b5732f421740d3dfa2a5d7b6f270277bc1c4041d7de8b304325ff1b9b6ce63",1456262266780,12,107,10,7,"is","probable",8751,"American English",NA,"5",0
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259637212,1,42,4,2,"is_probably","possible",10752,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259652512,2,84,8,4,"is","probable",15296,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259660140,3,82,8,2,"is","unlikely",7621,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259666142,4,105,10,5,"is","possible",6000,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259671304,5,41,4,1,"is_probably","possible",5159,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259678918,6,80,8,0,"might_be","unlikely",7612,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259685152,7,86,8,6,"is","likely",6231,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259692421,8,22,2,2,"might_be","possible",7266,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259731554,9,102,10,2,"is","unlikely",39131,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259736296,10,20,2,0,"might_be","possible",4740,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259741457,11,43,4,3,"is_probably","possible",5158,"English",NA,"7",2
+"dc04d27a4e7de3e084713c7ded06c5ed620ac6371e13b1b72298bae245f81779",1456259746719,12,103,10,3,"is","unlikely",5260,"English",NA,"7",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267097427,1,105,10,5,"is","possible",19115,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267108155,2,41,4,1,"is","unlikely",10699,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267116054,3,80,8,0,"is","unlikely",7876,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267125135,4,102,10,2,"might_be","probable",9052,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267133528,5,103,10,3,"is","unlikely",8370,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267140524,6,86,8,6,"is_probably","possible",6978,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267148036,7,42,4,2,"might_be","possible",7485,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267157736,8,88,8,8,"is_certainly","probable",9674,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267170558,9,108,10,8,"might_be","probable",12796,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267179519,10,107,10,7,"is_probably","probable",8947,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267188230,11,20,2,0,"might_be","unlikely",8690,"english",NA,"8",2
+"a5f5a40564b40d3338370bcef1cdcb62848ce7cd6c95782916f62b87b7d81141",1456267194524,12,22,2,2,"is","possible",6278,"english",NA,"8",2
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456260931817,1,107,10,7,"is_certainly","likely",17052,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456260940996,2,84,8,4,"is","possible",9178,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456260995694,3,22,2,2,"is","probable",54695,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261004908,4,103,10,3,"is_certainly","unlikely",9210,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261010491,5,41,4,1,"is_probably","unlikely",5582,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261047311,6,42,4,2,"is_probably","possible",36818,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261052881,7,108,10,8,"is_certainly","likely",5567,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261057943,8,102,10,2,"is_certainly","unlikely",5061,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261062494,9,88,8,8,"is_certainly","likely",4550,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261066788,10,80,8,0,"is_certainly","unlikely",4293,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261071752,11,82,8,2,"is_certainly","unlikely",4962,"english",NA,"10",5
+"acc984cef5070b0bb186e8a1911b1a167d01da92cc3ea7bc93ce4e7ae906efad",1456261076522,12,43,4,3,"might_be","likely",4769,"english",NA,"10",5
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741278720,1,108,10,8,"is_certainly","likely",14844,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741306560,2,102,10,2,"might_be","unlikely",27824,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741333391,3,43,4,3,"might_be","likely",26831,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741345302,4,80,8,0,"is_probably","unlikely",11911,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741355028,5,86,8,6,"is_probably","unlikely",9726,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741383063,6,41,4,1,"might_be","unlikely",28033,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741397945,7,107,10,7,"is_certainly","possible",14866,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741407733,8,88,8,8,"is_certainly","probable",9788,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741417479,9,103,10,3,"might_be","possible",9715,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741426855,10,105,10,5,"is_probably","possible",9376,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741433273,11,84,8,4,"is_probably","possible",6418,"English","Very interesting task. Thank you. ","10",3
+"0a42b9ff4379072c1e5666eed587981273845a4ae5b7c332e8fa4bde5ef7ae22",1455741463414,12,82,8,2,"might_be","unlikely",30141,"English","Very interesting task. Thank you. ","10",3
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259813001,1,43,4,3,"might_be","likely",46924,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259846491,2,22,2,2,"is","possible",33490,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259863228,3,88,8,8,"is_certainly","probable",16737,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259883165,4,86,8,6,"is_probably","likely",19937,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259901261,5,42,4,2,"is","possible",18096,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259909995,6,80,8,0,"is_certainly","unlikely",8734,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259927040,7,107,10,7,"is","likely",17045,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259936992,8,20,2,0,"might_be","possible",9952,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259950819,9,102,10,2,"is_certainly","unlikely",13817,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259960383,10,82,8,2,"is_probably","unlikely",9554,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259969288,11,108,10,8,"is_certainly","likely",8905,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"8d8da62151dba7af0ab54ea3d046fbc751fd92d9dea628e94d6b5374138f495d",1456259982979,12,103,10,3,"is","unlikely",13691,"English","The choices for messages to send were rather vague and didn't translate numbers well"," yet I didn't think choosing the best message was difficult.",8
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177464305,1,86,8,6,"is_certainly","probable",28912,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177478656,2,43,4,3,"might_be","likely",14348,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177495432,3,42,4,2,"might_be","likely",16774,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177513759,4,102,10,2,"is","unlikely",18323,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177525511,5,103,10,3,"is","unlikely",11748,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177533285,6,88,8,8,"is_certainly","probable",7772,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177541302,7,22,2,2,"might_be","possible",8015,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177552204,8,84,8,4,"might_be","possible",10901,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177559035,9,105,10,5,"might_be","possible",6830,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177566275,10,41,4,1,"might_be","unlikely",7238,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177575572,11,80,8,0,"is","unlikely",9296,"English",NA,"8",2
+"9f4e4c9480f135c46a9ce06662b47c1a01ca50ca1076892fd3383038fccb2008",1456177582922,12,108,10,8,"is","probable",7349,"English",NA,"8",2
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283231959,1,103,10,3,"is_probably","possible",6680,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283238008,2,20,2,0,"is_certainly","probable",6047,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283246543,3,22,2,2,"might_be","possible",8531,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283253918,4,82,8,2,"is_certainly","probable",7373,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283316097,5,80,8,0,"is_certainly","likely",62178,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283322882,6,88,8,8,"is","unlikely",6779,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283329257,7,102,10,2,"is_probably","possible",6373,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283333296,8,43,4,3,"is_probably","probable",4037,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283337151,9,42,4,2,"might_be","possible",3853,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283341582,10,86,8,6,"might_be","unlikely",4429,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283345447,11,84,8,4,"is","unlikely",3863,"english","This was fun","5",5
+"cb4faf56879211ee9bd09a09c7b19ddc12dd7e426d68f4f4ed0b143d5448360a",1456283349093,12,105,10,5,"might_be","unlikely",3644,"english","This was fun","5",5
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169498163,1,22,2,2,"might_be","possible",11666,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169505343,2,43,4,3,"is","possible",7171,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169513366,3,41,4,1,"is","unlikely",8014,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169523726,4,86,8,6,"is_probably","likely",10351,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169552671,5,107,10,7,"is","probable",28935,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169560670,6,88,8,8,"is_certainly","likely",7984,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169566945,7,84,8,4,"might_be","possible",6260,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169573397,8,108,10,8,"is_probably","likely",6439,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169582687,9,80,8,0,"is_certainly","unlikely",9277,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169588621,10,105,10,5,"might_be","possible",5916,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169597285,11,82,8,2,"is","unlikely",8653,"english",NA,"6",0
+"22c5ad363a71b8aa71014aa49a5c4faaeceec4e174b43f6c533f78d86b906a9c",1456169604251,12,20,2,0,"might_be","possible",6957,"english",NA,"6",0
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282841163,1,88,8,8,"is_probably","possible",5543,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282847682,2,20,2,0,"might_be","probable",6518,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282854533,3,82,8,2,"is_certainly","unlikely",6849,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282866576,4,86,8,6,"might_be","unlikely",12041,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282879594,5,108,10,8,"is_certainly","unlikely",13016,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282927053,6,103,10,3,"is_probably","probable",47456,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282932379,7,102,10,2,"is_probably","likely",5324,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282937237,8,43,4,3,"is_probably","unlikely",4856,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282941914,9,80,8,0,"is_certainly","likely",4676,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282947195,10,84,8,4,"might_be","possible",5279,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456282953315,11,105,10,5,"might_be","likely",6118,"English","I enjoyed doing this task","5",3
+"ef69af297f77661a72cdcc471e72972d07ae852a40391c51743476bc02521198",1456283030918,12,107,10,7,"is_probably","unlikely",77601,"English","I enjoyed doing this task","5",3
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259608710,1,88,8,8,"might_be","possible",21570,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259631709,2,20,2,0,"is","unlikely",22997,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259644181,3,103,10,3,"is","unlikely",12471,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259651885,4,82,8,2,"is","unlikely",7704,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259658317,5,102,10,2,"is","unlikely",6431,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259665540,6,41,4,1,"is","unlikely",7222,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259669685,7,86,8,6,"is","probable",4144,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259676117,8,84,8,4,"is","possible",6431,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259684700,9,105,10,5,"is","possible",8582,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259688861,10,80,8,0,"is","unlikely",4160,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259693517,11,43,4,3,"is","likely",4655,"English","Thank you!","9",0
+"81c99f625d4ef2f105d26ff252dd39ec7797d682e4474d7021c3ebedc6b1b87e",1456259698548,12,107,10,7,"is","likely",5030,"English","Thank you!","9",0
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259577639,1,20,2,0,"is_probably","possible",17054,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259583668,2,105,10,5,"might_be","probable",6023,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259586696,3,41,4,1,"might_be","possible",3023,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259611323,4,103,10,3,"is_probably","possible",24623,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259613722,5,43,4,3,"is_probably","possible",2394,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259616415,6,84,8,4,"might_be","probable",2689,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259619938,7,82,8,2,"might_be","likely",3520,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259622598,8,108,10,8,"might_be","possible",2656,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259629595,9,102,10,2,"is_probably","possible",6994,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259633745,10,80,8,0,"is_certainly","probable",4144,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259639136,11,88,8,8,"is_probably","unlikely",5387,"english","Thanks","10",2
+"d0ed7f8000b2f91aa44093a08530f6e22f2b5b97e17525fff29f15e8b3ddd81b",1456259642917,12,107,10,7,"might_be","probable",3778,"english","Thanks","10",2
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332569371,1,105,10,5,"is_certainly","possible",31140,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332590998,2,22,2,2,"might_be","possible",21623,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332633093,3,102,10,2,"is","unlikely",42090,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332640928,4,108,10,8,"is_certainly","likely",7831,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332657134,5,43,4,3,"might_be","possible",16203,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332669782,6,84,8,4,"is_certainly","possible",12643,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332688531,7,20,2,0,"is","possible",18745,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332698098,8,103,10,3,"might_be","unlikely",9563,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332706136,9,42,4,2,"is","possible",8034,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332730353,10,88,8,8,"is_certainly","probable",24214,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332738080,11,107,10,7,"is","probable",7723,"English","Thanks! ","8",0
+"22ce81b74e1a3bb6893715bd6349f4bc5851534596bb547cc0f7729e5c43e88b",1456332744795,12,82,8,2,"is","unlikely",6711,"English","Thanks! ","8",0
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259852617,1,108,10,8,"is_certainly","likely",20602,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259866432,2,22,2,2,"might_be","possible",13811,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259876977,3,41,4,1,"is_probably","unlikely",10544,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259883281,4,43,4,3,"is_probably","likely",6302,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259890737,5,107,10,7,"is_certainly","likely",7455,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259896937,6,103,10,3,"is_probably","unlikely",6199,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259928264,7,80,8,0,"is_certainly","unlikely",31326,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259934201,8,88,8,8,"is_certainly","likely",5935,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259940464,9,86,8,6,"is_certainly","probable",6261,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259948720,10,105,10,5,"might_be","possible",8254,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259961969,11,42,4,2,"might_be","probable",13246,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"78b35f24248815b4d89666d3d0f4f1528ab0743b8e0ca94fd97cfadc616c92c7",1456259970024,12,102,10,2,"might_be","unlikely",8051,"eNGLISH","All instructions were clear and very easy to understand.","10",6
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260577812,1,80,8,0,"might_be","unlikely",21110,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260587704,2,43,4,3,"might_be","likely",9891,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260683284,3,42,4,2,"might_be","unlikely",95576,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260727387,4,105,10,5,"is_certainly","unlikely",44100,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260744892,5,107,10,7,"is","unlikely",17496,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260758074,6,102,10,2,"is_probably","unlikely",13178,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260771825,7,84,8,4,"is_certainly","unlikely",13749,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260784104,8,22,2,2,"might_be","possible",12277,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260791080,9,103,10,3,"is_probably","possible",6974,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260806714,10,20,2,0,"might_be","unlikely",15631,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260816989,11,88,8,8,"is","unlikely",10272,"English","none","5",5
+"67eb98c1f7aeb90d7910b3e1bbbf7ba92340db63cde98689eceda4cd8c1e6bbf",1456260826030,12,108,10,8,"is","unlikely",9039,"English","none","5",5
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259732333,1,43,4,3,"is_probably","likely",19366,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259741722,2,107,10,7,"is_certainly","possible",9385,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259750602,3,41,4,1,"is_probably","unlikely",8878,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259757116,4,103,10,3,"is","unlikely",6512,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259766998,5,108,10,8,"is","likely",9881,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259776950,6,80,8,0,"is_certainly","unlikely",9950,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259788482,7,82,8,2,"is_probably","unlikely",11531,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259803365,8,22,2,2,"might_be","unlikely",14881,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259807591,9,20,2,0,"might_be","unlikely",4222,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259815411,10,88,8,8,"is","likely",7819,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259822314,11,42,4,2,"might_be","possible",6902,"English","No comment","8",3
+"6a1c5e34e64b904e16eee5f11cc22b3548e2f66cba184892dbba2c0308506321",1456259830745,12,86,8,6,"is_probably","likely",8429,"English","No comment","8",3
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259808355,1,88,8,8,"is","unlikely",34271,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259825907,2,84,8,4,"is","possible",17547,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259841446,3,80,8,0,"is","likely",15524,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259866496,4,102,10,2,"is","unlikely",25050,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259881367,5,105,10,5,"is","possible",14870,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259903363,6,43,4,3,"is","possible",21996,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259923489,7,86,8,6,"is","probable",20111,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259939028,8,107,10,7,"is","likely",15539,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259954865,9,108,10,8,"is","likely",15837,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259967433,10,42,4,2,"is","possible",12568,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259980285,11,20,2,0,"is","unlikely",12852,"English",NA,"10",2
+"8876396628e6c79aab2ed8cb5a9c158a5b145a6ca46882c55dd32cdd7ae65193",1456259992621,12,82,8,2,"is","unlikely",12336,"English",NA,"10",2
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204563879,1,20,2,0,"is_probably","likely",13901,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204568925,2,84,8,4,"might_be","likely",5042,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204582968,3,102,10,2,"is","unlikely",14043,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204589024,4,22,2,2,"is_probably","possible",6049,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204592852,5,42,4,2,"might_be","probable",3826,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204599392,6,82,8,2,"is","unlikely",6540,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204603212,7,86,8,6,"is","probable",3820,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204606382,8,107,10,7,"is","likely",3170,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204609884,9,103,10,3,"is","unlikely",3502,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204614141,10,105,10,5,"might_be","likely",4255,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204619158,11,88,8,8,"is","likely",5001,"English","No","10",0
+"f9a993892cefc51eca470adf2a9466e8618de4cc9049612fc04f46b756625e4d",1456204623832,12,41,4,1,"is_probably","unlikely",4674,"English","No","10",0
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169559537,1,82,8,2,"is","possible",23717,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169592241,2,107,10,7,"is","possible",32694,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169606587,3,22,2,2,"is","possible",14336,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169619458,4,80,8,0,"is","possible",12864,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169626653,5,88,8,8,"is","possible",7192,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169634730,6,41,4,1,"is","possible",8077,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169644940,7,105,10,5,"is","probable",10210,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169653045,8,43,4,3,"is","possible",8095,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169661525,9,86,8,6,"is","possible",8470,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169668124,10,103,10,3,"is","possible",6589,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169676128,11,108,10,8,"is","possible",7994,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"a9f1b668edb3be6ac008ca8333a0d3517f28cc746540512072e9ce70976449ea",1456169684602,12,20,2,0,"is","possible",8470,"English","Always a 50/50 chance unless all the balls are drawn and are all the same color","7",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283804974,1,84,8,4,"is_probably","possible",31887,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283845396,2,103,10,3,"is","unlikely",40413,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283857045,3,41,4,1,"is","likely",11616,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283871060,4,105,10,5,"is_probably","possible",13991,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283883483,5,80,8,0,"is_certainly","unlikely",12414,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283893877,6,108,10,8,"is_certainly","likely",10386,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283904748,7,107,10,7,"is","possible",10860,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283916767,8,22,2,2,"is","unlikely",12009,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283931520,9,102,10,2,"is","unlikely",14746,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283940632,10,88,8,8,"is_certainly","likely",9105,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283949860,11,82,8,2,"is","possible",9221,"english","none","9",2
+"b57d539ff9c0898d365c49043777ceec5ed3faa4ab45199d29ae7c4d7c7ae6d9",1456283962506,12,20,2,0,"is","probable",12633,"english","none","9",2
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172854726,1,82,8,2,"is","unlikely",22065,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172885903,2,88,8,8,"is_certainly","likely",31169,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172903368,3,22,2,2,"might_be","likely",17457,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172920399,4,108,10,8,"is","probable",17024,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172937921,5,80,8,0,"is_certainly","unlikely",17514,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172951418,6,105,10,5,"might_be","possible",13489,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172964313,7,103,10,3,"is","unlikely",12887,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172977683,8,86,8,6,"might_be","likely",13363,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172984433,9,42,4,2,"is","possible",6743,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456172998348,10,43,4,3,"is_probably","possible",13906,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456173004369,11,41,4,1,"is_probably","unlikely",6015,"English","Interesting and enjoyable, good luck with your research!","9",1
+"28292b2dbee4fb85b572d420c2b6c4b7149bd06faa3f5844a3007ebb2f611dec",1456173011951,12,107,10,7,"is","likely",7576,"English","Interesting and enjoyable, good luck with your research!","9",1
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170092363,1,82,8,2,"is","unlikely",10470,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170097673,2,80,8,0,"is","unlikely",5310,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170101856,3,41,4,1,"is","unlikely",4183,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170117067,4,43,4,3,"is_probably","probable",15211,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170121845,5,88,8,8,"is_certainly","likely",4771,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170128474,6,102,10,2,"is","unlikely",6629,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170132816,7,108,10,8,"is_probably","probable",4342,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170136307,8,107,10,7,"is_probably","probable",3491,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170140125,9,86,8,6,"is","probable",3818,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170173400,10,84,8,4,"is_probably","probable",33275,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170179698,11,22,2,2,"is_certainly","likely",6298,"English",NA,"10",3
+"bcab72f10c5f305b486d1007574d21d6e2660fc25b2fb7bdee22ad43ee6dac4e",1456170183963,12,103,10,3,"is","probable",4264,"English",NA,"10",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176388076,1,42,4,2,"might_be","likely",7381,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176391434,2,22,2,2,"might_be","probable",3352,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176398655,3,105,10,5,"might_be","unlikely",7216,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176403360,4,102,10,2,"is_probably","possible",4701,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176407131,5,82,8,2,"is","unlikely",3767,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176411816,6,103,10,3,"is","unlikely",4680,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176414319,7,86,8,6,"is","possible",2499,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176416726,8,88,8,8,"might_be","likely",2401,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176419006,9,41,4,1,"might_be","unlikely",2276,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176422422,10,107,10,7,"is","probable",3412,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176425016,11,84,8,4,"might_be","unlikely",2589,"english",NA,"3",3
+"ebb611563cdbd845d2abb9adb70f4acbc3f9b45f68e2041cb532d67c8ee68d7a",1456176433046,12,20,2,0,"is_certainly","unlikely",8026,"english",NA,"3",3
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290361361,1,20,2,0,"is_probably","unlikely",15253,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290377149,2,41,4,1,"is_probably","unlikely",15786,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290387701,3,43,4,3,"is_probably","likely",10546,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290395874,4,102,10,2,"is_probably","unlikely",8171,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290407887,5,42,4,2,"is","possible",12010,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290416097,6,108,10,8,"is_probably","likely",8208,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290434363,7,86,8,6,"is_probably","likely",18264,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290448980,8,105,10,5,"is","possible",14611,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290461494,9,84,8,4,"is","possible",12509,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290472456,10,107,10,7,"is_probably","likely",10959,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290487674,11,80,8,0,"is_probably","unlikely",15217,"English",NA,"10",2
+"5abc8ce434176ad3334c36edfdde464131513261e214ccf982843d3586c6b993",1456290494634,12,82,8,2,"is_probably","unlikely",6953,"English",NA,"10",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171332363,1,43,4,3,"is","probable",21833,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171340435,2,88,8,8,"is_certainly","likely",8071,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171346899,3,41,4,1,"is","unlikely",6463,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171359971,4,105,10,5,"is","likely",13071,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171382354,5,42,4,2,"might_be","likely",22381,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171390442,6,82,8,2,"is","unlikely",8086,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171400114,7,22,2,2,"is_probably","likely",9670,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171405322,8,20,2,0,"is_probably","unlikely",5206,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171417042,9,108,10,8,"is","likely",11718,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171423290,10,107,10,7,"is","likely",6247,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171431842,11,80,8,0,"is","likely",8550,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"1236178d4bfa4f9c8c0a8b095d83e4689df34de46181269a9bc53713975edc8d",1456171439930,12,103,10,3,"is","unlikely",8087,"english","I accidentally responded the opposite to one question because I was thinking about the blue rather than the red.","2",2
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169635145,1,41,4,1,"is","unlikely",23785,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169659771,2,103,10,3,"is_probably","unlikely",24616,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169680436,3,20,2,0,"is","unlikely",20657,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169694125,4,82,8,2,"is","unlikely",13680,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169717559,5,102,10,2,"is","unlikely",23431,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169732466,6,88,8,8,"is","likely",14898,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169739846,7,108,10,8,"is","likely",7371,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169751726,8,80,8,0,"is","unlikely",11877,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169768813,9,43,4,3,"is","probable",17078,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169775757,10,42,4,2,"might_be","possible",6939,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169792025,11,107,10,7,"is","probable",16265,"English","Interesting task.  Thank you for the opportunity!","10",1
+"4e3a3237fc64ca84a802e336c95914057ef6808ca850fe3262c3aa4b796b5cc0",1456169801946,12,84,8,4,"might_be","possible",9918,"English","Interesting task.  Thank you for the opportunity!","10",1
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268475536,1,42,4,2,"might_be","possible",20465,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268498890,2,82,8,2,"is_certainly","unlikely",23352,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268508159,3,22,2,2,"is_probably","probable",9262,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268513588,4,43,4,3,"is_probably","possible",5428,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268521673,5,20,2,0,"is_probably","unlikely",8083,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268532002,6,84,8,4,"might_be","unlikely",10327,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268536359,7,102,10,2,"is_probably","unlikely",4353,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268556390,8,107,10,7,"is_probably","probable",20029,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268560396,9,86,8,6,"is_probably","possible",4005,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268566907,10,105,10,5,"might_be","likely",6510,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268570851,11,108,10,8,"is_probably","likely",3939,"english",NA,"10",7
+"db1f60092bbc982bc6c2e99d5c2e2389a8108870c766daf2f817b2effc487fef",1456268576110,12,88,8,8,"is_certainly","probable",5258,"english",NA,"10",7
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261503095,1,105,10,5,"might_be","possible",19170,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261516608,2,20,2,0,"is_probably","unlikely",13512,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261524051,3,102,10,2,"is_probably","unlikely",7442,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261532270,4,43,4,3,"is","probable",8218,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261543099,5,107,10,7,"is_certainly","probable",10828,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261550883,6,80,8,0,"is_certainly","unlikely",7783,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261559806,7,86,8,6,"is_probably","likely",8922,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261570123,8,108,10,8,"is_probably","likely",10316,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261585267,9,103,10,3,"is_probably","unlikely",15143,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261592459,10,84,8,4,"might_be","possible",7191,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261598786,11,42,4,2,"might_be","possible",6326,"English",NA,"10",0
+"9b839c21e6b7dae35d78b71c163051c9f73437707526d46b10d5682a0192bf78",1456261604282,12,88,8,8,"is_certainly","likely",5494,"English",NA,"10",0
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184188509,1,20,2,0,"is_probably","unlikely",42039,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184202671,2,84,8,4,"is_probably","possible",14134,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184217389,3,107,10,7,"is_certainly","likely",14686,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184250645,4,86,8,6,"is_probably","likely",33231,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184257495,5,80,8,0,"is","unlikely",6825,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184264551,6,22,2,2,"might_be","possible",7036,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184289885,7,102,10,2,"might_be","unlikely",25316,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184296351,8,88,8,8,"is","likely",6438,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184310589,9,43,4,3,"might_be","possible",14219,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184320823,10,42,4,2,"is_probably","probable",10209,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184337871,11,108,10,8,"is_certainly","likely",17029,"English",NA,"10",3
+"9f07ae09a3e8b766cfa989f4ec7171a47ccbd590d71f336d815bcf710e6a3e78",1456184348960,12,105,10,5,"might_be","probable",11073,"English",NA,"10",3
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172017591,1,84,8,4,"is_certainly","likely",14433,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172026892,2,22,2,2,"might_be","possible",9298,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172044683,3,80,8,0,"is","unlikely",17783,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172061530,4,105,10,5,"is_certainly","likely",16839,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172070173,5,20,2,0,"might_be","possible",8640,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172085659,6,82,8,2,"is","unlikely",15482,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172098151,7,102,10,2,"is_probably","possible",12489,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172111176,8,43,4,3,"is_probably","unlikely",13022,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172120039,9,88,8,8,"is","possible",8860,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172131603,10,108,10,8,"is_probably","probable",11561,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172142704,11,107,10,7,"might_be","possible",11094,"ENGLISH","Thank you. ","6",4
+"dedc72cd170b8eb2f77869fb785de35cc255a761221640f270fd62ff1ac864fb",1456172154279,12,103,10,3,"is_probably","likely",11572,"ENGLISH","Thank you. ","6",4
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259679565,1,108,10,8,"is_probably","likely",26601,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259696532,2,103,10,3,"is","unlikely",16945,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259724790,3,80,8,0,"is_certainly","unlikely",28223,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259737319,4,20,2,0,"might_be","possible",12471,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259758966,5,22,2,2,"is_probably","possible",21614,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259768996,6,88,8,8,"is_certainly","probable",10001,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259779662,7,86,8,6,"is_probably","possible",10642,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259801639,8,105,10,5,"might_be","likely",21951,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259816566,9,82,8,2,"might_be","unlikely",14903,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259831581,10,84,8,4,"might_be","possible",14996,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259838713,11,107,10,7,"is_probably","possible",7094,"English",NA,"9",2
+"c07d21a422f490a1999fe9833cd6b5d30c72ef9625f9d77abd8ce61a27b4bfc4",1456259853260,12,102,10,2,"is","unlikely",14513,"English",NA,"9",2
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171009449,1,43,4,3,"is_probably","likely",13098,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171020125,2,41,4,1,"is_probably","unlikely",10672,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171028453,3,42,4,2,"might_be","possible",8320,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171040888,4,82,8,2,"is_certainly","unlikely",12431,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171050973,5,20,2,0,"might_be","possible",10076,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171062078,6,80,8,0,"is_certainly","unlikely",11102,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171067115,7,88,8,8,"is_certainly","likely",5034,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171074965,8,108,10,8,"is_certainly","likely",7847,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171081610,9,107,10,7,"is_certainly","likely",6642,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171089079,10,84,8,4,"might_be","possible",7466,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171097520,11,102,10,2,"is_certainly","unlikely",8438,"English",NA,"8",0
+"49278a148a934320ff438bfd61f4073210015f434c53d925cc4066a9136c4989",1456171108048,12,22,2,2,"is","possible",10524,"English",NA,"8",0
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262769866,1,82,8,2,"is","unlikely",57127,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262799063,2,20,2,0,"might_be","possible",29168,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262816820,3,105,10,5,"is","possible",17724,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262841012,4,88,8,8,"is_certainly","probable",24160,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262877017,5,86,8,6,"is_probably","possible",35977,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262892082,6,80,8,0,"is_certainly","unlikely",14952,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262916189,7,41,4,1,"might_be","possible",24098,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262930130,8,103,10,3,"is","probable",13912,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262954962,9,22,2,2,"might_be","possible",24824,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262971167,10,42,4,2,"might_be","possible",16174,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456262981754,11,102,10,2,"is_certainly","unlikely",10577,"English",NA,"8",4
+"42078fdfee50766916758f3fb1d2feca9fc311d623f0a33a1dc9f4cec3e5a235",1456263014965,12,107,10,7,"is","probable",33201,"English",NA,"8",4
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325651792,1,80,8,0,"is_certainly","unlikely",34033,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325717085,2,82,8,2,"is_probably","unlikely",65272,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325727317,3,88,8,8,"is_certainly","likely",10227,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325737830,4,86,8,6,"is_probably","likely",10510,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325752452,5,20,2,0,"might_be","probable",14618,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325763212,6,43,4,3,"might_be","possible",10758,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325771140,7,107,10,7,"is_probably","likely",7926,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325800996,8,102,10,2,"is","unlikely",29854,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325814404,9,41,4,1,"might_be","possible",13404,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325825860,10,108,10,8,"is","possible",11454,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325835212,11,42,4,2,"might_be","probable",9350,"English",NA,"10",2
+"401e8f785561024df1a50a98d0e3d13fd4f6dd6cf627b58ce02cf35aae620723",1456325842060,12,22,2,2,"might_be","possible",6847,"English",NA,"10",2
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169570129,1,22,2,2,"might_be","probable",22843,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169584589,2,84,8,4,"might_be","possible",14460,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169597823,3,103,10,3,"is","unlikely",13234,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169605702,4,41,4,1,"is","probable",7864,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169613286,5,107,10,7,"is","likely",7553,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169619701,6,102,10,2,"is","unlikely",6415,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169629877,7,86,8,6,"is_probably","probable",10172,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169639857,8,80,8,0,"is_certainly","unlikely",9978,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169649395,9,88,8,8,"is","likely",9538,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169654733,10,82,8,2,"is","unlikely",5338,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169661616,11,20,2,0,"is_probably","possible",6883,"English",NA,"9",8
+"9d632bc5f49fe6749c60fa793aef08dc8909aca930b732a211a512cb813df0cc",1456169667252,12,108,10,8,"is","likely",5636,"English",NA,"9",8
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171247033,1,20,2,0,"is","possible",68329,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171272428,2,107,10,7,"is_certainly","likely",25386,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171300138,3,82,8,2,"is","unlikely",27686,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171309562,4,102,10,2,"is_certainly","unlikely",9394,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171321305,5,80,8,0,"is_certainly","unlikely",11717,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171347212,6,86,8,6,"is","likely",25885,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171372178,7,105,10,5,"might_be","possible",24939,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171381049,8,103,10,3,"is","unlikely",8854,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171390924,9,84,8,4,"might_be","possible",9848,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171411295,10,41,4,1,"might_be","possible",20362,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171422878,11,108,10,8,"is_certainly","likely",11561,"english",NA,"8",0
+"f249bdf0204913ed5aca240490c5d6516fed0549d5236e152ae512053c4af256",1456171431096,12,88,8,8,"is_certainly","likely",8195,"english",NA,"8",0
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287387862,1,41,4,1,"is","probable",15319,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287402901,2,105,10,5,"is","probable",15037,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287410944,3,43,4,3,"is","possible",8042,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287415990,4,102,10,2,"is","probable",5045,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287423936,5,108,10,8,"is","unlikely",7945,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287431766,6,80,8,0,"is","unlikely",7829,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287435712,7,107,10,7,"is","probable",3945,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287448293,8,88,8,8,"is_certainly","likely",12580,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287453937,9,20,2,0,"is","unlikely",5643,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287458667,10,42,4,2,"is","probable",4729,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287462547,11,103,10,3,"is","probable",3879,"english",NA,"6",4
+"ff8a081090306d06b50c7d10062a67bb1a09138f920e1276aca9da2eae1e8668",1456287467603,12,86,8,6,"is","possible",5055,"english",NA,"6",4
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259622139,1,80,8,0,"is_probably","likely",17712,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259638539,2,105,10,5,"is_probably","unlikely",16397,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259648027,3,86,8,6,"is_probably","unlikely",9485,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259661042,4,103,10,3,"is","possible",13013,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259667938,5,102,10,2,"is","possible",6894,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259677442,6,42,4,2,"is","possible",9501,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259683548,7,88,8,8,"is_probably","unlikely",6105,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259703476,8,107,10,7,"is","likely",19926,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259715956,9,84,8,4,"is","possible",12478,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259722588,10,22,2,2,"is","possible",6628,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259730332,11,20,2,0,"is_probably","likely",7743,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"a907475ebd3b671e47e7e7157b25aaeceed5b9b840efdcd033844eda769ab44d",1456259739670,12,82,8,2,"is","unlikely",9335,"English","This was a fun game"," thanks for allowing me to participate. ",10
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173926663,1,88,8,8,"is_probably","probable",13106,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173950473,2,22,2,2,"might_be","possible",23809,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173958337,3,108,10,8,"is_certainly","probable",7863,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173964080,4,84,8,4,"might_be","possible",5742,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173970998,5,80,8,0,"is_certainly","unlikely",6917,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173978118,6,43,4,3,"might_be","possible",7119,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173987482,7,102,10,2,"is_probably","unlikely",9363,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456173995547,8,20,2,0,"is","unlikely",8064,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456174148791,9,82,8,2,"is_certainly","unlikely",153243,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456174153638,10,86,8,6,"is_probably","likely",4842,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456174158607,11,41,4,1,"might_be","possible",4968,"english",NA,"10",1
+"96ef4dd4452353999032f37e1aee969604ae022e79c9ae51dc14a800290ad1bf",1456174165728,12,105,10,5,"might_be","possible",7120,"english",NA,"10",1
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273503143,1,108,10,8,"is_probably","likely",19283,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273509118,2,86,8,6,"is_probably","probable",5973,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273522378,3,80,8,0,"is_certainly","unlikely",13258,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273554046,4,88,8,8,"is_certainly","likely",31663,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273563406,5,82,8,2,"might_be","possible",9356,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273577082,6,103,10,3,"is","unlikely",13671,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273585518,7,107,10,7,"is_probably","probable",8434,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273595374,8,43,4,3,"might_be","possible",9854,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273606706,9,102,10,2,"is","unlikely",11330,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273613754,10,22,2,2,"is","possible",7046,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273623278,11,105,10,5,"is","possible",9522,"English","No","5",2
+"a6c351cb75b66953ca2a4bbe5684c4cd4732c878212dc8710ce0c2b6428283e5",1456273631734,12,42,4,2,"is","probable",8449,"English","No","5",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188414120,1,88,8,8,"is","probable",7124,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188419629,2,20,2,0,"is","unlikely",5498,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188426321,3,42,4,2,"is_probably","possible",6686,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188432313,4,80,8,0,"is","unlikely",5987,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188439246,5,108,10,8,"might_be","possible",6925,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188445329,6,103,10,3,"is","possible",6078,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188449132,7,22,2,2,"is","probable",3798,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188455006,8,102,10,2,"is","possible",5869,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188459591,9,43,4,3,"is","possible",4579,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188465788,10,82,8,2,"might_be","probable",6192,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188471728,11,105,10,5,"is","possible",5931,"english","thank you so much! :D :D :D :D","10",2
+"14ee2131d051035eb8daa5ec42829a4cf09c7015cd066da34a896c14db1dd61f",1456188476959,12,107,10,7,"is_certainly","likely",5226,"english","thank you so much! :D :D :D :D","10",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279409442,1,43,4,3,"might_be","possible",16368,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279427746,2,41,4,1,"is_probably","unlikely",18295,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279439094,3,107,10,7,"is","probable",11337,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279447099,4,80,8,0,"is_certainly","unlikely",7991,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279454554,5,88,8,8,"is_certainly","probable",7443,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279463106,6,86,8,6,"might_be","probable",8543,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279471839,7,102,10,2,"is_certainly","unlikely",8726,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279479218,8,82,8,2,"is_certainly","unlikely",7373,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279485614,9,103,10,3,"might_be","unlikely",6390,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279492872,10,84,8,4,"is_probably","possible",7251,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279498615,11,108,10,8,"is_probably","probable",5738,"English",NA,"8",2
+"8c677782815dba90a5a0b10827e4d27b22d3380c4edfa7cc25003c0547c6c58c",1456279509661,12,20,2,0,"might_be","possible",11041,"English",NA,"8",2
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738573999,1,22,2,2,"might_be","possible",19049,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738619275,2,107,10,7,"is_certainly","likely",45272,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738637162,3,102,10,2,"is_probably","unlikely",17882,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738648829,4,41,4,1,"might_be","possible",11663,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738657653,5,108,10,8,"is","likely",8819,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738688744,6,88,8,8,"is","probable",31088,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738701972,7,43,4,3,"might_be","likely",13224,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738712550,8,20,2,0,"might_be","unlikely",10575,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738724304,9,82,8,2,"might_be","unlikely",11750,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738737965,10,42,4,2,"is_probably","possible",13654,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738762204,11,105,10,5,"is","possible",24236,"English","Fun study!","9",1
+"5f1b9c85dab8528ca6bcfefd5d029f18bf183e486bdc2c8d993a02ec59eefef9",1455738782512,12,86,8,6,"might_be","likely",20305,"English","Fun study!","9",1
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263385481,1,20,2,0,"might_be","possible",10669,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263400771,2,107,10,7,"might_be","likely",15288,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263413929,3,103,10,3,"is","unlikely",13156,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263421457,4,22,2,2,"might_be","possible",7526,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263432913,5,41,4,1,"is_probably","unlikely",11455,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263441129,6,80,8,0,"is","unlikely",8215,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263448049,7,84,8,4,"might_be","possible",6919,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263454889,8,105,10,5,"might_be","possible",6839,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263461528,9,86,8,6,"might_be","likely",6637,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263470338,10,82,8,2,"might_be","unlikely",8808,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263476838,11,43,4,3,"is_probably","possible",6499,"english",NA,"8",2
+"8044dcb8618e265bc21bb58f324d9b2b8019173f737c9b15c491915c59453426",1456263482350,12,88,8,8,"is_certainly","likely",5510,"english",NA,"8",2
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260139432,1,20,2,0,"is","possible",15002,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260150980,2,107,10,7,"is_probably","likely",11545,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260164102,3,22,2,2,"is","possible",13114,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260172362,4,41,4,1,"might_be","possible",8257,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260178897,5,88,8,8,"might_be","likely",6532,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260190031,6,82,8,2,"is","unlikely",11132,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260196491,7,86,8,6,"is_probably","likely",6457,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260209603,8,103,10,3,"is","unlikely",13109,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260219265,9,105,10,5,"is","possible",9660,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260227141,10,102,10,2,"is","unlikely",7873,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260743520,11,84,8,4,"might_be","possible",516376,"English",NA,"5",1
+"28a8db78c1aca6042244b2348985c4b2d181b9819f434c2c9f11698b25901065",1456260750248,12,108,10,8,"is_certainly","possible",6713,"English",NA,"5",1
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170188096,1,82,8,2,"is_certainly","probable",13565,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170198281,2,86,8,6,"is_certainly","unlikely",10176,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170206097,3,41,4,1,"might_be","possible",7809,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170218958,4,105,10,5,"is","unlikely",12852,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170224209,5,80,8,0,"is_certainly","probable",5243,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170229072,6,107,10,7,"might_be","unlikely",4854,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170233462,7,20,2,0,"is","possible",4380,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170240828,8,42,4,2,"might_be","possible",7358,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170244270,9,22,2,2,"is","unlikely",3434,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170249379,10,108,10,8,"is_certainly","unlikely",5099,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170258798,11,43,4,3,"is_probably","possible",9411,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"731a2ff76d6d68fe7d765f802992e121b40abce0640b323290344cfc4047daee",1456170263686,12,102,10,2,"is_certainly","likely",4880,"English","I would have liked to have a couple more options in terms of possible answers, but overall a very clear and easy task.","10",0
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722224545,1,80,8,0,"is_certainly","unlikely",14928,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722233768,2,22,2,2,"is_probably","possible",9220,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722246232,3,20,2,0,"is_probably","unlikely",12462,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722255534,4,42,4,2,"is_probably","possible",9300,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722282085,5,103,10,3,"is","unlikely",26549,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722289116,6,84,8,4,"is","possible",7026,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722309587,7,108,10,8,"might_be","likely",20469,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722315962,8,41,4,1,"is","unlikely",6373,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722323370,9,88,8,8,"is_certainly","probable",7406,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722330332,10,43,4,3,"is","possible",6960,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722347977,11,105,10,5,"is","probable",17640,"English",":)","10",2
+"520562b243be4c68bc583985ec9e932e6fa36c24224442e3593fa754d3813f6a",1455722357076,12,107,10,7,"is","probable",9096,"English",":)","10",2
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173198593,1,86,8,6,"is","likely",25627,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173215795,2,82,8,2,"is_probably","unlikely",17199,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173378865,3,107,10,7,"is_probably","likely",163067,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173422186,4,84,8,4,"is","probable",43317,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173429337,5,105,10,5,"is","probable",7145,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173476344,6,108,10,8,"is_certainly","likely",47005,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173486721,7,20,2,0,"is_certainly","unlikely",10373,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173495043,8,80,8,0,"is_certainly","unlikely",8319,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173500383,9,42,4,2,"is","probable",5336,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173506757,10,88,8,8,"is_certainly","likely",6371,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173517061,11,103,10,3,"is_probably","unlikely",10300,"English",NA,"7",5
+"65d8e15f077f9c2fdf276e6fae5d6bc21a86c3f1faf5fdc1411c9377b9a020b0",1456173630437,12,22,2,2,"is_probably","unlikely",113372,"English",NA,"7",5
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169510366,1,88,8,8,"is_probably","likely",17441,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169526242,2,43,4,3,"might_be","possible",15874,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169537962,3,102,10,2,"is","unlikely",11719,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169552534,4,107,10,7,"is_certainly","likely",14571,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169569918,5,22,2,2,"is_probably","possible",17383,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169580378,6,84,8,4,"is_probably","probable",10459,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169589935,7,42,4,2,"is_probably","possible",9556,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169598440,8,86,8,6,"might_be","possible",8503,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169604801,9,41,4,1,"is","unlikely",6358,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169625492,10,82,8,2,"is","unlikely",20691,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169640672,11,103,10,3,"is","unlikely",15179,"English",NA,"6",2
+"6573678c30fe8c14f8fd67bdfc31cdf0963ebc381007db2ede636f61fe421f4e",1456169648813,12,108,10,8,"is_certainly","likely",8140,"English",NA,"6",2
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346849391,1,103,10,3,"is","unlikely",23174,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346868593,2,43,4,3,"might_be","probable",19196,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346876650,3,108,10,8,"is","probable",8051,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346884917,4,22,2,2,"might_be","probable",8265,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346896008,5,84,8,4,"is","possible",11090,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346926477,6,82,8,2,"is_probably","unlikely",30467,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346934607,7,86,8,6,"is","probable",8123,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346944049,8,107,10,7,"is","probable",9441,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346952224,9,105,10,5,"is","possible",8174,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346962210,10,80,8,0,"is","unlikely",9984,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346973358,11,41,4,1,"might_be","unlikely",11146,"English","no","7",3
+"cb2585e893b68034cfc0a5ebe85edc78dc7da14f67eeb145324d6081db1519cf",1456346982822,12,88,8,8,"is","probable",9462,"English","no","7",3
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757536896,1,43,4,3,"might_be","possible",13641,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757549909,2,41,4,1,"might_be","unlikely",13011,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757558502,3,82,8,2,"might_be","possible",8591,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757568305,4,102,10,2,"is_probably","unlikely",9801,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757577184,5,20,2,0,"is","possible",8878,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757586332,6,84,8,4,"might_be","probable",9147,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757594882,7,42,4,2,"might_be","possible",8548,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757601629,8,80,8,0,"is_probably","unlikely",6745,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757608572,9,22,2,2,"might_be","possible",6941,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757615771,10,86,8,6,"is","likely",7197,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757624920,11,107,10,7,"is","likely",9147,"english","no","8",4
+"6c5e697d50dcc3888fdf0366f1d890d679d16020c4d43b7d7e24b522999f1f03",1455757630855,12,103,10,3,"is","possible",5933,"english","no","8",4
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169611153,1,86,8,6,"is","possible",9590,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169624901,2,20,2,0,"is_certainly","unlikely",13745,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169628833,3,108,10,8,"is_probably","probable",3927,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169632012,4,107,10,7,"is","possible",3173,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169637426,5,84,8,4,"is_probably","unlikely",5411,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169644059,6,103,10,3,"is_probably","possible",6630,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169649146,7,80,8,0,"is","unlikely",5085,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169655614,8,88,8,8,"is_certainly","possible",6466,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169662550,9,102,10,2,"might_be","probable",6933,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169668173,10,43,4,3,"is","probable",5620,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169671287,11,82,8,2,"is_probably","probable",3111,"English","no","2",2
+"614a2345fe88bc96bac2ff7bae73946cfa9609a9c2a65ae08e061a7b31ffa233",1456169676579,12,42,4,2,"is","possible",5289,"English","no","2",2
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259642456,1,20,2,0,"is_probably","possible",4839,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259647032,2,102,10,2,"might_be","unlikely",4575,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259650222,3,82,8,2,"is","possible",3187,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259654291,4,22,2,2,"might_be","unlikely",4067,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259658156,5,42,4,2,"is_probably","unlikely",3863,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259661762,6,43,4,3,"is_probably","probable",3604,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259666265,7,108,10,8,"is_probably","unlikely",4502,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259669032,8,41,4,1,"is_probably","probable",2765,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259672045,9,80,8,0,"is","unlikely",3011,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259674625,10,105,10,5,"is_probably","unlikely",2578,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259677273,11,84,8,4,"is","probable",2647,"english","fun study guys !","10",1
+"646ef121ad558af28b220600a52f3877f98485cda1e78ffbe39e59b4bc1e948a",1456259680208,12,86,8,6,"is","possible",2933,"english","fun study guys !","10",1
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300786306,1,20,2,0,"is","possible",4476,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300789635,2,88,8,8,"is_probably","probable",3326,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300792641,3,102,10,2,"is","probable",3004,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300795251,4,86,8,6,"is","unlikely",2608,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300798601,5,22,2,2,"is_probably","unlikely",3349,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300803121,6,105,10,5,"is_probably","probable",4518,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300813701,7,103,10,3,"is_probably","possible",10579,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300816327,8,82,8,2,"might_be","probable",2625,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300818204,9,84,8,4,"is","probable",1876,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300820581,10,43,4,3,"is_probably","likely",2375,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300822731,11,42,4,2,"is","possible",2149,"english",NA,"5",5
+"2fdb0972acaa0ee4243befb5f9e3fccdc666c2891402c8f4aef5b251db000913",1456300824749,12,107,10,7,"is","possible",2015,"english",NA,"5",5
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744741470,1,107,10,7,"is","probable",32232,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744757305,2,86,8,6,"is","probable",15835,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744779055,3,42,4,2,"might_be","possible",21750,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744793587,4,102,10,2,"is","unlikely",14516,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744838965,5,41,4,1,"might_be","unlikely",45378,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744856184,6,82,8,2,"is","unlikely",17219,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744885192,7,20,2,0,"might_be","unlikely",29008,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744899130,8,80,8,0,"is_certainly","unlikely",13923,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744917946,9,103,10,3,"is","unlikely",18816,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744929749,10,43,4,3,"might_be","probable",11803,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744939764,11,22,2,2,"is","possible",10015,"English",NA,"9",6
+"c90830766dcda923e3689e8940967f8a7050e4a171fd03100dff6fe7172ce11f",1455744953264,12,108,10,8,"is_certainly","likely",13500,"English",NA,"9",6
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171800264,1,102,10,2,"is","unlikely",74525,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171824189,2,41,4,1,"is_probably","unlikely",23920,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171836487,3,107,10,7,"is","likely",12294,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171852997,4,22,2,2,"might_be","possible",16507,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171868972,5,105,10,5,"is_probably","possible",15972,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171879417,6,108,10,8,"is_certainly","likely",10441,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171894531,7,86,8,6,"is","probable",15113,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171901358,8,82,8,2,"is","unlikely",6825,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171910773,9,88,8,8,"is_certainly","likely",9414,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171930811,10,43,4,3,"is_probably","likely",20037,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171939079,11,84,8,4,"might_be","probable",8267,"English",NA,"7",4
+"f0ed8d60d50dbd4af7fe60b871ac0089de8dca4e8c5ca3390972a6bb6d270412",1456171943998,12,42,4,2,"might_be","probable",4917,"English",NA,"7",4
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259514886,1,42,4,2,"is_probably","likely",13249,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259520031,2,88,8,8,"is_probably","possible",5141,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259524862,3,41,4,1,"is","likely",4829,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259528543,4,105,10,5,"is","probable",3679,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259531750,5,103,10,3,"is","possible",3206,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259536327,6,107,10,7,"is","possible",4576,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259540663,7,22,2,2,"is","likely",4335,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259548182,8,102,10,2,"is","unlikely",7518,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259550766,9,84,8,4,"is","possible",2582,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259553510,10,86,8,6,"is_probably","unlikely",2740,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259558223,11,108,10,8,"might_be","probable",4709,"egnlish",NA,"1",7
+"67e1a889e0f1c201d6420833f611e212a9e91661a846194febb33ca52e2e38bd",1456259565309,12,80,8,0,"is","unlikely",7084,"egnlish",NA,"1",7
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259639318,1,43,4,3,"is","probable",23118,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259655569,2,105,10,5,"is","possible",16247,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259664052,3,88,8,8,"is","probable",8475,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259672729,4,84,8,4,"is","unlikely",8675,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259680079,5,108,10,8,"is","probable",7346,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259699677,6,41,4,1,"is_probably","likely",19595,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259705077,7,107,10,7,"is","probable",5396,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259713136,8,103,10,3,"is","unlikely",8056,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259721615,9,22,2,2,"is","possible",8474,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259728148,10,102,10,2,"is","unlikely",6530,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259733119,11,86,8,6,"is","probable",4968,"English","no","7",4
+"978aa31522502667016377becc38b7c8c6fbec161fc3253a83f6c1776b797c36",1456259740478,12,80,8,0,"is","unlikely",7355,"English","no","7",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722430191,1,80,8,0,"is_certainly","unlikely",28974,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722443174,2,105,10,5,"is","possible",12977,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722449339,3,84,8,4,"might_be","possible",6162,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722461583,4,107,10,7,"is","likely",12241,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722467663,5,102,10,2,"is_probably","unlikely",6073,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722481647,6,41,4,1,"might_be","unlikely",13981,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722488790,7,82,8,2,"might_be","unlikely",7137,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722497746,8,20,2,0,"might_be","probable",8954,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722508471,9,103,10,3,"is_probably","unlikely",10723,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722516754,10,86,8,6,"is_probably","probable",8281,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722522187,11,108,10,8,"is_certainly","possible",5431,"English","Thanks!","8",4
+"66c7c491333ec090302ee466955c3d0851fcf960bcc2e6dd81bc9b869e2da0e5",1455722528058,12,43,4,3,"might_be","possible",5869,"English","Thanks!","8",4
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259620373,1,86,8,6,"is","probable",25311,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259634797,2,105,10,5,"is","possible",14421,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259644510,3,22,2,2,"might_be","possible",9709,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259651912,4,42,4,2,"might_be","possible",7401,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259661941,5,80,8,0,"is","unlikely",10027,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259676402,6,82,8,2,"is_probably","unlikely",14459,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259681487,7,84,8,4,"is","possible",5083,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259690221,8,102,10,2,"is","unlikely",8732,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259695745,9,107,10,7,"is","likely",5522,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259700487,10,43,4,3,"is","possible",4740,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259704947,11,20,2,0,"is","possible",4458,"english",NA,"9",2
+"6fb6d847d936e1257e4e4bf41b1f5696fd70f8242980b78deb056d63a72e5ccf",1456259711339,12,88,8,8,"is","likely",6391,"english",NA,"9",2
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260032752,1,103,10,3,"is_probably","unlikely",45841,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260065302,2,82,8,2,"is_probably","unlikely",32538,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260084510,3,42,4,2,"might_be","possible",19203,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260120063,4,108,10,8,"is","likely",35548,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260135397,5,84,8,4,"is","possible",15324,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260144966,6,88,8,8,"is_certainly","likely",9564,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260203606,7,107,10,7,"is","probable",58636,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260215462,8,105,10,5,"might_be","possible",11843,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260229318,9,86,8,6,"is","probable",13852,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260244751,10,41,4,1,"is","unlikely",15429,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260257773,11,22,2,2,"is","possible",13018,"English","none","10",8
+"b86b03570aaef8dff639884eef55bbc5edf90f85e81246c5de0ca77387bd2b28",1456260277822,12,102,10,2,"is","unlikely",20044,"English","none","10",8

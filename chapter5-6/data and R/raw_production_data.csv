@@ -1,0 +1,802 @@
+"id";"itemTime";"trial.";"condition";"value";"access";"observation";"answer";"RT";"language";"comments";"engagement";"difficulty"
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";1;"none";107;10;7;"certainly";23547;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";2;"high";42;4;2;"possibly";12494;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";3;"low";86;8;6;"probably";9473;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";4;"high";22;2;2;"possibly";10714;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";5;"low";84;8;4;"possibly";15955;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";6;"low";88;8;8;"certainly";4302;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";7;"high";43;4;3;"probably";6948;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";8;"none";102;10;2;"certainlyNot";5345;"English";"It was fun";10;1
+"a5a9dcd28c578a92015209a480db30c0bf892168a9746b74808c30d909eeb3b5";"1,48762E+12";9;"none";105;10;5;"possibly";5354;"English";"It was fun";10;1
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";1;"high";22;2;2;"probably";11721;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";2;"none";107;10;7;"possibly";7124;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";3;"none";108;10;8;"probably";5336;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";4;"none";103;10;3;"probablyNot";7179;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";5;"low";82;8;2;"probablyNot";3844;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";6;"high";42;4;2;"possibly";3633;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";7;"high";43;4;3;"possibly";3681;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";8;"low";80;8;0;"certainlyNot";2267;"english";"n/a";3;0
+"7711eb71ede60b7978c191750391d0bfde57cd95554755f41dff0279d0c7effe";"1,48762E+12";9;"low";86;8;6;"probably";3071;"english";"n/a";3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";1;"none";108;10;8;"certainly";9731;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";2;"low";82;8;2;"probablyNot";6004;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";3;"high";41;4;1;"probably";9585;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";4;"low";84;8;4;"possibly";4331;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";5;"high";42;4;2;"possibly";2443;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";6;"none";107;10;7;"probably";3263;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";7;"low";86;8;6;"probably";3035;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";8;"none";102;10;2;"possibly";4672;"english";NA;3;0
+"636c0fc0d65022f2b8c4151bc731de159f2b20a9ba9cc72b06a4c11ea8337d28";"1,48762E+12";9;"high";43;4;3;"possibly";1717;"english";NA;3;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";1;"high";43;4;3;"probably";7070;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";2;"none";105;10;5;"possibly";7555;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";3;"low";84;8;4;"possibly";6191;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";4;"none";108;10;8;"probably";6601;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";5;"none";103;10;3;"probablyNot";4469;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";6;"high";41;4;1;"probablyNot";3695;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";7;"low";82;8;2;"probablyNot";3441;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";8;"low";88;8;8;"certainly";2820;"English";NA;4;0
+"6e74f0168362525a662cdbfd0501709487e592f746be7f6b5ff76cf6305a8cdb";"1,48764E+12";9;"high";42;4;2;"possibly";3634;"English";NA;4;0
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";1;"none";108;10;8;"probably";14767;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";2;"low";84;8;4;"probablyNot";10256;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";3;"high";22;2;2;"probablyNot";5471;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";4;"low";86;8;6;"probably";9757;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";5;"none";102;10;2;"probablyNot";4978;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";6;"high";42;4;2;"possibly";3156;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";7;"none";107;10;7;"certainly";5644;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";8;"high";41;4;1;"probablyNot";2826;"English";NA;9;3
+"ca1ab928664d782377356797c768710ffe48858273c425efc8ed4e1ad6046587";"1,48762E+12";9;"low";82;8;2;"probablyNot";3924;"English";NA;9;3
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";1;"none";103;10;3;"probably";10699;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";2;"none";105;10;5;"possibly";5567;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";3;"low";80;8;0;"certainlyNot";4041;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";4;"high";43;4;3;"probably";4548;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";5;"high";22;2;2;"probably";4064;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";6;"low";86;8;6;"probably";2421;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";7;"none";102;10;2;"probablyNot";3547;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";8;"high";41;4;1;"probablyNot";4079;"english";"great survey";5;1
+"c0c0cfa16b5ed1e9d2c77dbc250e4d04a3eba219ca576622c270eb62e15f5b5c";"1,48762E+12";9;"low";82;8;2;"probablyNot";6163;"english";"great survey";5;1
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";1;"none";105;10;5;"possibly";13952;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";2;"low";88;8;8;"probably";5902;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";3;"none";103;10;3;"probablyNot";7284;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";4;"high";22;2;2;"possibly";6253;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";5;"low";84;8;4;"possibly";8246;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";6;"low";86;8;6;"probably";8773;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";7;"none";107;10;7;"probably";6957;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";8;"high";42;4;2;"possibly";5782;"English";"Interesting.";8;0
+"d99790f6fd0fb1a0349e3c65b24ad8dc9e33f2f990d7048c5c7a12f62b875b51";"1,48762E+12";9;"high";20;2;0;"possibly";12221;"English";"Interesting.";8;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";1;"high";43;4;3;"certainly";22932;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";2;"low";82;8;2;"probablyNot";15269;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";3;"none";103;10;3;"probablyNot";7946;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";4;"low";86;8;6;"probably";4801;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";5;"high";41;4;1;"probably";5701;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";6;"none";107;10;7;"probably";4098;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";7;"high";20;2;0;"certainlyNot";3852;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";8;"low";84;8;4;"possibly";7000;"Tamil";"None";10;0
+"a0a6ea81d7294880fdd14936318f0d6e9670bdfc1e6bde16d3baadac08649465";"1,48762E+12";9;"none";102;10;2;"probablyNot";4281;"Tamil";"None";10;0
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";1;"high";43;4;3;"probably";7567;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";2;"low";80;8;0;"certainlyNot";7397;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";3;"low";82;8;2;"probablyNot";6650;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";4;"high";42;4;2;"probablyNot";4244;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";5;"high";41;4;1;"probablyNot";4909;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";6;"none";105;10;5;"possibly";3884;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";7;"none";107;10;7;"probably";3969;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";8;"low";84;8;4;"probably";3343;"english";NA;7;2
+"98d4b89b460fee637eb3d2e56f7635787a87f8c2f268a892ce8e71281e96f14e";"1,48771E+12";9;"none";102;10;2;"probablyNot";5313;"english";NA;7;2
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";1;"low";86;8;6;"probably";7990;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";2;"high";20;2;0;"possibly";4209;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";3;"low";80;8;0;"probablyNot";3523;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";4;"low";88;8;8;"probably";1975;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";5;"high";42;4;2;"possibly";2968;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";6;"none";105;10;5;"possibly";2002;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";7;"none";108;10;8;"probably";6013;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";8;"none";103;10;3;"probablyNot";5589;"English";NA;8;0
+"7587540f235797220111f3c7e193fe7dd759f021c2a88b9ec6a4b339bdb3a7e8";"1,48764E+12";9;"high";43;4;3;"possibly";3069;"English";NA;8;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";1;"none";102;10;2;"possibly";22663;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";2;"none";108;10;8;"probably";24798;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";3;"low";82;8;2;"probablyNot";12590;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";4;"high";42;4;2;"possibly";6558;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";5;"high";22;2;2;"certainly";8178;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";6;"low";84;8;4;"possibly";9176;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";7;"low";86;8;6;"probably";9521;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";8;"high";43;4;3;"probably";7211;"English";"It was interesting.";10;0
+"7915d94315a0c0bf5144f6f0690008cfc4f1ea4c37059389191af9cee86b8aed";"1,48762E+12";9;"none";105;10;5;"possibly";9182;"English";"It was interesting.";10;0
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";1;"none";108;10;8;"certainly";11898;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";2;"high";41;4;1;"certainlyNot";7354;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";3;"high";22;2;2;"probably";9638;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";4;"low";88;8;8;"certainly";6901;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";5;"low";84;8;4;"possibly";9360;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";6;"none";105;10;5;"possibly";12300;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";7;"high";20;2;0;"possibly";6425;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";8;"none";107;10;7;"probably";5758;"English";NA;8;1
+"c02075f7ef117e4784a141c39605852c99c874459a20b14f22b6c4a884114662";"1,48762E+12";9;"low";80;8;0;"probablyNot";4456;"English";NA;8;1
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";1;"high";42;4;2;"possibly";19589;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";2;"high";22;2;2;"probablyNot";6100;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";3;"low";84;8;4;"possibly";6678;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";4;"none";108;10;8;"certainly";4948;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";5;"low";82;8;2;"probablyNot";7789;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";6;"low";88;8;8;"certainly";6108;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";7;"none";107;10;7;"certainly";5790;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";8;"none";102;10;2;"possibly";3726;"English";NA;7;3
+"2f45df7654754d54deb0359b49b52db654857e3ab84f01003cf6d75d870eb96e";"1,48763E+12";9;"high";43;4;3;"probably";7063;"English";NA;7;3
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";1;"none";105;10;5;"possibly";8444;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";2;"high";43;4;3;"possibly";10968;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";3;"low";82;8;2;"probablyNot";8353;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";4;"none";102;10;2;"probablyNot";10743;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";5;"high";41;4;1;"probablyNot";4960;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";6;"high";42;4;2;"possibly";4022;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";7;"low";88;8;8;"certainly";12883;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";8;"low";86;8;6;"probably";4558;"English";"none";10;7
+"f809675416f0db7a8d18151e41629c022f77d8cf18e815e17707ebf0ba6aaed8";"1,48763E+12";9;"none";108;10;8;"probably";14034;"English";"none";10;7
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";1;"high";22;2;2;"certainly";17892;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";2;"low";80;8;0;"probablyNot";16570;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";3;"low";86;8;6;"possibly";7966;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";4;"high";42;4;2;"possibly";7654;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";5;"high";41;4;1;"possibly";18340;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";6;"low";82;8;2;"probablyNot";7144;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";7;"none";108;10;8;"probably";4934;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";8;"none";107;10;7;"certainly";3771;"English";NA;10;0
+"f0a3392d304d00ab2529980a7282a3a85c702e3b8a8d350725ce3967e4f7a58b";"1,48762E+12";9;"none";102;10;2;"probablyNot";5692;"English";NA;10;0
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";1;"none";105;10;5;"possibly";12951;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";2;"high";22;2;2;"probably";6377;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";3;"low";82;8;2;"probablyNot";2605;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";4;"low";80;8;0;"certainlyNot";3486;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";5;"high";43;4;3;"possibly";4746;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";6;"low";84;8;4;"possibly";4178;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";7;"high";20;2;0;"probablyNot";3903;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";8;"none";103;10;3;"certainlyNot";8105;"English";NA;8;6
+"500c36a8fa682cfe0ea33626cd679b1c0e9db3a75e1a0b6d26d223560255a50f";"1,48762E+12";9;"none";107;10;7;"probably";4916;"English";NA;8;6
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";1;"none";103;10;3;"possibly";11233;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";2;"low";84;8;4;"possibly";8896;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";3;"none";102;10;2;"probablyNot";3892;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";4;"high";42;4;2;"possibly";4153;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";5;"high";20;2;0;"certainlyNot";3396;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";6;"high";43;4;3;"probably";5254;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";7;"low";80;8;0;"certainlyNot";3313;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";8;"low";86;8;6;"probably";5486;"english ";NA;8;2
+"d74e57578142225d419f2edac637e1d043ad1494675e9149831eef5d422333cb";"1,48771E+12";9;"none";108;10;8;"probably";3926;"english ";NA;8;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";1;"low";84;8;4;"possibly";13393;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";2;"low";86;8;6;"probably";4708;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";3;"none";103;10;3;"probablyNot";8142;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";4;"high";42;4;2;"possibly";3732;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";5;"high";22;2;2;"possibly";5092;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";6;"none";108;10;8;"probably";8859;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";7;"low";80;8;0;"probablyNot";4545;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";8;"high";41;4;1;"possibly";5645;"English";"no";9;2
+"58b21e06a6a8b60a06cf97a9a3387acc81cebfcfd2ae0096e5f9b8c33ce75e4e";"1,48762E+12";9;"none";102;10;2;"probablyNot";3081;"English";"no";9;2
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";1;"low";86;8;6;"probably";8915;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";2;"none";103;10;3;"probablyNot";7999;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";3;"none";107;10;7;"probably";5106;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";4;"high";22;2;2;"possibly";6960;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";5;"low";84;8;4;"possibly";4470;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";6;"high";41;4;1;"probablyNot";6148;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";7;"low";88;8;8;"probably";7915;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";8;"high";42;4;2;"possibly";5254;"English";"None";8;1
+"52119bc0e26da989a7050c41d2ae9d1933df9d8a270183ac0ef39fd556e0b20b";"1,48771E+12";9;"none";102;10;2;"probablyNot";5442;"English";"None";8;1
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";1;"high";42;4;2;"possibly";8933;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";2;"high";41;4;1;"probablyNot";6744;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";3;"none";103;10;3;"probablyNot";10329;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";4;"low";88;8;8;"probably";6727;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";5;"high";43;4;3;"probably";3401;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";6;"low";84;8;4;"possibly";5295;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";7;"none";105;10;5;"possibly";3795;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";8;"low";82;8;2;"probablyNot";5035;"English";NA;7;2
+"674751548de5d7b2dc74eb8fc17359ea616c21fd2bafea2508293eabfe4c297e";"1,48772E+12";9;"none";107;10;7;"probably";5350;"English";NA;7;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";1;"high";43;4;3;"probably";10201;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";2;"low";80;8;0;"certainlyNot";7534;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";3;"none";107;10;7;"probably";9312;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";4;"high";42;4;2;"possibly";6805;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";5;"low";82;8;2;"probablyNot";4917;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";6;"none";105;10;5;"certainlyNot";6460;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";7;"high";20;2;0;"possibly";6748;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";8;"none";103;10;3;"certainlyNot";5547;"English";NA;4;2
+"c3ac747b15bf4c8077463c246f918d614d68ed83b4a799004674535203af0918";"1,48771E+12";9;"low";86;8;6;"possibly";5463;"English";NA;4;2
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";1;"low";80;8;0;"probablyNot";12460;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";2;"none";105;10;5;"possibly";5078;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";3;"low";86;8;6;"probably";6291;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";4;"low";84;8;4;"possibly";4170;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";5;"high";20;2;0;"possibly";9228;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";6;"none";103;10;3;"probablyNot";6011;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";7;"none";102;10;2;"probablyNot";4486;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";8;"high";43;4;3;"probably";3866;"English";NA;10;5
+"3320640f80d3a28c41a256ca3daf1aa0db147ffae1e4f463641e394dcd8b1b44";"1,48771E+12";9;"high";42;4;2;"possibly";14195;"English";NA;10;5
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";1;"high";20;2;0;"possibly";9056;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";2;"high";43;4;3;"possibly";7034;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";3;"none";105;10;5;"possibly";7405;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";4;"low";86;8;6;"probably";4613;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";5;"none";103;10;3;"probablyNot";5289;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";6;"low";84;8;4;"possibly";6107;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";7;"low";82;8;2;"probablyNot";4602;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";8;"none";107;10;7;"probably";2812;"English";NA;5;0
+"ebc7e4b6e0c8da39e0098ba5f72b578e3c27d2fd971248fb01b487203d75cd0f";"1,48779E+12";9;"high";41;4;1;"possibly";3058;"English";NA;5;0
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";1;"none";107;10;7;"certainly";29026;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";2;"low";80;8;0;"probablyNot";18826;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";3;"none";102;10;2;"probablyNot";14577;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";4;"high";20;2;0;"possibly";18992;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";5;"high";42;4;2;"probably";10057;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";6;"low";82;8;2;"probablyNot";9527;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";7;"none";105;10;5;"probably";8965;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";8;"high";41;4;1;"possibly";23478;"tamil";"none";10;3
+"89171b558fe674460e1cfa793a13978fd59dd0114d4ee5ae16e53e91f4bececf";"1,48779E+12";9;"low";88;8;8;"certainly";5002;"tamil";"none";10;3
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";1;"none";103;10;3;"possibly";21698;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";2;"none";108;10;8;"probably";8950;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";3;"high";42;4;2;"possibly";6386;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";4;"low";86;8;6;"probably";4865;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";5;"high";20;2;0;"certainlyNot";5641;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";6;"low";84;8;4;"probably";3777;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";7;"low";80;8;0;"certainlyNot";3236;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";8;"none";105;10;5;"probably";7134;"English";NA;8;1
+"601b7758859f2c1d6671988e78218b38bea0241b60e51b6efa2ac7509883201a";"1,48771E+12";9;"high";22;2;2;"certainly";5035;"English";NA;8;1
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";1;"none";102;10;2;"probablyNot";16188;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";2;"low";88;8;8;"certainly";22374;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";3;"low";86;8;6;"probably";10819;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";4;"high";42;4;2;"possibly";18063;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";5;"none";108;10;8;"probably";8022;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";6;"low";82;8;2;"probablyNot";7093;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";7;"high";43;4;3;"possibly";7445;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";8;"none";107;10;7;"probably";6479;"english";NA;8;3
+"f3192eed28f44523b15066c1e7790b72be30ed5d2e4ab814cbc0296df7441d62";"1,48778E+12";9;"high";20;2;0;"possibly";4630;"english";NA;8;3
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";1;"none";108;10;8;"certainly";6278;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";2;"high";42;4;2;"possibly";3571;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";3;"none";105;10;5;"possibly";2614;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";4;"high";43;4;3;"certainly";3707;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";5;"high";20;2;0;"probably";4797;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";6;"low";88;8;8;"certainly";2812;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";7;"low";82;8;2;"probablyNot";4767;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";8;"low";80;8;0;"certainlyNot";3433;"english";NA;10;0
+"591fb0ff81ae3134fcdf2631f3e9ab9ac51f08a44dbf31cebd143414d4ba6625";"1,48772E+12";9;"none";107;10;7;"probably";4146;"english";NA;10;0
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";1;"none";108;10;8;"certainly";11938;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";2;"high";20;2;0;"probablyNot";9977;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";3;"none";102;10;2;"probably";11350;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";4;"low";80;8;0;"probablyNot";5489;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";5;"low";84;8;4;"possibly";4927;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";6;"high";42;4;2;"possibly";5343;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";7;"high";43;4;3;"probably";4645;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";8;"none";105;10;5;"possibly";3880;"English";NA;6;2
+"c1c426d574e33b41e8ddd24cf15d41233315e9aa2428e4b2571973fcdc285e69";"1,48772E+12";9;"low";82;8;2;"probablyNot";3811;"English";NA;6;2
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";1;"none";107;10;7;"probably";10461;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";2;"low";82;8;2;"certainlyNot";7876;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";3;"none";102;10;2;"certainlyNot";11052;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";4;"none";105;10;5;"possibly";4038;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";5;"high";43;4;3;"probablyNot";7264;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";6;"high";20;2;0;"probablyNot";6154;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";7;"low";86;8;6;"probably";5314;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";8;"low";80;8;0;"probably";4769;"English";NA;7;3
+"1ffdb2fe53083f2d4ae4e7d2af3931072b7506d8db8921ec7a36adae1519ca2f";"1,48771E+12";9;"high";41;4;1;"probablyNot";5832;"English";NA;7;3
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";1;"none";108;10;8;"probably";10393;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";2;"high";41;4;1;"probablyNot";5091;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";3;"none";107;10;7;"probably";7191;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";4;"low";80;8;0;"certainlyNot";4920;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";5;"low";88;8;8;"certainly";3581;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";6;"high";20;2;0;"probablyNot";7194;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";7;"high";43;4;3;"probably";5098;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";8;"none";105;10;5;"possibly";6723;"American English";"Nope.";5;0
+"b95c7bbf09d6f4a69eae62ba0db63e12d434889df8b50a852fed5ca74a203055";"1,48775E+12";9;"low";84;8;4;"possibly";4513;"American English";"Nope.";5;0
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";1;"high";42;4;2;"possibly";16302;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";2;"none";107;10;7;"probably";11541;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";3;"none";102;10;2;"probablyNot";7576;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";4;"low";84;8;4;"possibly";7366;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";5;"high";22;2;2;"probably";7685;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";6;"none";103;10;3;"probably";5604;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";7;"high";43;4;3;"probably";5724;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";8;"low";88;8;8;"certainly";3620;"english";"enjoyed";8;4
+"3da159d2ec567605aa234eeaa74b309989d1bc7aaa312fbb6b618870dedbca24";"1,48774E+12";9;"low";86;8;6;"probably";2880;"english";"enjoyed";8;4
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";1;"none";105;10;5;"possibly";8985;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";2;"high";22;2;2;"possibly";6568;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";3;"high";20;2;0;"probablyNot";6286;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";4;"none";108;10;8;"probably";4746;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";5;"low";86;8;6;"probably";4276;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";6;"high";42;4;2;"possibly";2648;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";7;"low";82;8;2;"probablyNot";3742;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";8;"none";103;10;3;"probablyNot";3172;"English";NA;7;1
+"8c520eccb475004c63244ee3da2daa2ef45a11f73f7c5b79ce639bf7eeeb6c22";"1,48771E+12";9;"low";88;8;8;"possibly";9038;"English";NA;7;1
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";1;"low";80;8;0;"probablyNot";12826;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";2;"high";43;4;3;"probably";15888;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";3;"low";82;8;2;"probablyNot";4537;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";4;"none";105;10;5;"possibly";6127;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";5;"high";20;2;0;"possibly";6511;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";6;"low";88;8;8;"probably";6140;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";7;"none";107;10;7;"probably";8035;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";8;"none";103;10;3;"probablyNot";6143;"English";NA;9;0
+"59b1a5778ce19ceb6ee625529802cc69b37638ce169d2d1097d980790824a09e";"1,48777E+12";9;"high";42;4;2;"possibly";4600;"English";NA;9;0
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";1;"none";105;10;5;"possibly";16736;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";2;"high";41;4;1;"probablyNot";20046;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";3;"low";88;8;8;"probably";10195;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";4;"none";108;10;8;"probably";11015;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";5;"none";103;10;3;"probablyNot";8541;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";6;"high";43;4;3;"probably";8558;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";7;"high";42;4;2;"possibly";6102;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";8;"low";86;8;6;"probably";3751;"English";"Thanks";10;2
+"c731e8472cad6d938dcf7edbaa22679a1755a29e693792503961d540e75b1757";"1,48772E+12";9;"low";80;8;0;"probablyNot";4851;"English";"Thanks";10;2
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";1;"low";84;8;4;"possibly";2080;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";2;"none";105;10;5;"certainlyNot";1583;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";3;"high";41;4;1;"certainlyNot";3117;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";4;"low";88;8;8;"possibly";1434;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";5;"high";20;2;0;"possibly";1435;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";6;"low";82;8;2;"possibly";1306;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";7;"none";103;10;3;"possibly";1390;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";8;"none";102;10;2;"probablyNot";1370;"English";NA;7;1
+"f57928d415c4e1cc39cb130e9b5190a482315fa595d86cf74f8be629a6363b12";"1,48771E+12";9;"high";42;4;2;"probablyNot";1331;"English";NA;7;1
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";1;"low";86;8;6;"certainly";2347;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";2;"low";84;8;4;"probably";1245;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";3;"none";105;10;5;"probably";1045;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";4;"high";43;4;3;"probablyNot";1167;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";5;"low";80;8;0;"certainly";4284;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";6;"none";108;10;8;"probably";1063;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";7;"none";103;10;3;"possibly";1007;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";8;"high";20;2;0;"possibly";1142;"English";"To do certain things";5;5
+"96c9486a1a00d25590150d8b59ceaf0e16257150dd8885077e5dae157f518dda";"1,48771E+12";9;"high";42;4;2;"probably";1000;"English";"To do certain things";5;5
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";1;"high";22;2;2;"possibly";9349;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";2;"low";86;8;6;"probablyNot";5347;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";3;"none";103;10;3;"certainly";4060;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";4;"high";42;4;2;"possibly";2460;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";5;"none";102;10;2;"certainly";2907;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";6;"low";80;8;0;"certainly";2271;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";7;"none";105;10;5;"possibly";5276;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";8;"high";20;2;0;"probably";2733;"english";"I found this task fun!";8;0
+"25108d222b4c1dda9ef4d02659d6302d4f1caaa3e99cec467841af865c6d649e";"1,48773E+12";9;"low";88;8;8;"certainlyNot";2226;"english";"I found this task fun!";8;0
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";1;"none";105;10;5;"probablyNot";1935;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";2;"high";42;4;2;"possibly";3925;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";3;"high";41;4;1;"possibly";1365;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";4;"low";82;8;2;"probably";1766;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";5;"high";20;2;0;"probablyNot";2088;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";6;"low";80;8;0;"probably";2021;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";7;"low";84;8;4;"probablyNot";2063;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";8;"none";103;10;3;"probablyNot";1449;"English";NA;5;5
+"d11f5c4ac8eb98ca9c39c1fa0939ff01213125334ed2b100378ee735703eacd6";"1,48771E+12";9;"none";102;10;2;"possibly";1927;"English";NA;5;5
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";1;"low";80;8;0;"probably";3003;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";2;"none";108;10;8;"probably";1948;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";3;"high";22;2;2;"possibly";1765;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";4;"low";86;8;6;"possibly";1645;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";5;"none";103;10;3;"possibly";1495;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";6;"none";107;10;7;"possibly";1472;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";7;"low";82;8;2;"possibly";1556;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";8;"high";43;4;3;"certainlyNot";1841;"English";NA;10;2
+"e7b2027002d40b95df38fef8d159b6286fd826a121a6e1371bbf4780b2dc703e";"1,48774E+12";9;"high";20;2;0;"probably";1810;"English";NA;10;2
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";1;"none";108;10;8;"probably";17227;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";2;"none";102;10;2;"probablyNot";12371;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";3;"low";86;8;6;"probably";24729;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";4;"high";41;4;1;"probablyNot";8646;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";5;"low";84;8;4;"possibly";7098;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";6;"low";88;8;8;"certainly";13860;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";7;"high";43;4;3;"probably";5308;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";8;"high";22;2;2;"possibly";9150;"English";"That was fun and interesting!";10;0
+"95889809c186e240b79e4dfc845b51aa9982f65bb5ae8ad8407944031eea9696";"1,48771E+12";9;"none";103;10;3;"probablyNot";10765;"English";"That was fun and interesting!";10;0
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";1;"high";43;4;3;"possibly";12344;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";2;"low";86;8;6;"probably";8197;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";3;"high";42;4;2;"probablyNot";4502;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";4;"none";102;10;2;"certainlyNot";2805;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";5;"none";107;10;7;"probably";4028;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";6;"high";22;2;2;"possibly";3225;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";7;"low";88;8;8;"certainly";2836;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";8;"low";80;8;0;"certainlyNot";2538;"English";NA;10;6
+"6aa3d00ae919d8934f8aa2b8467539e5f09750c4cf7453eb3df53c2c9a1b17a4";"1,48771E+12";9;"none";103;10;3;"probablyNot";2341;"English";NA;10;6
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";1;"low";88;8;8;"probably";10773;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";2;"none";108;10;8;"probably";18822;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";3;"high";22;2;2;"possibly";6493;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";4;"high";43;4;3;"possibly";8227;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";5;"none";107;10;7;"probably";5897;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";6;"none";105;10;5;"possibly";9381;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";7;"low";80;8;0;"probablyNot";6911;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";8;"low";86;8;6;"possibly";9661;"English";NA;10;2
+"1c7ce23c12c8f9cf4d0c078acf3b6d28ac46cae771a9d963947888cda9daa77d";"1,48771E+12";9;"high";20;2;0;"probablyNot";6353;"English";NA;10;2
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";1;"none";103;10;3;"probablyNot";17515;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";2;"none";105;10;5;"possibly";5238;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";3;"high";20;2;0;"possibly";8343;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";4;"low";86;8;6;"probably";8335;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";5;"none";108;10;8;"probably";8231;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";6;"high";43;4;3;"possibly";5039;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";7;"high";42;4;2;"possibly";3231;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";8;"low";88;8;8;"probably";4223;"English";NA;7;0
+"8396e3c12d47f0f38f09a4bfffa842d6b4c01808f3ce9199d809275892f84962";"1,48772E+12";9;"low";82;8;2;"probablyNot";4815;"English";NA;7;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";1;"low";82;8;2;"probablyNot";20412;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";2;"none";107;10;7;"probably";21314;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";3;"none";102;10;2;"probablyNot";10069;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";4;"low";88;8;8;"certainly";3671;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";5;"low";84;8;4;"possibly";8368;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";6;"high";43;4;3;"possibly";10392;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";7;"high";22;2;2;"probably";5536;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";8;"none";103;10;3;"probablyNot";36861;"English";"Interesting task! Love you guys. Mwah";9;0
+"0e63f3f8891a619d93276103551455759c7ea324d85d2e714d843ad56096db1a";"1,48771E+12";9;"high";41;4;1;"probablyNot";7305;"English";"Interesting task! Love you guys. Mwah";9;0
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";1;"high";43;4;3;"probably";14975;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";2;"none";102;10;2;"probablyNot";16021;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";3;"none";105;10;5;"possibly";22681;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";4;"low";82;8;2;"probablyNot";9205;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";5;"low";86;8;6;"probably";5982;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";6;"high";41;4;1;"probablyNot";9256;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";7;"low";80;8;0;"certainlyNot";9353;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";8;"none";108;10;8;"probably";7057;"English";NA;6;1
+"915ce8ac1853839d02ed2604f33b8e63fb5cfff03659b6ee88263a87621fb434";"1,48772E+12";9;"high";42;4;2;"possibly";10641;"English";NA;6;1
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";1;"none";103;10;3;"probablyNot";18736;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";2;"high";42;4;2;"possibly";3924;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";3;"high";41;4;1;"probablyNot";6284;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";4;"none";102;10;2;"probablyNot";3837;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";5;"high";22;2;2;"certainly";3044;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";6;"low";86;8;6;"probably";8453;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";7;"low";84;8;4;"possibly";3831;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";8;"low";80;8;0;"certainlyNot";2622;"Turkish";NA;6;3
+"b7e9abf95e020a7afe4ad284007415e9fc6599a700379a7a27a9443a5bfd5d61";"1,48776E+12";9;"none";108;10;8;"probably";3116;"Turkish";NA;6;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";1;"low";84;8;4;"possibly";7756;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";2;"high";22;2;2;"probably";5151;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";3;"high";43;4;3;"probably";3406;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";4;"high";20;2;0;"probablyNot";7966;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";5;"none";108;10;8;"probably";14160;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";6;"low";80;8;0;"probablyNot";3799;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";7;"none";103;10;3;"probablyNot";5127;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";8;"low";88;8;8;"probably";3904;"English";NA;10;3
+"f34cf303b2540a999c3440fd329754d1c28dd47270b9f189842385a031285c6b";"1,48771E+12";9;"none";105;10;5;"possibly";5423;"English";NA;10;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";1;"high";43;4;3;"possibly";16273;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";2;"low";80;8;0;"probablyNot";7230;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";3;"low";86;8;6;"possibly";4611;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";4;"none";105;10;5;"possibly";4222;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";5;"low";84;8;4;"probablyNot";8636;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";6;"high";42;4;2;"probablyNot";4181;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";7;"none";103;10;3;"probablyNot";4105;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";8;"none";108;10;8;"probably";4016;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"cf1f1e17d25573cdf8c3a48820e14a08a43f6907738f11afbdbc970a56db3a28";"1,48785E+12";9;"high";20;2;0;"certainlyNot";6176;"English";"The study was interesting, thank you for giving me the opportunity to take part.";8;3
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";1;"high";41;4;1;"probablyNot";12195;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";2;"low";84;8;4;"possibly";7318;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";3;"none";103;10;3;"probablyNot";5709;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";4;"low";82;8;2;"probablyNot";6454;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";5;"low";88;8;8;"certainly";5390;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";6;"none";105;10;5;"possibly";3941;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";7;"high";42;4;2;"possibly";4814;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";8;"none";107;10;7;"probably";6015;"English";"No";8;1
+"d5b26b2d4283cb2b3913cad7d5db1a35be7e61df16390e1c24ed501a157e5201";"1,48781E+12";9;"high";20;2;0;"possibly";3950;"English";"No";8;1
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";1;"none";105;10;5;"possibly";10936;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";2;"none";108;10;8;"probably";6476;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";3;"high";20;2;0;"probablyNot";5185;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";4;"none";107;10;7;"probably";4010;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";5;"low";88;8;8;"probably";2621;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";6;"high";42;4;2;"possibly";5564;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";7;"low";86;8;6;"probably";5069;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";8;"low";80;8;0;"certainlyNot";6721;"english";NA;8;0
+"b2e602d0506e70ce1399b3852465a401ace8041f2131cac45a20a87aa11a46f0";"1,48781E+12";9;"high";41;4;1;"probablyNot";4410;"english";NA;8;0
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";1;"low";88;8;8;"certainly";4755;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";2;"high";42;4;2;"possibly";2975;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";3;"none";103;10;3;"probablyNot";3070;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";4;"high";20;2;0;"certainlyNot";2303;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";5;"high";22;2;2;"certainly";2992;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";6;"low";86;8;6;"probably";2336;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";7;"none";102;10;2;"probablyNot";2701;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";8;"low";82;8;2;"probablyNot";2559;"English";NA;9;5
+"f42d480f355825a27c1807978f619f713679ecc6a648b46543a4d44ddd1d201c";"1,4878E+12";9;"none";107;10;7;"probably";2447;"English";NA;9;5
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";1;"high";22;2;2;"possibly";11143;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";2;"none";103;10;3;"probablyNot";9451;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";3;"low";82;8;2;"probablyNot";6696;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";4;"none";108;10;8;"probably";7767;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";5;"high";41;4;1;"probablyNot";7330;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";6;"low";86;8;6;"probably";8383;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";7;"low";88;8;8;"probably";3689;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";8;"none";105;10;5;"possibly";16273;"English";"Everything worked great, thanks!";10;0
+"becd3e44eecaa9d8fc2c7b690ac633b676e9bded671e08465be1e059753ec27d";"1,48781E+12";9;"high";43;4;3;"probably";4365;"English";"Everything worked great, thanks!";10;0
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";1;"low";84;8;4;"possibly";15111;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";2;"none";107;10;7;"probably";8389;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";3;"high";42;4;2;"certainlyNot";8610;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";4;"high";43;4;3;"probablyNot";3650;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";5;"low";86;8;6;"possibly";8037;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";6;"high";20;2;0;"certainlyNot";4052;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";7;"low";82;8;2;"certainlyNot";7355;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";8;"none";108;10;8;"probably";3626;"English";NA;10;3
+"f633cd3f307ff6af1d6dcd0cf3bc7fd3b6390e55c81e36715f5facb9ae3c2fca";"1,48786E+12";9;"none";103;10;3;"probablyNot";4319;"English";NA;10;3
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";1;"high";42;4;2;"possibly";11414;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";2;"none";107;10;7;"probably";9449;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";3;"low";82;8;2;"probablyNot";8400;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";4;"low";88;8;8;"certainly";5751;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";5;"high";43;4;3;"possibly";12966;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";6;"none";105;10;5;"possibly";22901;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";7;"high";41;4;1;"probablyNot";5085;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";8;"low";86;8;6;"probably";9315;"English";NA;7;0
+"3e61bb4625227afe09e972aaf66d10d065306a5eaceffae62486cb34cb3df73c";"1,4878E+12";9;"none";108;10;8;"probably";6161;"English";NA;7;0
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";1;"none";102;10;2;"probablyNot";10248;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";2;"low";84;8;4;"possibly";4814;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";3;"high";41;4;1;"probablyNot";4296;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";4;"high";43;4;3;"possibly";8076;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";5;"none";107;10;7;"probably";7271;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";6;"none";108;10;8;"probably";14816;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";7;"low";88;8;8;"probably";5145;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";8;"high";22;2;2;"possibly";3008;"English";"I think it has to be 100% to be certain ";9;2
+"e1f3e406c30f5f48101e7b29e0142aa67c0a10eec0b7b897d7ec7b252e418109";"1,48788E+12";9;"low";80;8;0;"probablyNot";4340;"English";"I think it has to be 100% to be certain ";9;2
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";1;"low";82;8;2;"probablyNot";5926;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";2;"none";108;10;8;"probably";10439;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";3;"high";43;4;3;"probably";4027;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";4;"low";80;8;0;"certainlyNot";4805;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";5;"high";22;2;2;"probably";4281;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";6;"high";41;4;1;"probablyNot";3329;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";7;"low";86;8;6;"probably";5948;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";8;"none";102;10;2;"probablyNot";5852;"English";NA;8;3
+"17e696f42eef719176f381fb4c7c1e9bafd722b14c9a74ce90e7996eaac2996c";"1,4878E+12";9;"none";105;10;5;"possibly";3457;"English";NA;8;3
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";1;"low";82;8;2;"possibly";17925;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";2;"none";102;10;2;"possibly";11687;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";3;"high";43;4;3;"probably";8626;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";4;"high";42;4;2;"probably";6489;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";5;"none";103;10;3;"possibly";7062;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";6;"low";86;8;6;"probably";5813;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";7;"low";88;8;8;"certainly";6608;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";8;"none";107;10;7;"probably";5042;"English";"No.";8;6
+"876e0705b6997dceced468388b1339ba2f333f3781bc3333d50dcf3551e59858";"1,4878E+12";9;"high";20;2;0;"probablyNot";4846;"English";"No.";8;6
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";1;"low";88;8;8;"probably";13320;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";2;"low";82;8;2;"probablyNot";10098;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";3;"none";107;10;7;"probably";8554;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";4;"high";20;2;0;"possibly";6771;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";5;"low";86;8;6;"probably";7717;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";6;"high";41;4;1;"probablyNot";13624;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";7;"none";102;10;2;"probablyNot";6393;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";8;"high";42;4;2;"possibly";4544;"English";"no";8;1
+"0fc4b801724b1b3d3f2c5997406b66dcc9a986af53926b181d0ccff4c17b8cc3";"1,4878E+12";9;"none";103;10;3;"probablyNot";5851;"English";"no";8;1
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";1;"high";20;2;0;"possibly";7307;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";2;"none";103;10;3;"probably";7408;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";3;"none";108;10;8;"probably";10336;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";4;"none";102;10;2;"probablyNot";7080;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";5;"low";80;8;0;"certainlyNot";6000;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";6;"high";43;4;3;"certainly";6560;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";7;"low";84;8;4;"probably";4901;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";8;"high";22;2;2;"certainly";4499;"english";NA;10;0
+"31406e3db46ae04220f88454cabf41cb267b8e4a596b80d67e5bdceb5a71b202";"1,4878E+12";9;"low";86;8;6;"probably";6885;"english";NA;10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";1;"none";103;10;3;"probablyNot";9769;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";2;"low";82;8;2;"probablyNot";3566;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";3;"none";108;10;8;"probably";3494;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";4;"none";105;10;5;"possibly";3502;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";5;"low";88;8;8;"certainly";2735;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";6;"high";41;4;1;"probablyNot";3087;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";7;"high";42;4;2;"probablyNot";2775;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";8;"low";84;8;4;"possibly";3311;"English";"N/A";10;0
+"a99bb64696661663889cbdd6065a291d944b44ea47bc54fdd5408277a2b22abc";"1,4878E+12";9;"high";20;2;0;"possibly";9103;"English";"N/A";10;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";1;"low";82;8;2;"probablyNot";14338;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";2;"none";107;10;7;"probably";10262;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";3;"high";43;4;3;"possibly";8931;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";4;"low";88;8;8;"probably";8598;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";5;"none";105;10;5;"possibly";7147;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";6;"none";108;10;8;"probably";6753;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";7;"high";42;4;2;"possibly";9254;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";8;"high";41;4;1;"probablyNot";5832;"English";"no";8;0
+"87d33ef73c2f2d2d40003821ad8932a61a1c03d91e192b532b022297db784df9";"1,48786E+12";9;"low";80;8;0;"probablyNot";4700;"English";"no";8;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";1;"high";43;4;3;"possibly";6909;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";2;"low";88;8;8;"probably";6170;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";3;"low";82;8;2;"probablyNot";5435;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";4;"high";42;4;2;"possibly";3751;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";5;"low";80;8;0;"probablyNot";4937;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";6;"none";105;10;5;"possibly";3235;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";7;"none";108;10;8;"probably";3406;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";8;"none";107;10;7;"probably";3230;"english";NA;10;0
+"2dc44a6f78cd7153f6d39740a80cfe8e4ffba54b154537a56972895f45df5ab3";"1,4878E+12";9;"high";20;2;0;"possibly";4153;"english";NA;10;0
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";1;"high";42;4;2;"possibly";11081;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";2;"none";108;10;8;"probably";6979;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";3;"low";84;8;4;"possibly";6379;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";4;"none";105;10;5;"possibly";5651;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";5;"high";22;2;2;"possibly";6155;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";6;"low";82;8;2;"probablyNot";5564;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";7;"low";88;8;8;"probably";6057;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";8;"high";41;4;1;"possibly";5261;"English";NA;8;1
+"8ee0bce305eed762623cd3e6006dfd180ffa6c7728a1dc293ab908ad48b68b72";"1,4878E+12";9;"none";102;10;2;"probablyNot";5837;"English";NA;8;1
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";1;"high";41;4;1;"possibly";16628;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";2;"none";102;10;2;"certainlyNot";11358;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";3;"low";86;8;6;"probablyNot";21970;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";4;"high";22;2;2;"possibly";9323;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";5;"low";88;8;8;"probablyNot";11205;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";6;"high";20;2;0;"possibly";7226;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";7;"none";105;10;5;"certainlyNot";14359;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";8;"low";84;8;4;"possibly";16828;"english";NA;9;5
+"dc8936fc9f85809aac52f4c5e48ed7d29e89376fb34d16d0985a38d332018dbd";"1,4878E+12";9;"none";108;10;8;"certainlyNot";12001;"english";NA;9;5
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";1;"high";22;2;2;"probably";7123;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";2;"none";103;10;3;"probably";3063;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";3;"high";42;4;2;"possibly";6230;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";4;"none";108;10;8;"certainly";3767;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";5;"high";20;2;0;"probablyNot";5908;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";6;"low";86;8;6;"probably";6429;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";7;"low";84;8;4;"possibly";9663;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";8;"none";107;10;7;"certainly";4216;"English";NA;2;0
+"f3e88744c2f3b81724b643e5f23ce8db2ab2d9b9bb2cb5b8087b91ec1dc997b6";"1,48781E+12";9;"low";82;8;2;"probablyNot";4023;"English";NA;2;0
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";1;"low";88;8;8;"probably";23715;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";2;"high";20;2;0;"probablyNot";15037;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";3;"low";84;8;4;"possibly";10064;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";4;"none";108;10;8;"probably";14702;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";5;"none";107;10;7;"probably";10126;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";6;"high";22;2;2;"possibly";6559;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";7;"low";82;8;2;"probablyNot";8023;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";8;"high";43;4;3;"possibly";9527;"English";"Thank you!";9;1
+"ac8bfa2771096d3776ae575c01730defd45063aca3ee335154a678226456f582";"1,4878E+12";9;"none";105;10;5;"possibly";10239;"English";"Thank you!";9;1
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";1;"none";108;10;8;"probably";12396;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";2;"none";105;10;5;"possibly";8587;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";3;"none";102;10;2;"probablyNot";7366;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";4;"high";22;2;2;"possibly";6951;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";5;"high";41;4;1;"probablyNot";11284;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";6;"low";82;8;2;"probablyNot";5637;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";7;"low";88;8;8;"certainly";4022;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";8;"low";84;8;4;"possibly";6085;"english";NA;8;2
+"fd96bbbe9955e2ddbf47187b1f71d62945773962b225921e54be7c090f7aaf51";"1,4878E+12";9;"high";20;2;0;"possibly";5835;"english";NA;8;2
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";1;"low";84;8;4;"possibly";12468;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";2;"high";22;2;2;"probably";5613;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";3;"high";42;4;2;"possibly";7275;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";4;"none";102;10;2;"probablyNot";7657;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";5;"low";88;8;8;"certainly";3611;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";6;"none";108;10;8;"probably";4900;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";7;"none";103;10;3;"probablyNot";4541;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";8;"high";43;4;3;"probably";3852;"english";"was fun";8;3
+"e068bf45f86879112d4639f95a53ad1eacd5a3f465024e59c10b9063df0fe0e5";"1,4878E+12";9;"low";80;8;0;"certainlyNot";11633;"english";"was fun";8;3
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";1;"none";103;10;3;"probablyNot";13305;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";2;"none";102;10;2;"probablyNot";13471;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";3;"high";43;4;3;"possibly";11857;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";4;"high";22;2;2;"probably";9782;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";5;"low";80;8;0;"certainlyNot";3614;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";6;"high";20;2;0;"probablyNot";6358;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";7;"low";88;8;8;"certainly";7038;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";8;"none";108;10;8;"probably";5246;"English";"none";5;1
+"55abbe9e9d2868a460eb3e0d280713912a076afacf677333b57ab77d8c622e05";"1,4878E+12";9;"low";82;8;2;"probablyNot";6566;"English";"none";5;1
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";1;"high";43;4;3;"probably";8792;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";2;"low";82;8;2;"probablyNot";4556;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";3;"none";102;10;2;"probablyNot";4200;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";4;"low";80;8;0;"probablyNot";6440;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";5;"none";108;10;8;"probably";11363;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";6;"high";22;2;2;"possibly";4903;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";7;"low";86;8;6;"probably";6566;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";8;"none";103;10;3;"probablyNot";4448;"English";"Thanks";10;0
+"8203fd0f9bd5136443baa6bea23626ed68cd6892e65f38e90318223e1fc54755";"1,4878E+12";9;"high";42;4;2;"possibly";6256;"English";"Thanks";10;0
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";1;"none";108;10;8;"probably";13195;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";2;"low";86;8;6;"possibly";55197;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";3;"high";20;2;0;"probablyNot";7175;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";4;"high";22;2;2;"possibly";3251;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";5;"low";84;8;4;"possibly";4859;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";6;"high";42;4;2;"possibly";2707;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";7;"none";103;10;3;"probablyNot";4063;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";8;"low";88;8;8;"certainly";4755;"English";"No comment.";5;5
+"b42db163386d22c173965fb5d3689ce45e0d271a870f0bd36a2ebd0c9e7020ef";"1,4878E+12";9;"none";105;10;5;"possibly";3777;"English";"No comment.";5;5
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";1;"low";88;8;8;"probably";14722;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";2;"low";82;8;2;"probablyNot";8473;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";3;"none";103;10;3;"possibly";13131;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";4;"low";80;8;0;"probably";6588;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";5;"high";20;2;0;"probablyNot";9883;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";6;"none";105;10;5;"probably";6656;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";7;"high";41;4;1;"probablyNot";88438;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";8;"none";107;10;7;"probably";7173;"English";"Everything worked fine. Thank you!";7;0
+"457b8ef5159e109df5b2b0e241513931830285bc1b0012a214350ee5f36375ad";"1,4878E+12";9;"high";42;4;2;"possibly";15219;"English";"Everything worked fine. Thank you!";7;0
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";1;"high";42;4;2;"possibly";193758;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";2;"high";20;2;0;"probablyNot";2732;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";3;"high";41;4;1;"probably";1425;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";4;"none";107;10;7;"certainlyNot";1246;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";5;"low";80;8;0;"probablyNot";1586;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";6;"low";84;8;4;"possibly";1366;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";7;"none";103;10;3;"probablyNot";1547;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";8;"none";102;10;2;"possibly";2230;"English";NA;10;5
+"a3a04cad003c411032669b339d812ce3df8f69e441fa4c1d99d5be1455d3ab71";"1,48781E+12";9;"low";82;8;2;"probablyNot";3736;"English";NA;10;5
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";1;"low";82;8;2;"probablyNot";7268;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";2;"high";42;4;2;"probablyNot";4715;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";3;"none";105;10;5;"possibly";6539;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";4;"high";22;2;2;"possibly";3985;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";5;"low";86;8;6;"probably";4175;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";6;"none";108;10;8;"probably";3663;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";7;"high";20;2;0;"possibly";4945;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";8;"low";80;8;0;"probablyNot";3468;"English";NA;5;1
+"64b9a5355070e8590fa59e0e5594d7d84361ca838ecd872f0b7239000ee681c9";"1,4878E+12";9;"none";103;10;3;"possibly";4166;"English";NA;5;1
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";1;"low";80;8;0;"certainlyNot";18453;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";2;"high";22;2;2;"possibly";16087;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";3;"low";84;8;4;"probably";13597;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";4;"none";105;10;5;"possibly";11599;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";5;"high";41;4;1;"probablyNot";7741;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";6;"none";103;10;3;"certainlyNot";8457;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";7;"none";108;10;8;"certainly";3283;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";8;"high";20;2;0;"possibly";6708;"English";NA;9;2
+"b7da1b51e876fadf8af744b72454a0c1513ddd624ca2958e58f1d9a188c88416";"1,48788E+12";9;"low";86;8;6;"probably";7662;"English";NA;9;2
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";1;"high";43;4;3;"possibly";12766;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";2;"none";107;10;7;"probably";8557;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";3;"low";82;8;2;"probablyNot";12269;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";4;"high";41;4;1;"certainly";10954;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";5;"none";105;10;5;"possibly";7370;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";6;"low";80;8;0;"certainlyNot";7062;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";7;"low";88;8;8;"probably";6081;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";8;"none";102;10;2;"probably";5460;"english";NA;8;5
+"1a28d490a67c9c3c5f06e5f51ff8724551abf7d389fbafb848d9bb7f114c9cdb";"1,48781E+12";9;"high";42;4;2;"possibly";4102;"english";NA;8;5
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";1;"high";43;4;3;"probably";15326;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";2;"none";107;10;7;"probably";4185;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";3;"none";102;10;2;"probablyNot";5921;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";4;"none";105;10;5;"possibly";10139;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";5;"high";20;2;0;"possibly";9597;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";6;"low";86;8;6;"probably";11446;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";7;"low";80;8;0;"probablyNot";8596;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";8;"low";88;8;8;"probably";4828;"Ukrainian";NA;8;3
+"5d22ae5f900e44bf210200dfe9bc9dc2fe75c5a34d052c0ba1431e99ba1947c5";"1,48782E+12";9;"high";42;4;2;"possibly";4743;"Ukrainian";NA;8;3
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";1;"none";107;10;7;"probably";33271;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";2;"none";105;10;5;"probably";14220;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";3;"high";43;4;3;"probably";12470;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";4;"low";84;8;4;"possibly";8746;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";5;"high";42;4;2;"possibly";8402;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";6;"none";102;10;2;"probablyNot";6519;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";7;"high";41;4;1;"probablyNot";8923;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";8;"low";80;8;0;"certainlyNot";10871;"english";NA;10;8
+"7b5201aee2fa1898ecae22b93d87f7d36581cd45608651ca7bba07ee36ee0188";"1,4878E+12";9;"low";82;8;2;"probablyNot";6970;"english";NA;10;8
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";1;"low";88;8;8;"probably";17769;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";2;"none";108;10;8;"probably";13090;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";3;"low";80;8;0;"probablyNot";5967;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";4;"none";105;10;5;"possibly";8376;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";5;"low";82;8;2;"probablyNot";8846;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";6;"high";43;4;3;"possibly";16857;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";7;"none";103;10;3;"probablyNot";8335;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";8;"high";22;2;2;"possibly";8572;"English";NA;10;0
+"c4bd15d275af63054757c055394c73e1d37e4e283166188baf909b139bf00fb8";"1,4878E+12";9;"high";41;4;1;"possibly";5120;"English";NA;10;0
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";1;"none";105;10;5;"certainly";16920;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";2;"low";88;8;8;"certainly";7180;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";3;"high";41;4;1;"certainlyNot";4522;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";4;"low";82;8;2;"possibly";4760;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";5;"high";20;2;0;"probablyNot";4546;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";6;"none";103;10;3;"probably";4301;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";7;"none";102;10;2;"probablyNot";2959;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";8;"high";42;4;2;"probablyNot";2664;"english";NA;3;2
+"aaa5dd020158806802f414e4f8368adf6b0cdfbe06284bf1d09f65ca48c546ab";"1,48788E+12";9;"low";86;8;6;"probably";3093;"english";NA;3;2
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";1;"none";103;10;3;"probablyNot";17515;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";2;"high";42;4;2;"possibly";17488;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";3;"none";105;10;5;"possibly";17122;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";4;"low";84;8;4;"possibly";16610;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";5;"low";82;8;2;"probablyNot";8960;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";6;"low";80;8;0;"probablyNot";13189;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";7;"high";20;2;0;"possibly";5833;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";8;"none";108;10;8;"probably";10600;"english";NA;7;1
+"08c9005a30aea576f73893c22584fa019272200767c1b2d00586b7a581cd30a9";"1,4878E+12";9;"high";43;4;3;"possibly";5687;"english";NA;7;1
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";1;"low";88;8;8;"certainly";14413;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";2;"low";80;8;0;"certainlyNot";15486;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";3;"high";42;4;2;"possibly";11169;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";4;"none";105;10;5;"possibly";12209;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";5;"none";102;10;2;"probablyNot";20322;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";6;"none";103;10;3;"probablyNot";15678;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";7;"high";22;2;2;"possibly";12864;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";8;"high";41;4;1;"possibly";13857;"english";NA;5;0
+"4d6befbd512c6fbad58afe1d88e768c478dda2d76cefb74205ec187b59105362";"1,4878E+12";9;"low";82;8;2;"probablyNot";8324;"english";NA;5;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";1;"none";107;10;7;"probably";5199;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";2;"high";20;2;0;"possibly";7434;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";3;"none";102;10;2;"probablyNot";4570;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";4;"low";88;8;8;"certainly";3503;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";5;"high";22;2;2;"possibly";3816;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";6;"none";103;10;3;"possibly";4616;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";7;"low";84;8;4;"possibly";3631;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";8;"high";42;4;2;"possibly";2552;"English";NA;9;0
+"994c1194d4fcc93a3cafe6b834a1ccfa8ba12598de4de66d57b661a52699d007";"1,4878E+12";9;"low";80;8;0;"certainlyNot";5732;"English";NA;9;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";1;"low";88;8;8;"probably";10068;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";2;"high";41;4;1;"probablyNot";12670;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";3;"none";108;10;8;"probably";4814;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";4;"none";102;10;2;"probablyNot";8573;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";5;"high";43;4;3;"possibly";3822;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";6;"low";80;8;0;"certainlyNot";3470;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";7;"low";82;8;2;"probablyNot";2900;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";8;"none";107;10;7;"probably";2533;"english";NA;5;0
+"ad22990d4f8d5ac57f674562e38f6ce4586a4f28d3861ebaeecfcd2db122b428";"1,48782E+12";9;"high";42;4;2;"possibly";3559;"english";NA;5;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";1;"high";43;4;3;"probably";10387;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";2;"high";22;2;2;"probably";3376;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";3;"none";103;10;3;"probablyNot";5753;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";4;"none";102;10;2;"probablyNot";5652;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";5;"high";20;2;0;"probablyNot";6229;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";6;"low";82;8;2;"probablyNot";6919;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";7;"low";84;8;4;"possibly";5236;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";8;"low";86;8;6;"possibly";3604;"Russian";NA;8;0
+"17c1004d0af89f9315f5dbd86398ab039ca97796571c85ebe8633c602d397c10";"1,48783E+12";9;"none";108;10;8;"probably";3027;"Russian";NA;8;0
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";1;"high";22;2;2;"possibly";17102;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";2;"high";43;4;3;"possibly";12864;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";3;"low";84;8;4;"possibly";10885;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";4;"none";107;10;7;"probably";13267;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";5;"high";42;4;2;"possibly";6048;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";6;"low";82;8;2;"probablyNot";11469;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";7;"none";102;10;2;"probablyNot";8116;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";8;"none";103;10;3;"probablyNot";12717;"English";"None.";9;2
+"50212d2dfc40704e4598f401e43ef71f17859bbf059e75d37f445d93954f4ef5";"1,4878E+12";9;"low";88;8;8;"probably";8931;"English";"None.";9;2
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";1;"high";22;2;2;"probablyNot";11225;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";2;"low";80;8;0;"certainly";24829;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";3;"high";20;2;0;"probablyNot";3017;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";4;"low";88;8;8;"probably";2631;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";5;"high";42;4;2;"possibly";3074;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";6;"none";105;10;5;"possibly";5422;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";7;"none";103;10;3;"probablyNot";60320;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";8;"none";108;10;8;"probably";2639;"english";"it was original";9;1
+"f6ed49aeae7f69ed8d50e192d2d1525b04c9c5579bb2d61e2076eeb52dfae69d";"1,48782E+12";9;"low";86;8;6;"probably";2423;"english";"it was original";9;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";1;"low";86;8;6;"probably";18021;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";2;"high";42;4;2;"possibly";9318;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";3;"none";102;10;2;"probablyNot";9063;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";4;"high";20;2;0;"possibly";6852;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";5;"high";43;4;3;"possibly";10191;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";6;"low";88;8;8;"probably";7204;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";7;"low";82;8;2;"probablyNot";16946;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";8;"none";105;10;5;"possibly";27125;"English";"Fun thank you.";8;1
+"7f3c60402af35ea49c70c6d18ffceb0df2d6aa6f0a232a0ded08794b94fa3c80";"1,48789E+12";9;"none";107;10;7;"probably";25017;"English";"Fun thank you.";8;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";1;"none";103;10;3;"possibly";13414;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";2;"low";86;8;6;"probably";6909;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";3;"none";102;10;2;"possibly";5071;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";4;"low";82;8;2;"probablyNot";15048;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";5;"none";105;10;5;"possibly";6038;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";6;"high";20;2;0;"certainlyNot";4556;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";7;"high";43;4;3;"possibly";5386;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";8;"high";42;4;2;"probablyNot";3823;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1
+"e13e01f3ca9417f874ce86348fb5cce0521192579ccb987711c56de04cd78d4f";"1,48781E+12";9;"low";84;8;4;"possibly";4171;"English";"Thank you for this opportunity to participate in your survey. Good luck with your research. ";10;1

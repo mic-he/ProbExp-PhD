@@ -1,6 +1,6 @@
 # Investigating the Language of Uncertainty
 
-Public repository for my PhD dissertation (🚧 work in progress 🚧). It contains:
+Public repository for my PhD dissertation (submitted!). It contains:
 
 - Experiments: psiTurk (HTML+JS) implementations of four experimental studies run on Amazon's Mechanical Turk.
 
